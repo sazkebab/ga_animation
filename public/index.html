@@ -1,0 +1,108 @@
+<!-- views/pages/index.ejs -->
+
+<!DOCTYPE html>
+<head>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    var $ = jQuery;
+</script>
+<script type="text/javascript">
+    var sessionsData, devicesData, locationsData, sessionsChart, devicesChart, locationsChart, devicesOptions, sessionsOptions, locationsOptions,timer;
+    var counter = 0;
+    var revenue = 0;
+    var intervalRev = 1000;
+    var benchRev = intervalRev;
+    var locationsChart
+  $.get('/getOptions', function(opt) {
+    sessionsOptions = opt[0];
+    locationsOptions = opt[1];
+    devicesOptions = opt[2];
+ } ); 
+</script>
+ 
+</head>
+<body>
+    <div id="sessions"></div>
+    <div id="revCounter">test</div>
+    <div id="devices"></div>
+    <div id="location"></div>
+</body>
+<!-- Identify where the chart should be drawn. -->
+  
+
+  
+  
+<script type="text/javascript">
+    var sessionsDiv = document.getElementById('sessions');
+    var devicesDiv = document.getElementById('devices');
+    var locationDiv = document.getElementById('location');
+    //var bg = new Audio('/resources/background.wav');
+    //var revSound = new Audio('/resources/mario_coin_sound.mp3');
+    //bg.loop = true;
+    google.charts.load('current', {'packages':['line', 'corechart', 'geochart' ], 'mapsApiKey':'AIzaSyBI6OEHmt9NwdFIqIsczOKwIl0i3vgOeSY'});
+    google.charts.setOnLoadCallback(setupChart);
+    
+    function setupChart() {
+        sessionsData = new google.visualization.DataTable();
+        sessionsData.addColumn('number', 'Minute');
+        sessionsData.addColumn('number', "Sessions");
+        
+        
+        sessionsChart = new google.visualization.LineChart(sessionsDiv);
+        devicesChart = new google.visualization.PieChart(devicesDiv);
+        locationsChart = new google.visualization.GeoChart(locationDiv);
+        timer = setInterval(drawChart, 1000);
+    }
+    function drawChart() {
+        $.get('/getNewData',{'counter': counter}, function(jsonObj) {
+            counter++;
+            count = jsonObj.counter;
+            sd = jsonObj.sessions;
+            var max = jsonObj.max;
+            var min = jsonObj.min;
+            revenue += parseInt(jsonObj.revenue);
+            $("#revCounter").html("$"+revenue);
+            /*if(revenue > benchRev){
+                benchRev += intervalRev;
+                //revSound = new Audio('/resources/mario_coin_sound.mp3');
+                //revSound.play();
+            }*/
+            jsonObj.devices.unshift(['Device', 'Sessions']);
+            devicesData = google.visualization.arrayToDataTable(jsonObj.devices);
+            devicesChart.draw(devicesData, devicesOptions);
+            
+            jsonObj.locations.unshift(['State', 'Sessions']);
+            locationsData = google.visualization.arrayToDataTable(jsonObj.locations);
+            //console.log(jsonObj.locations)
+            locationsChart.draw(locationsData, locationsOptions);
+               // bg.pause();
+                //clearInterval(timer);
+            
+            if (count==1){
+                sessionsData.addRow(jsonObj.sessions);
+                //setVolume(sessionsData[1], min, max);
+                sessionsChart.draw(sessionsData, sessionsOptions);
+                //bg.play();
+            }else if(jsonObj.sessions == null){
+               // bg.pause();
+                clearInterval(timer);
+            }else{
+                
+                sessionsData.insertRows(sessionsData.getNumberOfRows(),[jsonObj.sessions]);
+               // setVolume(sessionsData[1], min, max);
+                count++;
+                sessionsChart.draw(sessionsData, sessionsOptions);
+            }
+        });
+    }       
+    
+  function setVolume(num, minNum, maxNum){
+      bg.volume = (num-minNum)/(maxNum-minNum);
+      revSound.volume = (num-minNum)/(maxNum-minNum);
+  }
+  
+  
+</script>
+</html>
+

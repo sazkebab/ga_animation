@@ -1,0 +1,5007 @@
+# ----------------------------------------
+# redballoon.com.au (Office Excluded)
+# New Custom Report
+# 20171211-20171211
+# ----------------------------------------
+
+Minute Index,Device Category,Region,Sessions,Revenue
+000936,desktop,New South Wales,18,A$368.00
+000936,desktop,Queensland,2,A$0.00
+000936,desktop,South Australia,1,A$0.00
+000936,desktop,Victoria,12,A$39.20
+000936,desktop,Western Australia,2,A$0.00
+000936,desktop,Wisconsin,1,A$0.00
+000936,mobile,New South Wales,12,A$0.00
+000936,mobile,Queensland,5,A$0.00
+000936,mobile,South Australia,2,A$0.00
+000936,mobile,Victoria,10,A$0.00
+000936,mobile,Western Australia,3,A$0.00
+000936,mobile,Virginia,1,A$0.00
+000936,tablet,New South Wales,1,A$0.00
+000936,tablet,Victoria,3,A$0.00
+000936,tablet,Western Australia,1,A$0.00
+000937,desktop,(not set),1,A$0.00
+000937,desktop,New South Wales,7,A$80.00
+000937,desktop,Queensland,3,A$0.00
+000937,desktop,Victoria,9,A$120.00
+000937,desktop,Western Australia,2,A$0.00
+000937,desktop,Auckland,1,A$0.00
+000937,mobile,New South Wales,6,A$125.00
+000937,mobile,Queensland,6,A$0.00
+000937,mobile,South Australia,1,A$0.00
+000937,mobile,Victoria,6,A$0.00
+000937,mobile,Auckland,1,A$0.00
+000937,tablet,Victoria,1,A$0.00
+000937,tablet,Western Australia,1,A$0.00
+000938,desktop,Australian Capital Territory,1,A$0.00
+000938,desktop,New South Wales,19,A$772.27
+000938,desktop,Queensland,4,A$0.00
+000938,desktop,South Australia,1,A$0.00
+000938,desktop,Victoria,4,A$695.00
+000938,desktop,Western Australia,4,A$0.00
+000938,desktop,Jakarta,1,A$0.00
+000938,desktop,Haryana,1,A$0.00
+000938,mobile,New South Wales,5,A$0.00
+000938,mobile,Queensland,4,A$0.00
+000938,mobile,South Australia,1,A$0.00
+000938,mobile,Tasmania,1,A$0.00
+000938,mobile,Victoria,11,A$51.50
+000938,mobile,Western Australia,2,A$0.00
+000938,mobile,California,1,A$0.00
+000938,tablet,New South Wales,5,A$0.00
+000938,tablet,Victoria,1,A$0.00
+000939,desktop,New South Wales,11,A$0.00
+000939,desktop,Queensland,6,A$171.00
+000939,desktop,Victoria,11,A$0.00
+000939,desktop,Western Australia,2,A$0.00
+000939,mobile,New South Wales,10,A$0.00
+000939,mobile,Queensland,6,A$328.00
+000939,mobile,South Australia,2,A$0.00
+000939,mobile,Victoria,6,A$148.00
+000939,mobile,Western Australia,1,A$0.00
+000939,mobile,Delhi,1,A$0.00
+000939,tablet,Australian Capital Territory,1,A$0.00
+000939,tablet,New South Wales,3,A$0.00
+000939,tablet,Victoria,1,A$0.00
+000939,tablet,Western Australia,1,A$0.00
+000939,tablet,Auckland,1,A$0.00
+000940,desktop,New South Wales,6,A$0.00
+000940,desktop,Queensland,6,A$0.00
+000940,desktop,South Australia,2,A$0.00
+000940,desktop,Victoria,14,A$0.00
+000940,desktop,Western Australia,1,A$0.00
+000940,desktop,British Columbia,1,A$0.00
+000940,desktop,Northland,1,A$0.00
+000940,desktop,Hanoi,2,A$0.00
+000940,mobile,New South Wales,9,A$0.00
+000940,mobile,Queensland,4,A$0.00
+000940,mobile,South Australia,3,A$0.00
+000940,mobile,Victoria,12,A$0.00
+000940,mobile,Western Australia,2,A$0.00
+000940,mobile,Northland,1,A$0.00
+000940,tablet,(not set),1,A$0.00
+000940,tablet,New South Wales,1,A$120.00
+000940,tablet,Queensland,1,A$0.00
+000940,tablet,Victoria,2,A$0.00
+000941,desktop,(not set),1,A$0.00
+000941,desktop,New South Wales,13,A$84.00
+000941,desktop,Queensland,11,A$250.00
+000941,desktop,South Australia,1,A$0.00
+000941,desktop,Victoria,10,A$0.00
+000941,desktop,Western Australia,3,A$0.00
+000941,desktop,South Dakota,1,A$0.00
+000941,mobile,New South Wales,14,A$0.00
+000941,mobile,Queensland,5,A$0.00
+000941,mobile,South Australia,2,A$0.00
+000941,mobile,Victoria,7,A$0.00
+000941,mobile,Western Australia,2,A$0.00
+000941,mobile,Auckland,1,A$0.00
+000941,mobile,Nelson,2,A$0.00
+000941,tablet,New South Wales,1,A$0.00
+000941,tablet,South Australia,1,A$0.00
+000941,tablet,Victoria,1,A$0.00
+000942,desktop,New South Wales,15,A$500.00
+000942,desktop,Queensland,3,A$0.00
+000942,desktop,Victoria,9,A$0.00
+000942,desktop,Western Australia,4,A$0.00
+000942,desktop,Auckland,1,A$0.00
+000942,desktop,Manawatu-Wanganui,1,A$0.00
+000942,mobile,New South Wales,9,A$0.00
+000942,mobile,Queensland,3,A$0.00
+000942,mobile,South Australia,1,A$0.00
+000942,mobile,Victoria,6,A$0.00
+000942,mobile,Osaka Prefecture,1,A$0.00
+000942,tablet,New South Wales,2,A$0.00
+000942,tablet,Victoria,2,A$0.00
+000943,desktop,(not set),1,A$0.00
+000943,desktop,New South Wales,11,A$99.00
+000943,desktop,Queensland,8,A$0.00
+000943,desktop,South Australia,2,A$0.00
+000943,desktop,Victoria,11,A$0.00
+000943,desktop,Western Australia,3,A$306.00
+000943,mobile,New South Wales,10,A$0.00
+000943,mobile,Queensland,1,A$0.00
+000943,mobile,South Australia,1,A$0.00
+000943,mobile,Victoria,8,A$0.00
+000943,mobile,Western Australia,2,A$0.00
+000943,mobile,Auckland,1,A$0.00
+000943,mobile,California,1,A$0.00
+000943,tablet,New South Wales,2,A$0.00
+000943,tablet,Queensland,2,A$0.00
+000943,tablet,Victoria,2,A$0.00
+000944,desktop,New South Wales,8,A$195.00
+000944,desktop,Queensland,3,A$176.00
+000944,desktop,South Australia,1,A$0.00
+000944,desktop,Victoria,11,A$241.83
+000944,desktop,Western Australia,1,A$0.00
+000944,mobile,(not set),1,A$0.00
+000944,mobile,New South Wales,6,A$0.00
+000944,mobile,Victoria,5,A$0.00
+000944,mobile,Western Australia,1,A$0.00
+000944,mobile,Texas,1,A$0.00
+000944,tablet,New South Wales,1,A$0.00
+000944,tablet,Queensland,1,A$0.00
+000944,tablet,South Australia,1,A$0.00
+000944,tablet,Victoria,1,A$0.00
+000945,desktop,Australian Capital Territory,1,A$0.00
+000945,desktop,New South Wales,13,A$398.00
+000945,desktop,Queensland,7,A$0.00
+000945,desktop,South Australia,1,A$0.00
+000945,desktop,Tasmania,2,A$0.00
+000945,desktop,Victoria,10,A$96.00
+000945,desktop,Western Australia,4,A$71.40
+000945,mobile,New South Wales,9,A$0.00
+000945,mobile,Queensland,3,A$0.00
+000945,mobile,Victoria,5,A$0.00
+000945,mobile,Western Australia,2,A$0.00
+000945,tablet,New South Wales,1,A$0.00
+000945,tablet,Queensland,1,A$0.00
+000945,tablet,South Australia,1,A$0.00
+000946,desktop,(not set),1,A$0.00
+000946,desktop,Australian Capital Territory,1,A$0.00
+000946,desktop,New South Wales,12,A$0.00
+000946,desktop,Northern Territory,1,A$0.00
+000946,desktop,Queensland,3,A$0.00
+000946,desktop,Victoria,14,A$467.00
+000946,desktop,Western Australia,1,A$0.00
+000946,desktop,Special Region of Yogyakarta,1,A$0.00
+000946,desktop,Federal Territory of Kuala Lumpur,1,A$0.00
+000946,mobile,New South Wales,14,A$250.00
+000946,mobile,Queensland,4,A$0.00
+000946,mobile,Victoria,11,A$0.00
+000946,mobile,Western Australia,1,A$0.00
+000946,tablet,New South Wales,1,A$0.00
+000946,tablet,Queensland,1,A$84.00
+000946,tablet,Western Australia,1,A$0.00
+000947,desktop,(not set),1,A$0.00
+000947,desktop,New South Wales,8,A$0.00
+000947,desktop,Queensland,1,A$0.00
+000947,desktop,South Australia,2,A$0.00
+000947,desktop,Victoria,14,A$0.00
+000947,desktop,Western Australia,2,A$0.00
+000947,mobile,New South Wales,10,A$0.00
+000947,mobile,Queensland,2,A$0.00
+000947,mobile,Victoria,12,A$299.00
+000947,mobile,Western Australia,2,A$0.00
+000947,mobile,Bay Of Plenty,1,A$0.00
+000947,tablet,New South Wales,1,A$0.00
+000948,desktop,Australian Capital Territory,1,A$0.00
+000948,desktop,New South Wales,14,A$159.00
+000948,desktop,Queensland,5,A$0.00
+000948,desktop,Victoria,12,A$0.00
+000948,desktop,Western Australia,3,A$99.00
+000948,desktop,Virginia,1,A$0.00
+000948,desktop,Taipei City,5,A$0.00
+000948,mobile,New South Wales,6,A$0.00
+000948,mobile,Queensland,2,A$0.00
+000948,mobile,South Australia,1,A$0.00
+000948,mobile,Victoria,10,A$0.00
+000948,mobile,Alberta,1,A$0.00
+000948,mobile,Virginia,1,A$0.00
+000948,tablet,(not set),2,A$0.00
+000948,tablet,New South Wales,1,A$0.00
+000948,tablet,Northern Territory,2,A$0.00
+000948,tablet,Victoria,3,A$0.00
+000949,desktop,New South Wales,17,A$125.00
+000949,desktop,Queensland,2,A$0.00
+000949,desktop,South Australia,1,A$0.00
+000949,desktop,Victoria,7,A$96.00
+000949,desktop,Western Australia,3,A$0.00
+000949,desktop,Berlin,1,A$0.00
+000949,desktop,Auckland,1,A$0.00
+000949,desktop,Washington,1,A$0.00
+000949,mobile,New South Wales,19,A$0.00
+000949,mobile,Queensland,3,A$0.00
+000949,mobile,South Australia,4,A$0.00
+000949,mobile,Victoria,11,A$0.00
+000949,mobile,Western Australia,4,A$0.00
+000949,mobile,Auckland,1,A$0.00
+000949,mobile,Rhode Island,1,A$0.00
+000949,tablet,Queensland,1,A$0.00
+000949,tablet,Victoria,1,A$0.00
+000950,desktop,New South Wales,8,A$0.00
+000950,desktop,Queensland,6,A$0.00
+000950,desktop,South Australia,1,A$0.00
+000950,desktop,Victoria,10,A$0.00
+000950,desktop,Western Australia,6,A$0.00
+000950,desktop,New Jersey,3,A$0.00
+000950,mobile,New South Wales,11,A$0.00
+000950,mobile,Queensland,5,A$0.00
+000950,mobile,South Australia,3,A$0.00
+000950,mobile,Victoria,8,A$0.00
+000950,mobile,Western Australia,2,A$0.00
+000950,mobile,Auckland,1,A$0.00
+000950,tablet,New South Wales,2,A$0.00
+000950,tablet,Victoria,3,A$0.00
+000951,desktop,New South Wales,6,A$0.00
+000951,desktop,Queensland,1,A$0.00
+000951,desktop,South Australia,2,A$0.00
+000951,desktop,Victoria,10,A$284.00
+000951,desktop,Western Australia,2,A$0.00
+000951,desktop,Virginia,1,A$0.00
+000951,mobile,(not set),1,A$0.00
+000951,mobile,New South Wales,9,A$0.00
+000951,mobile,Queensland,5,A$0.00
+000951,mobile,South Australia,1,A$0.00
+000951,mobile,Victoria,4,A$0.00
+000951,tablet,Australian Capital Territory,2,A$0.00
+000951,tablet,New South Wales,4,A$0.00
+000951,tablet,Victoria,6,A$0.00
+000951,tablet,Western Australia,1,A$0.00
+000952,desktop,Australian Capital Territory,2,A$0.00
+000952,desktop,New South Wales,10,A$0.00
+000952,desktop,Queensland,4,A$0.00
+000952,desktop,Victoria,4,A$0.00
+000952,desktop,Western Australia,2,A$262.00
+000952,desktop,Oregon,1,A$0.00
+000952,mobile,New South Wales,7,A$0.00
+000952,mobile,Queensland,5,A$0.00
+000952,mobile,South Australia,5,A$0.00
+000952,mobile,Victoria,6,A$255.00
+000952,mobile,Western Australia,2,A$0.00
+000952,tablet,New South Wales,4,A$0.00
+000952,tablet,Victoria,1,A$0.00
+000952,tablet,Texas,1,A$0.00
+000953,desktop,New South Wales,7,A$159.00
+000953,desktop,Queensland,1,A$0.00
+000953,desktop,South Australia,2,A$130.00
+000953,desktop,Victoria,7,A$0.00
+000953,desktop,Western Australia,2,A$0.00
+000953,desktop,Hesse,1,A$0.00
+000953,desktop,Gauteng,1,A$0.00
+000953,mobile,New South Wales,9,A$0.00
+000953,mobile,Queensland,4,A$0.00
+000953,mobile,South Australia,3,A$0.00
+000953,mobile,Victoria,8,A$0.00
+000953,mobile,Western Australia,4,A$0.00
+000953,mobile,Texas,1,A$0.00
+000953,mobile,Otago,1,A$0.00
+000953,tablet,New South Wales,1,A$104.00
+000953,tablet,Queensland,1,A$0.00
+000953,tablet,Victoria,2,A$0.00
+000954,desktop,(not set),2,A$0.00
+000954,desktop,New South Wales,14,A$0.00
+000954,desktop,Queensland,2,A$0.00
+000954,desktop,South Australia,1,A$0.00
+000954,desktop,Tasmania,1,A$0.00
+000954,desktop,Victoria,8,A$0.00
+000954,desktop,Western Australia,4,A$45.20
+000954,desktop,Bali,1,A$0.00
+000954,desktop,Taipei City,1,A$0.00
+000954,mobile,New South Wales,10,A$0.00
+000954,mobile,Queensland,5,A$0.00
+000954,mobile,Victoria,7,A$0.00
+000954,mobile,Western Australia,3,A$0.00
+000954,mobile,England,1,A$0.00
+000954,tablet,New South Wales,2,A$0.00
+000954,tablet,Queensland,1,A$0.00
+000954,tablet,South Australia,1,A$0.00
+000954,tablet,Victoria,2,A$146.00
+000954,tablet,Western Australia,1,A$0.00
+000954,tablet,Western Cape,1,A$0.00
+000955,desktop,New South Wales,10,A$95.00
+000955,desktop,Queensland,1,A$0.00
+000955,desktop,South Australia,1,A$0.00
+000955,desktop,Victoria,11,A$150.00
+000955,desktop,Western Australia,2,A$0.00
+000955,desktop,Virginia,1,A$0.00
+000955,mobile,New South Wales,7,A$0.00
+000955,mobile,Queensland,3,A$50.00
+000955,mobile,South Australia,1,A$0.00
+000955,mobile,Victoria,10,A$0.00
+000955,mobile,Western Australia,2,A$0.00
+000955,mobile,Ontario,1,A$0.00
+000955,mobile,North Dakota,1,A$0.00
+000955,tablet,New South Wales,3,A$0.00
+000955,tablet,Victoria,1,A$0.00
+000956,desktop,Australian Capital Territory,1,A$0.00
+000956,desktop,New South Wales,6,A$130.00
+000956,desktop,Queensland,4,A$0.00
+000956,desktop,South Australia,1,A$0.00
+000956,desktop,Victoria,12,A$192.49
+000956,desktop,Western Australia,1,A$136.00
+000956,desktop,Auckland,1,A$0.00
+000956,mobile,New South Wales,9,A$218.00
+000956,mobile,Queensland,1,A$0.00
+000956,mobile,Victoria,10,A$0.00
+000956,mobile,Western Australia,3,A$0.00
+000956,mobile,Auckland,1,A$0.00
+000956,tablet,New South Wales,4,A$0.00
+000956,tablet,Victoria,1,A$0.00
+000957,desktop,(not set),1,A$0.00
+000957,desktop,New South Wales,12,A$0.00
+000957,desktop,Queensland,3,A$0.00
+000957,desktop,South Australia,1,A$0.00
+000957,desktop,Tasmania,1,A$0.00
+000957,desktop,Victoria,13,A$0.00
+000957,desktop,Western Australia,3,A$0.00
+000957,desktop,California,1,A$0.00
+000957,desktop,Nelson,1,A$0.00
+000957,mobile,New South Wales,4,A$0.00
+000957,mobile,Queensland,6,A$0.00
+000957,mobile,South Australia,1,A$0.00
+000957,mobile,Tasmania,1,A$0.00
+000957,mobile,Victoria,10,A$0.00
+000957,mobile,Western Australia,2,A$0.00
+000958,desktop,(not set),1,A$150.04
+000958,desktop,Australian Capital Territory,1,A$0.00
+000958,desktop,New South Wales,13,A$0.00
+000958,desktop,Queensland,9,A$102.00
+000958,desktop,South Australia,1,A$70.00
+000958,desktop,Victoria,9,A$70.00
+000958,desktop,Western Australia,2,A$0.00
+000958,desktop,New Jersey,1,A$0.00
+000958,mobile,(not set),1,A$0.00
+000958,mobile,New South Wales,2,A$0.00
+000958,mobile,Queensland,7,A$0.00
+000958,mobile,South Australia,1,A$0.00
+000958,mobile,Victoria,9,A$0.00
+000958,mobile,Western Australia,4,A$0.00
+000958,mobile,New York,1,A$0.00
+000958,tablet,New South Wales,3,A$0.00
+000958,tablet,Victoria,1,A$0.00
+000958,tablet,New York,1,A$0.00
+000959,desktop,New South Wales,13,A$60.00
+000959,desktop,Queensland,2,A$0.00
+000959,desktop,Tasmania,2,A$0.00
+000959,desktop,Victoria,4,A$99.00
+000959,desktop,Western Australia,4,A$0.00
+000959,desktop,Delhi,1,A$0.00
+000959,mobile,New South Wales,8,A$0.00
+000959,mobile,Queensland,7,A$0.00
+000959,mobile,South Australia,2,A$0.00
+000959,mobile,Victoria,4,A$0.00
+000959,mobile,Western Australia,1,A$0.00
+000959,tablet,Queensland,2,A$0.00
+000959,tablet,Victoria,2,A$0.00
+000960,desktop,New South Wales,9,A$298.00
+000960,desktop,Queensland,5,A$0.00
+000960,desktop,South Australia,3,A$0.00
+000960,desktop,Tasmania,1,A$0.00
+000960,desktop,Victoria,9,A$0.00
+000960,desktop,Western Australia,4,A$0.00
+000960,desktop,Gujarat,1,A$0.00
+000960,desktop,Auckland,1,A$0.00
+000960,desktop,California,1,A$0.00
+000960,desktop,Georgia,1,A$0.00
+000960,mobile,New South Wales,9,A$0.00
+000960,mobile,Queensland,7,A$0.00
+000960,mobile,South Australia,4,A$0.00
+000960,mobile,Victoria,9,A$0.00
+000960,mobile,Western Australia,1,A$0.00
+000960,mobile,Florida,1,A$0.00
+000960,mobile,New York,1,A$0.00
+000960,tablet,New South Wales,2,A$0.00
+000960,tablet,Queensland,2,A$0.00
+000960,tablet,Victoria,3,A$0.00
+000961,desktop,New South Wales,9,A$198.00
+000961,desktop,Queensland,5,A$0.00
+000961,desktop,South Australia,1,A$0.00
+000961,desktop,Victoria,8,A$0.00
+000961,desktop,Western Australia,5,A$0.00
+000961,desktop,Washington,1,A$0.00
+000961,mobile,New South Wales,8,A$0.00
+000961,mobile,Queensland,6,A$0.00
+000961,mobile,Victoria,8,A$0.00
+000961,mobile,Western Australia,1,A$0.00
+000961,mobile,Telangana,1,A$0.00
+000961,tablet,New South Wales,1,A$0.00
+000961,tablet,Queensland,3,A$0.00
+000961,tablet,Victoria,4,A$0.00
+000962,desktop,(not set),1,A$0.00
+000962,desktop,Australian Capital Territory,1,A$0.00
+000962,desktop,New South Wales,13,A$0.00
+000962,desktop,Queensland,3,A$0.00
+000962,desktop,South Australia,2,A$0.00
+000962,desktop,Victoria,10,A$256.00
+000962,desktop,Western Australia,2,A$0.00
+000962,desktop,Virginia,1,A$0.00
+000962,desktop,Wellington,1,A$0.00
+000962,mobile,New South Wales,13,A$0.00
+000962,mobile,Queensland,5,A$0.00
+000962,mobile,South Australia,2,A$0.00
+000962,mobile,Victoria,9,A$0.00
+000962,mobile,Western Australia,4,A$0.00
+000962,mobile,Bay Of Plenty,1,A$0.00
+000962,mobile,Wellington,1,A$0.00
+000962,tablet,New South Wales,1,A$0.00
+000962,tablet,South Australia,1,A$0.00
+000962,tablet,Victoria,1,A$0.00
+000962,tablet,Western Australia,1,A$0.00
+000963,desktop,Australian Capital Territory,1,A$0.00
+000963,desktop,New South Wales,11,A$0.00
+000963,desktop,Queensland,2,A$0.00
+000963,desktop,South Australia,1,A$0.00
+000963,desktop,Victoria,11,"A$1,000.00"
+000963,desktop,Western Australia,1,A$0.00
+000963,mobile,New South Wales,8,A$0.00
+000963,mobile,Queensland,3,A$0.00
+000963,mobile,South Australia,4,A$169.00
+000963,mobile,Victoria,9,A$0.00
+000963,mobile,Western Australia,1,A$0.00
+000963,mobile,Ontario,1,A$0.00
+000963,mobile,Auckland,1,A$0.00
+000963,mobile,California,1,A$0.00
+000963,tablet,New South Wales,1,A$0.00
+000963,tablet,Queensland,1,A$0.00
+000963,tablet,Victoria,1,A$0.00
+000963,tablet,Ohio,1,A$0.00
+000964,desktop,New South Wales,12,A$0.00
+000964,desktop,Northern Territory,1,A$0.00
+000964,desktop,Queensland,1,A$0.00
+000964,desktop,South Australia,2,A$0.00
+000964,desktop,Victoria,8,A$600.00
+000964,desktop,Western Australia,3,A$0.00
+000964,mobile,New South Wales,9,A$0.00
+000964,mobile,Queensland,2,A$0.00
+000964,mobile,South Australia,1,A$0.00
+000964,mobile,Victoria,6,A$0.00
+000964,mobile,Western Australia,1,A$0.00
+000964,mobile,Zurich,2,A$0.00
+000964,mobile,Auckland,1,A$0.00
+000964,mobile,Texas,1,A$0.00
+000964,tablet,New South Wales,1,A$0.00
+000964,tablet,Queensland,2,A$0.00
+000964,tablet,Victoria,2,A$0.00
+000965,desktop,(not set),1,A$0.00
+000965,desktop,Australian Capital Territory,1,A$0.00
+000965,desktop,New South Wales,17,A$40.00
+000965,desktop,Queensland,4,A$290.00
+000965,desktop,Victoria,10,A$0.00
+000965,desktop,Western Australia,5,A$0.00
+000965,desktop,New Jersey,1,A$0.00
+000965,desktop,Virginia,1,A$0.00
+000965,mobile,New South Wales,8,A$0.00
+000965,mobile,South Australia,3,A$0.00
+000965,mobile,Victoria,11,A$0.00
+000965,mobile,Western Australia,2,A$0.00
+000965,tablet,New South Wales,1,A$0.00
+000965,tablet,Queensland,1,A$0.00
+000965,tablet,Victoria,5,A$0.00
+000965,tablet,California,1,A$0.00
+000966,desktop,Australian Capital Territory,0,A$49.64
+000966,desktop,New South Wales,11,A$200.00
+000966,desktop,Queensland,4,A$0.00
+000966,desktop,Victoria,11,A$0.00
+000966,desktop,Western Australia,1,A$0.00
+000966,desktop,Minnesota,1,A$0.00
+000966,mobile,New South Wales,9,A$0.00
+000966,mobile,South Australia,1,A$0.00
+000966,mobile,Victoria,11,A$0.00
+000966,mobile,Western Australia,6,A$0.00
+000966,tablet,New South Wales,3,A$0.00
+000966,tablet,South Australia,1,A$0.00
+000966,tablet,Victoria,2,A$0.00
+000967,desktop,Australian Capital Territory,2,A$0.00
+000967,desktop,New South Wales,12,A$529.30
+000967,desktop,Queensland,1,A$0.00
+000967,desktop,South Australia,1,A$0.00
+000967,desktop,Victoria,15,A$0.00
+000967,desktop,Western Australia,3,A$0.00
+000967,mobile,New South Wales,9,A$0.00
+000967,mobile,Queensland,5,A$0.00
+000967,mobile,South Australia,1,A$0.00
+000967,mobile,Victoria,9,A$40.00
+000967,mobile,Western Australia,1,A$0.00
+000967,mobile,Connecticut,2,A$0.00
+000967,mobile,Illinois,1,A$0.00
+000967,mobile,Port Louis District,1,A$0.00
+000967,tablet,Australian Capital Territory,2,A$0.00
+000967,tablet,New South Wales,1,A$0.00
+000967,tablet,Queensland,0,A$138.00
+000967,tablet,Victoria,1,A$158.00
+000967,tablet,Auckland,1,A$0.00
+000968,desktop,(not set),1,A$0.00
+000968,desktop,Australian Capital Territory,4,A$0.00
+000968,desktop,New South Wales,17,A$139.00
+000968,desktop,Queensland,3,A$0.00
+000968,desktop,Victoria,7,A$138.00
+000968,desktop,Western Australia,2,A$0.00
+000968,desktop,Auckland,2,A$0.00
+000968,desktop,Nevada,1,A$0.00
+000968,desktop,Virginia,1,A$0.00
+000968,mobile,New South Wales,8,A$0.00
+000968,mobile,Queensland,3,A$0.00
+000968,mobile,South Australia,1,A$0.00
+000968,mobile,Victoria,7,A$0.00
+000968,mobile,Auckland,1,A$0.00
+000968,tablet,New South Wales,1,A$0.00
+000968,tablet,Victoria,4,A$0.00
+000969,desktop,Australian Capital Territory,1,A$0.00
+000969,desktop,New South Wales,25,A$99.00
+000969,desktop,Victoria,11,A$165.00
+000969,desktop,Virginia,1,A$0.00
+000969,mobile,New South Wales,3,A$0.00
+000969,mobile,Victoria,14,A$0.00
+000969,mobile,Western Australia,6,A$0.00
+000969,mobile,Auckland,2,A$0.00
+000969,mobile,Uttarakhand,1,A$0.00
+000969,tablet,New South Wales,2,A$0.00
+000970,desktop,Australian Capital Territory,1,A$0.00
+000970,desktop,New South Wales,11,A$112.64
+000970,desktop,Queensland,4,A$0.00
+000970,desktop,South Australia,3,A$0.00
+000970,desktop,Victoria,3,A$713.00
+000970,desktop,Western Australia,1,A$0.00
+000970,desktop,Auckland,1,A$0.00
+000970,mobile,New South Wales,6,A$0.00
+000970,mobile,Queensland,6,A$0.00
+000970,mobile,Victoria,7,A$0.00
+000970,mobile,Western Australia,9,A$0.00
+000970,mobile,Auckland,1,A$0.00
+000970,tablet,New South Wales,3,A$0.00
+000970,tablet,Victoria,1,A$0.00
+000970,tablet,Western Australia,1,A$0.00
+000970,tablet,British Columbia,1,A$0.00
+000971,desktop,New South Wales,7,A$529.00
+000971,desktop,Queensland,2,A$0.00
+000971,desktop,South Australia,1,A$0.00
+000971,desktop,Victoria,8,A$78.00
+000971,desktop,Western Australia,3,A$0.00
+000971,desktop,British Columbia,1,A$0.00
+000971,desktop,Northern Ireland,1,A$0.00
+000971,desktop,Auckland,1,A$0.00
+000971,mobile,New South Wales,8,A$0.00
+000971,mobile,Queensland,3,A$0.00
+000971,mobile,Victoria,7,A$0.00
+000971,mobile,Western Australia,1,A$0.00
+000971,mobile,Bay Of Plenty,1,A$0.00
+000971,tablet,New South Wales,1,A$96.00
+000972,desktop,(not set),1,A$0.00
+000972,desktop,Australian Capital Territory,1,A$0.00
+000972,desktop,New South Wales,10,A$87.13
+000972,desktop,Queensland,1,A$0.00
+000972,desktop,Victoria,7,A$115.00
+000972,desktop,Western Australia,1,A$0.00
+000972,mobile,New South Wales,8,A$0.00
+000972,mobile,Victoria,5,A$0.00
+000972,mobile,Western Australia,3,A$0.00
+000972,tablet,New South Wales,4,A$0.00
+000972,tablet,Victoria,1,A$0.00
+000972,tablet,Western Australia,1,A$0.00
+000973,desktop,Australian Capital Territory,1,A$0.00
+000973,desktop,New South Wales,4,A$214.00
+000973,desktop,Queensland,6,A$150.00
+000973,desktop,South Australia,1,A$0.00
+000973,desktop,Victoria,10,A$0.00
+000973,desktop,Western Australia,1,A$0.00
+000973,desktop,Izmir,1,A$0.00
+000973,mobile,New South Wales,8,A$0.00
+000973,mobile,Queensland,4,A$0.00
+000973,mobile,Victoria,13,A$0.00
+000973,mobile,Western Australia,4,A$0.00
+000973,tablet,New South Wales,1,A$109.00
+000973,tablet,Victoria,3,A$0.00
+000973,tablet,Western Australia,1,A$0.00
+000974,desktop,New South Wales,8,A$0.00
+000974,desktop,Queensland,10,A$270.00
+000974,desktop,South Australia,3,A$0.00
+000974,desktop,Victoria,2,A$437.00
+000974,desktop,Western Australia,1,A$158.00
+000974,desktop,Tamil Nadu,1,A$0.00
+000974,desktop,Auckland,1,A$0.00
+000974,desktop,Waikato,1,A$0.00
+000974,mobile,New South Wales,11,A$0.00
+000974,mobile,Queensland,1,A$0.00
+000974,mobile,South Australia,1,A$0.00
+000974,mobile,Victoria,8,A$0.00
+000974,mobile,Western Australia,3,A$0.00
+000974,mobile,Canterbury,1,A$0.00
+000974,tablet,New South Wales,1,A$0.00
+000974,tablet,Victoria,2,A$0.00
+000974,tablet,Western Australia,2,A$0.00
+000975,desktop,(not set),1,A$0.00
+000975,desktop,Australian Capital Territory,1,A$0.00
+000975,desktop,New South Wales,11,A$658.52
+000975,desktop,Queensland,3,A$0.00
+000975,desktop,South Australia,1,A$0.00
+000975,desktop,Victoria,11,A$0.00
+000975,desktop,Western Australia,1,A$0.00
+000975,desktop,Otago,1,A$0.00
+000975,mobile,New South Wales,8,A$0.00
+000975,mobile,Queensland,4,A$0.00
+000975,mobile,South Australia,1,A$0.00
+000975,mobile,Victoria,11,A$0.00
+000975,mobile,Western Australia,2,A$0.00
+000975,mobile,Canterbury,1,A$0.00
+000975,mobile,Wellington,1,A$0.00
+000975,tablet,New South Wales,4,A$0.00
+000975,tablet,Victoria,1,A$0.00
+000976,desktop,(not set),1,A$0.00
+000976,desktop,Australian Capital Territory,1,A$0.00
+000976,desktop,New South Wales,13,A$736.00
+000976,desktop,Northern Territory,1,A$0.00
+000976,desktop,Queensland,1,A$0.00
+000976,desktop,Victoria,12,A$0.00
+000976,desktop,Western Australia,6,A$0.00
+000976,desktop,Ontario,1,A$0.00
+000976,desktop,Special Region of Yogyakarta,1,A$0.00
+000976,mobile,Australian Capital Territory,1,A$0.00
+000976,mobile,New South Wales,13,A$151.97
+000976,mobile,Queensland,3,A$0.00
+000976,mobile,Victoria,12,A$0.00
+000976,mobile,Western Australia,5,A$0.00
+000976,tablet,New South Wales,2,A$0.00
+000976,tablet,Queensland,1,A$0.00
+000976,tablet,South Australia,1,A$0.00
+000976,tablet,Victoria,7,A$0.00
+000977,desktop,New South Wales,10,A$0.00
+000977,desktop,Queensland,5,A$0.00
+000977,desktop,South Australia,3,A$199.00
+000977,desktop,Victoria,5,A$102.00
+000977,desktop,Western Australia,0,A$220.00
+000977,mobile,New South Wales,9,A$0.00
+000977,mobile,Queensland,7,A$0.00
+000977,mobile,Victoria,7,A$0.00
+000977,mobile,Western Australia,4,A$0.00
+000977,mobile,South Carolina,1,A$0.00
+000977,tablet,New South Wales,3,A$0.00
+000977,tablet,Victoria,2,A$0.00
+000978,desktop,(not set),1,A$0.00
+000978,desktop,New South Wales,11,A$45.00
+000978,desktop,Queensland,1,A$0.00
+000978,desktop,South Australia,1,A$0.00
+000978,desktop,Victoria,10,A$0.00
+000978,desktop,Western Australia,4,A$604.00
+000978,mobile,New South Wales,8,A$0.00
+000978,mobile,Queensland,7,A$0.00
+000978,mobile,South Australia,3,A$0.00
+000978,mobile,Victoria,6,A$0.00
+000978,mobile,Western Australia,4,A$0.00
+000978,mobile,Auckland,1,A$0.00
+000978,tablet,New South Wales,1,A$0.00
+000978,tablet,Victoria,2,A$0.00
+000978,tablet,Western Australia,1,A$0.00
+000979,desktop,New South Wales,9,A$208.70
+000979,desktop,Queensland,4,A$40.52
+000979,desktop,South Australia,2,A$0.00
+000979,desktop,Victoria,7,A$0.00
+000979,desktop,Western Australia,5,A$0.00
+000979,mobile,New South Wales,10,A$286.00
+000979,mobile,Queensland,3,A$0.00
+000979,mobile,Victoria,11,A$369.00
+000979,mobile,Western Australia,1,A$0.00
+000979,mobile,Auckland,3,A$0.00
+000979,tablet,New South Wales,4,A$0.00
+000979,tablet,Victoria,2,A$0.00
+000980,desktop,New South Wales,5,A$0.00
+000980,desktop,Queensland,4,A$0.00
+000980,desktop,South Australia,4,A$0.00
+000980,desktop,Victoria,16,A$0.00
+000980,desktop,Western Australia,3,A$0.00
+000980,desktop,North Carolina,1,A$0.00
+000980,desktop,South Carolina,1,A$0.00
+000980,mobile,New South Wales,10,A$0.00
+000980,mobile,Queensland,4,A$0.00
+000980,mobile,South Australia,3,A$0.00
+000980,mobile,Victoria,8,A$0.00
+000980,mobile,Western Australia,1,A$0.00
+000980,mobile,East Java,1,A$0.00
+000980,mobile,Auckland,1,A$0.00
+000980,tablet,New South Wales,1,A$0.00
+000980,tablet,Victoria,5,A$0.00
+000981,desktop,(not set),1,A$0.00
+000981,desktop,Australian Capital Territory,1,A$0.00
+000981,desktop,New South Wales,12,A$0.00
+000981,desktop,Queensland,4,A$0.00
+000981,desktop,South Australia,2,A$0.00
+000981,desktop,Victoria,17,A$80.00
+000981,desktop,Western Australia,3,A$0.00
+000981,desktop,Maharashtra,1,A$0.00
+000981,mobile,New South Wales,12,A$0.00
+000981,mobile,Queensland,3,A$0.00
+000981,mobile,Victoria,7,A$119.00
+000981,mobile,Western Australia,6,A$0.00
+000981,tablet,New South Wales,3,A$0.00
+000981,tablet,South Australia,0,A$218.00
+000981,tablet,Victoria,1,A$0.00
+000982,desktop,Australian Capital Territory,1,A$0.00
+000982,desktop,New South Wales,21,A$150.00
+000982,desktop,Queensland,3,A$124.00
+000982,desktop,South Australia,1,A$0.00
+000982,desktop,Victoria,9,A$100.00
+000982,desktop,Western Australia,2,A$0.00
+000982,desktop,Tokyo,1,A$0.00
+000982,desktop,Utah,1,A$0.00
+000982,desktop,Hawke's Bay,1,A$0.00
+000982,mobile,Australian Capital Territory,1,A$0.00
+000982,mobile,New South Wales,14,A$0.00
+000982,mobile,Queensland,5,A$0.00
+000982,mobile,South Australia,1,A$0.00
+000982,mobile,Victoria,8,A$0.00
+000982,mobile,Western Australia,2,A$0.00
+000982,tablet,New South Wales,1,A$0.00
+000982,tablet,Queensland,1,A$0.00
+000982,tablet,Victoria,4,A$0.00
+000983,desktop,New South Wales,8,A$355.01
+000983,desktop,Queensland,4,A$0.00
+000983,desktop,South Australia,2,A$0.00
+000983,desktop,Victoria,7,A$0.00
+000983,desktop,Haryana,1,A$0.00
+000983,mobile,Australian Capital Territory,1,A$0.00
+000983,mobile,New South Wales,14,A$0.00
+000983,mobile,Queensland,9,A$0.00
+000983,mobile,South Australia,1,A$0.00
+000983,mobile,Victoria,10,A$316.00
+000983,mobile,Western Australia,1,A$84.00
+000983,mobile,Wellington,1,A$0.00
+000983,tablet,Australian Capital Territory,1,A$0.00
+000983,tablet,New South Wales,1,A$0.00
+000983,tablet,Northern Territory,1,A$0.00
+000983,tablet,Queensland,2,A$0.00
+000983,tablet,Victoria,1,A$0.00
+000984,desktop,(not set),1,A$0.00
+000984,desktop,Australian Capital Territory,1,A$0.00
+000984,desktop,New South Wales,17,A$0.00
+000984,desktop,Northern Territory,0,A$64.00
+000984,desktop,Queensland,8,A$0.00
+000984,desktop,South Australia,1,A$0.00
+000984,desktop,Tasmania,2,A$0.00
+000984,desktop,Victoria,10,A$0.00
+000984,desktop,Western Australia,1,A$0.00
+000984,desktop,Oslo,1,A$0.00
+000984,desktop,Florida,1,A$0.00
+000984,desktop,Virginia,1,A$0.00
+000984,mobile,New South Wales,15,A$0.00
+000984,mobile,Queensland,3,A$0.00
+000984,mobile,Victoria,13,A$0.00
+000984,mobile,Western Australia,4,A$0.00
+000984,mobile,Auckland,1,A$0.00
+000984,tablet,New South Wales,1,A$0.00
+000984,tablet,Queensland,2,A$0.00
+000985,desktop,(not set),1,A$0.00
+000985,desktop,New South Wales,14,A$0.00
+000985,desktop,Queensland,1,A$0.00
+000985,desktop,South Australia,3,A$0.00
+000985,desktop,Victoria,2,A$0.00
+000985,desktop,Western Australia,2,A$0.00
+000985,mobile,New South Wales,8,A$0.00
+000985,mobile,Queensland,4,A$0.00
+000985,mobile,South Australia,1,A$0.00
+000985,mobile,Victoria,7,A$0.00
+000985,mobile,Western Australia,5,A$0.00
+000985,tablet,New South Wales,4,A$0.00
+000985,tablet,Queensland,1,A$0.00
+000985,tablet,South Australia,1,A$0.00
+000985,tablet,Victoria,1,A$0.00
+000986,desktop,New South Wales,16,A$0.00
+000986,desktop,Queensland,0,A$298.00
+000986,desktop,South Australia,2,A$0.00
+000986,desktop,Victoria,5,A$255.00
+000986,mobile,New South Wales,4,A$0.00
+000986,mobile,Queensland,9,A$0.00
+000986,mobile,South Australia,1,A$0.00
+000986,mobile,Victoria,9,A$0.00
+000986,mobile,Western Australia,5,A$0.00
+000986,mobile,Minnesota,1,A$0.00
+000986,tablet,New South Wales,4,A$0.00
+000986,tablet,Queensland,1,A$0.00
+000986,tablet,Victoria,1,A$0.00
+000986,tablet,Western Australia,2,A$0.00
+000987,desktop,(not set),2,A$0.00
+000987,desktop,New South Wales,12,A$458.07
+000987,desktop,Queensland,3,A$0.00
+000987,desktop,South Australia,1,A$0.00
+000987,desktop,Victoria,8,A$0.00
+000987,desktop,Western Australia,1,A$0.00
+000987,mobile,New South Wales,8,A$0.00
+000987,mobile,Queensland,6,A$0.00
+000987,mobile,Victoria,5,A$0.00
+000987,tablet,New South Wales,1,A$0.00
+000987,tablet,Victoria,2,A$0.00
+000988,desktop,New South Wales,7,A$0.00
+000988,desktop,Northern Territory,1,A$0.00
+000988,desktop,Queensland,1,A$0.00
+000988,desktop,Victoria,6,A$0.00
+000988,desktop,Western Australia,4,A$0.00
+000988,desktop,Auckland,1,A$0.00
+000988,desktop,Taranaki,1,A$0.00
+000988,mobile,New South Wales,9,A$0.00
+000988,mobile,Queensland,2,A$0.00
+000988,mobile,South Australia,2,A$0.00
+000988,mobile,Victoria,11,A$0.00
+000988,mobile,Western Australia,1,A$0.00
+000988,tablet,New South Wales,4,A$0.00
+000988,tablet,Queensland,2,A$0.00
+000988,tablet,Victoria,2,A$0.00
+000988,tablet,Western Australia,1,A$0.00
+000989,desktop,New South Wales,3,A$396.70
+000989,desktop,Queensland,3,A$0.00
+000989,desktop,South Australia,2,A$0.00
+000989,desktop,Victoria,8,A$0.00
+000989,desktop,Western Australia,1,A$0.00
+000989,mobile,New South Wales,10,A$0.00
+000989,mobile,Queensland,5,A$0.00
+000989,mobile,South Australia,1,A$0.00
+000989,mobile,Victoria,7,A$0.00
+000989,mobile,Western Australia,6,A$99.00
+000989,tablet,Western Australia,1,A$0.00
+000989,tablet,Wisconsin,1,A$0.00
+000990,desktop,New South Wales,10,A$0.00
+000990,desktop,South Australia,3,A$0.00
+000990,desktop,Victoria,16,A$0.00
+000990,desktop,Western Australia,1,A$0.00
+000990,desktop,Ontario,1,A$0.00
+000990,mobile,New South Wales,17,A$0.00
+000990,mobile,Queensland,6,A$0.00
+000990,mobile,Victoria,7,A$0.00
+000990,mobile,Western Australia,1,A$0.00
+000990,mobile,Auckland,1,A$0.00
+000990,mobile,Canterbury,1,A$0.00
+000990,tablet,New South Wales,2,A$0.00
+000990,tablet,Queensland,1,A$0.00
+000990,tablet,Western Australia,1,A$0.00
+000990,tablet,Washington,1,A$0.00
+000991,desktop,New South Wales,9,A$101.31
+000991,desktop,Queensland,5,A$0.00
+000991,desktop,South Australia,2,A$0.00
+000991,desktop,Victoria,7,A$201.61
+000991,desktop,Western Australia,2,A$156.00
+000991,desktop,Auckland,1,A$0.00
+000991,desktop,Virginia,3,A$0.00
+000991,mobile,New South Wales,10,A$0.00
+000991,mobile,Queensland,4,A$0.00
+000991,mobile,South Australia,2,A$0.00
+000991,mobile,Victoria,7,A$0.00
+000991,mobile,Western Australia,2,A$108.00
+000991,tablet,New South Wales,3,A$0.00
+000991,tablet,Queensland,3,A$0.00
+000991,tablet,South Australia,1,A$0.00
+000991,tablet,Victoria,1,A$0.00
+000991,tablet,Western Australia,2,A$0.00
+000992,desktop,New South Wales,13,A$56.00
+000992,desktop,South Australia,3,A$0.00
+000992,desktop,Victoria,10,A$142.00
+000992,desktop,Western Australia,1,A$0.00
+000992,desktop,Virginia,2,A$0.00
+000992,mobile,New South Wales,19,A$0.00
+000992,mobile,Queensland,3,A$0.00
+000992,mobile,South Australia,2,A$0.00
+000992,mobile,Victoria,13,A$0.00
+000992,mobile,Western Australia,2,A$0.00
+000992,mobile,Auckland,2,A$0.00
+000992,mobile,Skane County,1,A$0.00
+000992,mobile,South Carolina,1,A$0.00
+000992,tablet,New South Wales,3,A$0.00
+000992,tablet,Victoria,2,A$0.00
+000993,desktop,Australian Capital Territory,1,A$80.00
+000993,desktop,New South Wales,7,A$863.58
+000993,desktop,Queensland,3,A$0.00
+000993,desktop,South Australia,1,A$0.00
+000993,desktop,Tasmania,1,A$0.00
+000993,desktop,Victoria,6,A$0.00
+000993,desktop,Western Australia,3,A$0.00
+000993,desktop,Auckland,2,A$0.00
+000993,mobile,New South Wales,8,A$99.00
+000993,mobile,Queensland,9,A$0.00
+000993,mobile,South Australia,1,A$0.00
+000993,mobile,Victoria,8,A$0.00
+000993,mobile,Western Australia,4,A$0.00
+000993,mobile,Auckland,1,A$0.00
+000993,tablet,New South Wales,1,A$0.00
+000994,desktop,(not set),1,A$0.00
+000994,desktop,New South Wales,10,A$0.00
+000994,desktop,Queensland,0,A$199.00
+000994,desktop,South Australia,1,A$0.00
+000994,desktop,Victoria,8,A$199.00
+000994,desktop,Western Australia,2,A$0.00
+000994,desktop,North Carolina,1,A$0.00
+000994,desktop,Virginia,1,A$0.00
+000994,mobile,New South Wales,12,A$0.00
+000994,mobile,Queensland,2,A$0.00
+000994,mobile,South Australia,1,A$0.00
+000994,mobile,Victoria,6,A$0.00
+000994,mobile,Western Australia,1,A$0.00
+000994,mobile,South Holland,1,A$0.00
+000994,mobile,Colorado,1,A$0.00
+000994,tablet,New South Wales,1,A$0.00
+000994,tablet,Queensland,3,A$0.00
+000995,desktop,Australian Capital Territory,2,A$0.00
+000995,desktop,New South Wales,11,A$0.00
+000995,desktop,Queensland,5,A$0.00
+000995,desktop,Victoria,10,A$676.00
+000995,desktop,Western Australia,2,A$83.00
+000995,desktop,Virginia,1,A$0.00
+000995,mobile,Australian Capital Territory,2,A$0.00
+000995,mobile,New South Wales,10,A$199.00
+000995,mobile,Queensland,1,A$0.00
+000995,mobile,South Australia,1,A$0.00
+000995,mobile,Victoria,5,A$0.00
+000995,mobile,Western Australia,4,A$0.00
+000995,mobile,Ontario,1,A$0.00
+000995,mobile,Sicily,1,A$0.00
+000995,tablet,New South Wales,1,A$0.00
+000995,tablet,Queensland,0,A$99.00
+000995,tablet,South Australia,1,A$0.00
+000995,tablet,Victoria,2,A$0.00
+000995,tablet,Western Australia,1,A$0.00
+000995,tablet,Nelson,1,A$0.00
+000996,desktop,Australian Capital Territory,2,A$0.00
+000996,desktop,New South Wales,5,A$0.00
+000996,desktop,Northern Territory,1,A$0.00
+000996,desktop,Queensland,2,A$0.00
+000996,desktop,South Australia,2,A$0.00
+000996,desktop,Tasmania,1,A$0.00
+000996,desktop,Victoria,7,A$0.00
+000996,desktop,Western Australia,1,A$0.00
+000996,mobile,New South Wales,12,A$0.00
+000996,mobile,Queensland,2,A$0.00
+000996,mobile,South Australia,1,A$0.00
+000996,mobile,Victoria,11,A$0.00
+000996,mobile,Western Australia,1,A$0.00
+000996,mobile,Auckland,1,A$0.00
+000996,tablet,Queensland,1,A$0.00
+000996,tablet,South Australia,1,A$0.00
+000996,tablet,Manawatu-Wanganui,1,A$0.00
+000997,desktop,Australian Capital Territory,3,A$0.00
+000997,desktop,New South Wales,9,A$0.00
+000997,desktop,Queensland,4,A$0.00
+000997,desktop,Victoria,15,A$150.00
+000997,desktop,Western Australia,2,A$0.00
+000997,desktop,Auckland,1,A$0.00
+000997,mobile,New South Wales,7,A$0.00
+000997,mobile,Queensland,3,A$0.00
+000997,mobile,South Australia,1,A$0.00
+000997,mobile,Victoria,14,A$176.00
+000997,mobile,Western Australia,2,A$0.00
+000997,mobile,Arkansas,1,A$0.00
+000997,tablet,(not set),1,A$0.00
+000997,tablet,New South Wales,1,A$0.00
+000997,tablet,Victoria,2,A$0.00
+000998,desktop,Australian Capital Territory,0,A$84.00
+000998,desktop,New South Wales,6,A$72.34
+000998,desktop,Queensland,6,A$0.00
+000998,desktop,South Australia,1,A$0.00
+000998,desktop,Victoria,4,A$400.00
+000998,desktop,Western Australia,2,A$0.00
+000998,desktop,California,1,A$0.00
+000998,desktop,Wisconsin,1,A$0.00
+000998,mobile,New South Wales,15,A$0.00
+000998,mobile,Queensland,1,A$0.00
+000998,mobile,Victoria,7,A$0.00
+000998,mobile,Taranaki,1,A$0.00
+000998,tablet,New South Wales,0,A$168.17
+000998,tablet,Victoria,1,A$0.00
+000998,tablet,Western Australia,3,A$0.00
+000999,desktop,Australian Capital Territory,1,A$0.00
+000999,desktop,New South Wales,7,A$0.00
+000999,desktop,Queensland,5,A$0.00
+000999,desktop,Victoria,4,A$65.00
+000999,desktop,Western Australia,3,A$0.00
+000999,desktop,Izmir,1,A$0.00
+000999,mobile,New South Wales,7,A$0.00
+000999,mobile,Queensland,2,A$68.00
+000999,mobile,South Australia,3,A$0.00
+000999,mobile,Victoria,18,A$0.00
+000999,mobile,Western Australia,4,A$0.00
+000999,mobile,England,1,A$0.00
+000999,tablet,Australian Capital Territory,1,A$0.00
+000999,tablet,New South Wales,2,A$0.00
+000999,tablet,Queensland,1,A$0.00
+000999,tablet,South Australia,1,A$0.00
+000999,tablet,Victoria,2,A$0.00
+001000,desktop,(not set),1,A$0.00
+001000,desktop,Australian Capital Territory,2,A$0.00
+001000,desktop,New South Wales,9,A$0.00
+001000,desktop,Northern Territory,1,A$0.00
+001000,desktop,Queensland,2,A$0.00
+001000,desktop,Tasmania,0,A$176.00
+001000,desktop,Victoria,9,A$0.00
+001000,desktop,Western Australia,2,A$0.00
+001000,mobile,New South Wales,13,A$0.00
+001000,mobile,Queensland,3,A$0.00
+001000,mobile,South Australia,6,A$0.00
+001000,mobile,Victoria,9,A$0.00
+001000,mobile,Western Australia,3,A$0.00
+001000,tablet,New South Wales,2,A$0.00
+001000,tablet,South Australia,2,A$285.00
+001000,tablet,Victoria,2,A$0.00
+001001,desktop,Australian Capital Territory,3,A$0.00
+001001,desktop,New South Wales,7,A$0.00
+001001,desktop,Queensland,3,A$0.00
+001001,desktop,South Australia,0,A$130.00
+001001,desktop,Tasmania,1,A$0.00
+001001,desktop,Victoria,8,A$209.00
+001001,desktop,Western Australia,3,A$0.00
+001001,desktop,Federal Territory of Kuala Lumpur,1,A$0.00
+001001,desktop,Auckland,1,A$0.00
+001001,desktop,Canterbury,1,A$0.00
+001001,mobile,New South Wales,6,A$0.00
+001001,mobile,Queensland,3,A$0.00
+001001,mobile,South Australia,2,A$0.00
+001001,mobile,Victoria,9,A$0.00
+001001,mobile,Western Australia,2,A$0.00
+001001,mobile,Auckland,1,A$0.00
+001001,mobile,Cairo Governorate,1,A$0.00
+001001,tablet,Australian Capital Territory,1,A$0.00
+001001,tablet,New South Wales,4,A$0.00
+001001,tablet,Victoria,2,A$0.00
+001002,desktop,New South Wales,13,A$99.00
+001002,desktop,Queensland,6,A$0.00
+001002,desktop,South Australia,3,A$0.00
+001002,desktop,Victoria,7,A$315.00
+001002,desktop,Western Australia,1,A$0.00
+001002,desktop,Bay Of Plenty,1,A$0.00
+001002,mobile,New South Wales,14,A$0.00
+001002,mobile,Queensland,12,A$0.00
+001002,mobile,Victoria,14,A$0.00
+001002,mobile,Western Australia,3,A$0.00
+001002,mobile,Rajasthan,1,A$0.00
+001002,mobile,Auckland,1,A$0.00
+001002,tablet,New South Wales,2,A$0.00
+001002,tablet,South Australia,2,A$0.00
+001002,tablet,Victoria,3,A$0.00
+001002,tablet,Canterbury,1,A$0.00
+001003,desktop,(not set),1,A$0.00
+001003,desktop,Australian Capital Territory,1,A$0.00
+001003,desktop,New South Wales,12,A$636.52
+001003,desktop,Queensland,4,A$0.00
+001003,desktop,South Australia,1,A$0.00
+001003,desktop,Tasmania,1,A$0.00
+001003,desktop,Victoria,8,A$0.00
+001003,desktop,Western Australia,1,A$0.00
+001003,desktop,Auckland,1,A$0.00
+001003,desktop,Telangana,1,A$0.00
+001003,mobile,Australian Capital Territory,1,A$0.00
+001003,mobile,New South Wales,10,A$0.00
+001003,mobile,Victoria,11,A$0.00
+001003,mobile,Western Australia,5,A$0.00
+001003,mobile,Auckland,2,A$0.00
+001003,mobile,Massachusetts,1,A$0.00
+001003,mobile,New Hampshire,1,A$0.00
+001003,tablet,New South Wales,4,A$0.00
+001003,tablet,Queensland,1,A$0.00
+001003,tablet,South Australia,1,A$0.00
+001003,tablet,Victoria,4,A$0.00
+001003,tablet,Western Australia,2,A$0.00
+001004,desktop,New South Wales,14,A$0.00
+001004,desktop,Queensland,7,A$0.00
+001004,desktop,Victoria,10,A$0.00
+001004,desktop,Western Australia,2,A$0.00
+001004,mobile,New South Wales,7,A$0.00
+001004,mobile,Queensland,4,A$0.00
+001004,mobile,South Australia,1,A$0.00
+001004,mobile,Victoria,11,A$0.00
+001004,mobile,Western Australia,4,A$0.00
+001004,tablet,New South Wales,1,A$0.00
+001004,tablet,South Australia,1,A$0.00
+001004,tablet,Victoria,1,A$0.00
+001005,desktop,New South Wales,15,A$229.00
+001005,desktop,Queensland,2,A$0.00
+001005,desktop,Victoria,12,A$221.00
+001005,desktop,Western Australia,2,A$0.00
+001005,mobile,New South Wales,7,A$0.00
+001005,mobile,Queensland,2,A$0.00
+001005,mobile,South Australia,1,A$76.00
+001005,mobile,Victoria,10,A$0.00
+001005,mobile,Western Australia,2,A$0.00
+001005,mobile,Bangkok,1,A$0.00
+001005,tablet,New South Wales,1,A$0.00
+001005,tablet,Queensland,1,A$0.00
+001005,tablet,Victoria,1,A$0.00
+001005,tablet,Western Australia,1,A$0.00
+001006,desktop,(not set),1,A$0.00
+001006,desktop,New South Wales,16,A$256.00
+001006,desktop,Queensland,2,A$0.00
+001006,desktop,South Australia,1,A$0.00
+001006,desktop,Tasmania,2,A$0.00
+001006,desktop,Victoria,13,A$0.00
+001006,desktop,Western Australia,3,A$169.00
+001006,mobile,New South Wales,14,A$0.00
+001006,mobile,Queensland,3,A$0.00
+001006,mobile,South Australia,2,A$0.00
+001006,mobile,Victoria,8,A$0.00
+001006,mobile,Western Australia,2,A$0.00
+001006,mobile,Auckland,1,A$0.00
+001006,tablet,New South Wales,3,A$0.00
+001007,desktop,Australian Capital Territory,1,A$0.00
+001007,desktop,New South Wales,11,A$0.00
+001007,desktop,Queensland,2,A$0.00
+001007,desktop,South Australia,1,A$0.00
+001007,desktop,Tasmania,1,A$0.00
+001007,desktop,Victoria,8,A$0.00
+001007,desktop,Western Australia,1,A$0.00
+001007,mobile,New South Wales,9,A$0.00
+001007,mobile,Queensland,3,A$0.00
+001007,mobile,South Australia,1,A$0.00
+001007,mobile,Victoria,12,A$0.00
+001007,mobile,Western Australia,3,A$0.00
+001007,mobile,Auckland,1,A$0.00
+001007,mobile,Dubai,1,A$0.00
+001007,tablet,New South Wales,1,A$0.00
+001007,tablet,Queensland,2,A$0.00
+001007,tablet,Victoria,3,A$0.00
+001007,tablet,Auckland,1,A$0.00
+001008,desktop,(not set),3,A$0.00
+001008,desktop,New South Wales,9,"A$1,086.00"
+001008,desktop,Queensland,5,A$0.00
+001008,desktop,South Australia,2,A$0.00
+001008,desktop,Victoria,1,A$0.00
+001008,desktop,Western Australia,4,A$0.00
+001008,mobile,New South Wales,8,A$0.00
+001008,mobile,Queensland,5,A$0.00
+001008,mobile,Victoria,15,A$0.00
+001008,mobile,Western Australia,2,A$0.00
+001008,mobile,Canterbury,1,A$0.00
+001008,tablet,New South Wales,2,A$0.00
+001008,tablet,Queensland,1,A$0.00
+001008,tablet,Victoria,1,A$0.00
+001009,desktop,(not set),1,A$0.00
+001009,desktop,New South Wales,10,A$199.00
+001009,desktop,Queensland,2,A$0.00
+001009,desktop,Victoria,5,A$119.00
+001009,desktop,Western Australia,5,A$0.00
+001009,mobile,New South Wales,6,A$0.00
+001009,mobile,Queensland,3,A$0.00
+001009,mobile,Victoria,10,A$0.00
+001009,mobile,Western Australia,3,A$0.00
+001009,tablet,New South Wales,4,A$0.00
+001009,tablet,Victoria,3,A$0.00
+001009,tablet,Western Australia,1,A$0.00
+001010,desktop,New South Wales,13,A$0.00
+001010,desktop,Queensland,4,A$0.00
+001010,desktop,South Australia,2,A$0.00
+001010,desktop,Victoria,12,A$0.00
+001010,desktop,Western Australia,6,A$59.95
+001010,mobile,New South Wales,12,A$0.00
+001010,mobile,Queensland,5,A$0.00
+001010,mobile,Victoria,2,A$0.00
+001010,mobile,Western Australia,2,A$0.00
+001010,mobile,Mississippi,1,A$0.00
+001010,tablet,New South Wales,4,A$0.00
+001010,tablet,South Australia,1,A$0.00
+001010,tablet,Western Australia,1,A$0.00
+001011,desktop,New South Wales,5,A$0.00
+001011,desktop,Queensland,4,A$0.00
+001011,desktop,South Australia,2,A$0.00
+001011,desktop,Victoria,10,A$0.00
+001011,desktop,Western Australia,2,A$45.00
+001011,desktop,Federal Territory of Kuala Lumpur,1,A$0.00
+001011,desktop,Auckland,1,A$0.00
+001011,mobile,New South Wales,8,A$0.00
+001011,mobile,Queensland,3,A$0.00
+001011,mobile,South Australia,2,A$0.00
+001011,mobile,Victoria,7,A$0.00
+001011,mobile,Western Australia,4,A$0.00
+001011,mobile,Bay Of Plenty,1,A$0.00
+001011,mobile,Bangkok,1,A$0.00
+001011,tablet,(not set),1,A$0.00
+001011,tablet,Australian Capital Territory,1,A$0.00
+001011,tablet,Victoria,1,A$0.00
+001011,tablet,Wales,1,A$0.00
+001012,desktop,Australian Capital Territory,1,A$0.00
+001012,desktop,New South Wales,3,A$200.00
+001012,desktop,Queensland,4,A$98.00
+001012,desktop,South Australia,3,A$0.00
+001012,desktop,Tasmania,1,A$0.00
+001012,desktop,Victoria,8,A$0.00
+001012,desktop,Federal Territory of Kuala Lumpur,1,A$0.00
+001012,desktop,Auckland,1,A$0.00
+001012,mobile,New South Wales,15,A$0.00
+001012,mobile,Queensland,3,A$0.00
+001012,mobile,Victoria,6,A$84.00
+001012,mobile,Western Australia,1,A$70.00
+001012,mobile,Auckland,1,A$0.00
+001012,tablet,New South Wales,2,A$147.00
+001012,tablet,Queensland,1,A$0.00
+001012,tablet,Victoria,4,A$0.00
+001012,tablet,Wellington,1,A$0.00
+001013,desktop,Australian Capital Territory,1,A$0.00
+001013,desktop,New South Wales,5,A$85.00
+001013,desktop,Queensland,6,A$0.00
+001013,desktop,South Australia,1,A$0.00
+001013,desktop,Victoria,7,A$0.00
+001013,desktop,Western Australia,3,A$0.00
+001013,desktop,Canterbury,1,A$0.00
+001013,mobile,New South Wales,9,A$0.00
+001013,mobile,Queensland,1,A$160.07
+001013,mobile,Tasmania,1,A$0.00
+001013,mobile,Victoria,11,A$0.00
+001013,mobile,Western Australia,0,A$95.00
+001013,mobile,Bay Of Plenty,1,A$0.00
+001013,mobile,Colorado,1,A$0.00
+001013,mobile,Oregon,1,A$0.00
+001013,tablet,New South Wales,2,A$0.00
+001013,tablet,South Australia,1,A$0.00
+001013,tablet,Victoria,3,A$0.00
+001013,tablet,Western Australia,2,A$0.00
+001014,desktop,(not set),0,A$256.18
+001014,desktop,Australian Capital Territory,1,A$0.00
+001014,desktop,New South Wales,10,A$125.00
+001014,desktop,Queensland,1,A$0.00
+001014,desktop,Victoria,9,A$250.00
+001014,desktop,Western Australia,0,A$129.00
+001014,desktop,Auckland,1,A$0.00
+001014,desktop,New Jersey,1,A$0.00
+001014,mobile,New South Wales,13,A$130.00
+001014,mobile,Queensland,8,A$0.00
+001014,mobile,South Australia,1,A$0.00
+001014,mobile,Victoria,4,A$0.00
+001014,mobile,Western Australia,1,A$0.00
+001014,mobile,Metro Manila,1,A$0.00
+001014,mobile,California,1,A$0.00
+001014,mobile,Manawatu-Wanganui,1,A$0.00
+001014,mobile,Otago,1,A$0.00
+001014,tablet,Queensland,1,A$0.00
+001014,tablet,Victoria,1,A$0.00
+001015,desktop,New South Wales,15,A$0.00
+001015,desktop,Northern Territory,3,A$0.00
+001015,desktop,Queensland,2,A$0.00
+001015,desktop,South Australia,2,A$0.00
+001015,desktop,Victoria,13,A$0.00
+001015,desktop,Western Australia,2,A$0.00
+001015,desktop,Auckland,1,A$0.00
+001015,mobile,(not set),1,A$0.00
+001015,mobile,New South Wales,11,A$128.00
+001015,mobile,Queensland,2,A$0.00
+001015,mobile,Victoria,10,A$0.00
+001015,mobile,Western Australia,1,A$0.00
+001015,mobile,Osaka Prefecture,1,A$0.00
+001015,mobile,Auckland,1,A$0.00
+001015,mobile,Bay Of Plenty,1,A$0.00
+001015,tablet,New South Wales,2,A$533.00
+001015,tablet,Queensland,2,A$0.00
+001016,desktop,(not set),1,A$0.00
+001016,desktop,New South Wales,7,A$98.00
+001016,desktop,Queensland,6,A$0.00
+001016,desktop,South Australia,1,A$0.00
+001016,desktop,Victoria,12,A$150.00
+001016,desktop,Western Australia,3,A$0.00
+001016,desktop,Virginia,1,A$0.00
+001016,mobile,New South Wales,5,A$140.00
+001016,mobile,Queensland,5,A$0.00
+001016,mobile,Victoria,10,A$0.00
+001016,mobile,Western Australia,5,A$0.00
+001016,tablet,New South Wales,2,A$0.00
+001016,tablet,Queensland,1,A$0.00
+001016,tablet,Victoria,2,A$0.00
+001016,tablet,Western Australia,2,A$0.00
+001016,tablet,Canterbury,1,A$0.00
+001017,desktop,(not set),2,A$0.00
+001017,desktop,Australian Capital Territory,1,A$0.00
+001017,desktop,New South Wales,13,A$0.00
+001017,desktop,Queensland,3,A$109.41
+001017,desktop,South Australia,2,A$0.00
+001017,desktop,Victoria,6,A$0.00
+001017,desktop,Western Australia,2,A$0.00
+001017,desktop,Oregon,1,A$0.00
+001017,mobile,Australian Capital Territory,1,A$0.00
+001017,mobile,New South Wales,8,A$99.00
+001017,mobile,Queensland,4,A$0.00
+001017,mobile,Victoria,16,A$0.00
+001017,mobile,Western Australia,2,A$0.00
+001017,tablet,New South Wales,3,A$0.00
+001017,tablet,Victoria,1,A$0.00
+001017,tablet,Western Australia,2,A$0.00
+001018,desktop,Australian Capital Territory,1,A$0.00
+001018,desktop,New South Wales,6,"A$1,124.54"
+001018,desktop,Queensland,5,A$0.00
+001018,desktop,Victoria,10,A$0.00
+001018,desktop,Auckland,1,A$0.00
+001018,mobile,Australian Capital Territory,1,A$0.00
+001018,mobile,New South Wales,12,A$0.00
+001018,mobile,Queensland,1,A$0.00
+001018,mobile,South Australia,2,A$0.00
+001018,mobile,Victoria,10,A$0.00
+001018,mobile,Louisiana,1,A$0.00
+001018,tablet,New South Wales,2,A$0.00
+001019,desktop,(not set),1,A$0.00
+001019,desktop,Australian Capital Territory,1,A$0.00
+001019,desktop,New South Wales,12,A$129.00
+001019,desktop,Queensland,4,A$0.00
+001019,desktop,South Australia,2,A$0.00
+001019,desktop,Victoria,8,A$95.00
+001019,desktop,Western Australia,2,A$0.00
+001019,desktop,Special Region of Yogyakarta,1,A$0.00
+001019,desktop,Auckland,1,A$0.00
+001019,mobile,(not set),1,A$0.00
+001019,mobile,New South Wales,13,A$0.00
+001019,mobile,Queensland,4,A$0.00
+001019,mobile,South Australia,1,A$0.00
+001019,mobile,Victoria,7,A$0.00
+001019,mobile,Western Australia,6,A$0.00
+001019,tablet,New South Wales,1,A$0.00
+001019,tablet,Victoria,4,A$0.00
+001019,tablet,Western Australia,1,A$0.00
+001020,desktop,(not set),1,A$0.00
+001020,desktop,New South Wales,19,A$130.00
+001020,desktop,Queensland,1,A$0.00
+001020,desktop,Victoria,7,A$0.00
+001020,desktop,Eastern Province,1,A$0.00
+001020,mobile,(not set),1,A$0.00
+001020,mobile,New South Wales,14,A$95.00
+001020,mobile,Queensland,1,A$0.00
+001020,mobile,South Australia,2,A$0.00
+001020,mobile,Victoria,11,A$0.00
+001020,mobile,Western Australia,2,A$63.00
+001020,mobile,Auckland,1,A$0.00
+001020,mobile,Dubai,1,A$0.00
+001020,tablet,New South Wales,2,A$0.00
+001020,tablet,Victoria,2,A$0.00
+001021,desktop,New South Wales,9,A$0.00
+001021,desktop,Queensland,3,A$0.00
+001021,desktop,Victoria,6,A$101.31
+001021,desktop,Western Australia,5,A$0.00
+001021,desktop,California,1,A$0.00
+001021,mobile,New South Wales,17,A$0.00
+001021,mobile,Queensland,4,A$0.00
+001021,mobile,South Australia,2,A$0.00
+001021,mobile,Victoria,17,A$0.00
+001021,mobile,Western Australia,6,A$0.00
+001021,mobile,Waikato,1,A$0.00
+001021,tablet,New South Wales,5,A$0.00
+001021,tablet,Queensland,1,A$0.00
+001021,tablet,Victoria,2,A$0.00
+001021,tablet,Western Australia,1,A$0.00
+001022,desktop,New South Wales,11,A$0.00
+001022,desktop,Queensland,3,A$122.00
+001022,desktop,Victoria,7,A$0.00
+001022,desktop,Western Australia,1,A$0.00
+001022,desktop,Ontario,1,A$0.00
+001022,desktop,Special Region of Yogyakarta,1,A$0.00
+001022,mobile,New South Wales,9,A$0.00
+001022,mobile,Queensland,4,A$0.00
+001022,mobile,Victoria,10,A$0.00
+001022,mobile,Western Australia,3,A$0.00
+001022,tablet,New South Wales,1,A$0.00
+001022,tablet,South Australia,1,A$0.00
+001022,tablet,Victoria,1,A$0.00
+001023,desktop,(not set),1,A$0.00
+001023,desktop,New South Wales,6,A$0.00
+001023,desktop,Queensland,9,A$0.00
+001023,desktop,South Australia,1,A$0.00
+001023,desktop,Victoria,6,A$45.00
+001023,desktop,Western Australia,2,A$0.00
+001023,desktop,Virginia,1,A$0.00
+001023,desktop,Canterbury,1,A$0.00
+001023,desktop,Taipei City,1,A$0.00
+001023,mobile,New South Wales,13,A$0.00
+001023,mobile,Queensland,4,A$0.00
+001023,mobile,Victoria,13,A$70.00
+001023,mobile,Busan,1,A$0.00
+001023,tablet,New South Wales,2,A$100.00
+001023,tablet,Victoria,1,A$0.00
+001023,tablet,Western Australia,1,A$0.00
+001024,desktop,New South Wales,7,A$0.00
+001024,desktop,Queensland,7,A$0.00
+001024,desktop,South Australia,1,A$0.00
+001024,desktop,Victoria,9,A$0.00
+001024,desktop,Western Australia,3,A$0.00
+001024,mobile,New South Wales,6,A$0.00
+001024,mobile,Queensland,5,A$150.00
+001024,mobile,Victoria,11,A$0.00
+001024,mobile,Western Australia,4,A$0.00
+001024,tablet,New South Wales,3,A$0.00
+001024,tablet,South Australia,1,A$0.00
+001024,tablet,Victoria,2,A$0.00
+001024,tablet,Western Australia,0,A$347.00
+001024,tablet,Wellington,2,A$0.00
+001025,desktop,Australian Capital Territory,1,A$0.00
+001025,desktop,New South Wales,9,A$0.00
+001025,desktop,Queensland,1,A$109.00
+001025,desktop,Victoria,10,A$0.00
+001025,desktop,Western Australia,4,A$0.00
+001025,desktop,Karnataka,1,A$0.00
+001025,desktop,Penang,1,A$0.00
+001025,desktop,Auckland,1,A$0.00
+001025,mobile,Australian Capital Territory,1,A$0.00
+001025,mobile,New South Wales,3,A$0.00
+001025,mobile,Queensland,5,A$0.00
+001025,mobile,Victoria,12,A$0.00
+001025,mobile,Western Australia,1,A$0.00
+001025,mobile,Auckland,1,A$0.00
+001025,tablet,Australian Capital Territory,1,A$0.00
+001025,tablet,Victoria,1,A$0.00
+001026,desktop,Australian Capital Territory,1,A$0.00
+001026,desktop,New South Wales,7,A$0.00
+001026,desktop,South Australia,2,A$0.00
+001026,desktop,Tasmania,1,A$0.00
+001026,desktop,Victoria,6,A$0.00
+001026,desktop,Western Australia,2,A$0.00
+001026,desktop,Auckland,2,A$0.00
+001026,mobile,New South Wales,12,A$0.00
+001026,mobile,Queensland,2,A$0.00
+001026,mobile,South Australia,3,A$0.00
+001026,mobile,Victoria,8,A$0.00
+001026,mobile,Auckland,1,A$0.00
+001026,tablet,New South Wales,2,A$0.00
+001027,desktop,New South Wales,7,A$0.00
+001027,desktop,Queensland,4,A$0.00
+001027,desktop,South Australia,2,A$0.00
+001027,desktop,Victoria,11,A$0.00
+001027,desktop,Western Australia,4,A$0.00
+001027,mobile,Australian Capital Territory,3,A$0.00
+001027,mobile,New South Wales,5,A$0.00
+001027,mobile,Queensland,3,A$0.00
+001027,mobile,South Australia,1,A$0.00
+001027,mobile,Victoria,10,A$0.00
+001027,mobile,Western Australia,1,A$0.00
+001027,mobile,Alberta,1,A$0.00
+001027,mobile,Auckland,1,A$0.00
+001027,mobile,Northland,1,A$0.00
+001027,tablet,New South Wales,1,A$0.00
+001027,tablet,South Australia,1,A$0.00
+001028,desktop,(not set),1,A$0.00
+001028,desktop,Australian Capital Territory,2,A$0.00
+001028,desktop,New South Wales,13,A$0.00
+001028,desktop,Queensland,8,A$0.00
+001028,desktop,Victoria,7,A$398.00
+001028,mobile,New South Wales,15,A$0.00
+001028,mobile,Queensland,6,A$0.00
+001028,mobile,South Australia,1,A$0.00
+001028,mobile,Victoria,3,A$0.00
+001028,mobile,Western Australia,1,A$0.00
+001028,mobile,Delhi,1,A$0.00
+001028,tablet,New South Wales,1,A$0.00
+001028,tablet,Victoria,4,A$0.00
+001028,tablet,Western Australia,1,A$0.00
+001029,desktop,Australian Capital Territory,2,A$0.00
+001029,desktop,New South Wales,5,A$0.00
+001029,desktop,Queensland,7,A$0.00
+001029,desktop,Victoria,5,A$0.00
+001029,desktop,Western Australia,1,A$0.00
+001029,mobile,(not set),1,A$0.00
+001029,mobile,New South Wales,11,A$0.00
+001029,mobile,South Australia,1,A$0.00
+001029,mobile,Victoria,12,A$0.00
+001029,mobile,Western Australia,1,A$0.00
+001029,mobile,Vastra Gotaland County,1,A$0.00
+001029,mobile,Northland,1,A$0.00
+001029,tablet,New South Wales,4,A$0.00
+001029,tablet,South Australia,2,A$0.00
+001030,desktop,Australian Capital Territory,2,A$0.00
+001030,desktop,New South Wales,3,A$311.62
+001030,desktop,Queensland,1,A$0.00
+001030,desktop,Victoria,7,A$0.00
+001030,desktop,Western Australia,3,A$0.00
+001030,mobile,Australian Capital Territory,1,A$0.00
+001030,mobile,New South Wales,15,A$0.00
+001030,mobile,Queensland,3,A$0.00
+001030,mobile,South Australia,2,A$0.00
+001030,mobile,Victoria,11,A$0.00
+001030,tablet,New South Wales,3,A$183.00
+001030,tablet,Victoria,1,A$0.00
+001030,tablet,County Cork,1,A$0.00
+001031,desktop,New South Wales,11,A$0.00
+001031,desktop,Queensland,3,A$0.00
+001031,desktop,Victoria,5,A$200.00
+001031,desktop,Western Australia,1,A$0.00
+001031,desktop,Auckland,1,A$0.00
+001031,mobile,Australian Capital Territory,1,A$0.00
+001031,mobile,New South Wales,17,A$0.00
+001031,mobile,Queensland,3,A$0.00
+001031,mobile,Victoria,10,A$0.00
+001031,mobile,Western Australia,3,A$0.00
+001031,tablet,(not set),1,A$0.00
+001031,tablet,New South Wales,2,A$0.00
+001031,tablet,Victoria,1,A$0.00
+001031,tablet,Auckland,1,A$0.00
+001031,tablet,Wellington,1,A$0.00
+001032,desktop,Australian Capital Territory,1,A$0.00
+001032,desktop,New South Wales,9,A$202.62
+001032,desktop,Queensland,4,A$0.00
+001032,desktop,South Australia,1,A$0.00
+001032,desktop,Victoria,5,A$0.00
+001032,desktop,Western Australia,2,A$0.00
+001032,desktop,Wellington,1,A$0.00
+001032,mobile,New South Wales,6,A$780.94
+001032,mobile,Queensland,3,A$0.00
+001032,mobile,South Australia,1,A$0.00
+001032,mobile,Victoria,8,A$0.00
+001032,mobile,Western Australia,3,A$0.00
+001032,tablet,Queensland,2,A$0.00
+001032,tablet,Victoria,3,A$0.00
+001032,tablet,Wellington,1,A$0.00
+001033,desktop,New South Wales,8,A$0.00
+001033,desktop,Queensland,4,A$0.00
+001033,desktop,Victoria,12,A$0.00
+001033,desktop,Western Australia,2,A$0.00
+001033,desktop,Schleswig-Holstein,1,A$0.00
+001033,desktop,Attica,1,A$0.00
+001033,mobile,New South Wales,11,A$328.00
+001033,mobile,Queensland,4,A$0.00
+001033,mobile,South Australia,1,A$0.00
+001033,mobile,Victoria,5,A$0.00
+001033,mobile,Western Australia,2,A$0.00
+001033,mobile,Otago,1,A$0.00
+001033,tablet,New South Wales,1,A$0.00
+001033,tablet,Queensland,1,A$0.00
+001033,tablet,Auckland,1,A$0.00
+001034,desktop,New South Wales,7,A$0.00
+001034,desktop,Northern Territory,1,A$0.00
+001034,desktop,Queensland,4,A$0.00
+001034,desktop,Victoria,2,A$0.00
+001034,desktop,Western Australia,3,A$0.00
+001034,desktop,KwaZulu-Natal,1,A$0.00
+001034,mobile,New South Wales,13,A$0.00
+001034,mobile,Queensland,4,A$0.00
+001034,mobile,South Australia,1,A$0.00
+001034,mobile,Victoria,6,A$0.00
+001034,mobile,Western Australia,4,A$0.00
+001034,tablet,New South Wales,5,A$0.00
+001034,tablet,Queensland,2,A$0.00
+001034,tablet,Victoria,1,A$0.00
+001034,tablet,Western Australia,1,A$0.00
+001035,desktop,New South Wales,10,A$149.00
+001035,desktop,Queensland,4,A$0.00
+001035,desktop,South Australia,1,A$0.00
+001035,desktop,Victoria,7,A$0.00
+001035,mobile,New South Wales,5,A$0.00
+001035,mobile,Queensland,9,A$0.00
+001035,mobile,Victoria,9,A$0.00
+001035,mobile,Western Australia,6,A$0.00
+001035,mobile,Canterbury,1,A$0.00
+001035,tablet,New South Wales,2,A$0.00
+001035,tablet,Victoria,4,A$0.00
+001035,tablet,Western Australia,1,A$0.00
+001036,desktop,New South Wales,10,A$56.00
+001036,desktop,Queensland,4,A$239.00
+001036,desktop,Victoria,7,A$64.00
+001036,desktop,Western Australia,5,A$0.00
+001036,desktop,Auckland,1,A$0.00
+001036,mobile,New South Wales,8,A$0.00
+001036,mobile,Queensland,3,A$0.00
+001036,mobile,South Australia,1,A$0.00
+001036,mobile,Victoria,7,A$0.00
+001036,mobile,Wellington,1,A$0.00
+001036,tablet,New South Wales,2,A$0.00
+001036,tablet,Victoria,2,A$0.00
+001036,tablet,Western Australia,0,A$160.00
+001036,tablet,Auckland,1,A$0.00
+001037,desktop,New South Wales,8,A$726.00
+001037,desktop,Northern Territory,1,A$0.00
+001037,desktop,Queensland,2,A$0.00
+001037,desktop,South Australia,1,A$0.00
+001037,desktop,Victoria,5,A$237.00
+001037,desktop,Western Australia,4,A$0.00
+001037,mobile,New South Wales,15,A$0.00
+001037,mobile,Queensland,7,A$0.00
+001037,mobile,South Australia,1,A$0.00
+001037,mobile,Victoria,8,A$103.34
+001037,mobile,Western Australia,3,A$0.00
+001037,mobile,Hawke's Bay,1,A$0.00
+001037,mobile,Wellington,1,A$0.00
+001037,tablet,Victoria,5,A$0.00
+001037,tablet,Western Australia,1,A$0.00
+001038,desktop,(not set),1,A$0.00
+001038,desktop,New South Wales,11,A$0.00
+001038,desktop,Queensland,3,A$0.00
+001038,desktop,South Australia,2,A$0.00
+001038,desktop,Victoria,10,A$99.00
+001038,desktop,Western Australia,2,A$0.00
+001038,mobile,New South Wales,14,A$0.00
+001038,mobile,Queensland,8,A$0.00
+001038,mobile,South Australia,3,A$0.00
+001038,mobile,Victoria,7,A$0.00
+001038,mobile,Western Australia,1,A$0.00
+001038,mobile,Auckland,1,A$0.00
+001038,tablet,Queensland,2,A$0.00
+001038,tablet,Victoria,1,A$0.00
+001038,tablet,West Coast,1,A$0.00
+001039,desktop,New South Wales,15,A$40.00
+001039,desktop,Queensland,2,A$0.00
+001039,desktop,South Australia,1,A$0.00
+001039,desktop,Victoria,4,A$80.00
+001039,desktop,Metro Manila,1,A$0.00
+001039,mobile,New South Wales,10,A$0.00
+001039,mobile,Queensland,6,A$0.00
+001039,mobile,South Australia,0,A$160.00
+001039,mobile,Victoria,11,A$0.00
+001039,mobile,Western Australia,3,A$0.00
+001039,mobile,California,1,A$0.00
+001039,tablet,New South Wales,2,A$0.00
+001039,tablet,Victoria,3,A$0.00
+001039,tablet,Western Australia,1,A$224.00
+001039,tablet,British Columbia,1,A$0.00
+001039,tablet,Auckland,1,A$0.00
+001040,desktop,Australian Capital Territory,0,A$527.00
+001040,desktop,New South Wales,9,A$195.00
+001040,desktop,Queensland,0,A$98.00
+001040,desktop,Victoria,9,A$173.00
+001040,desktop,Western Australia,2,A$0.00
+001040,desktop,Otago,1,A$0.00
+001040,mobile,New South Wales,11,A$0.00
+001040,mobile,South Australia,2,A$0.00
+001040,mobile,Victoria,8,A$0.00
+001040,mobile,Auckland,1,A$0.00
+001040,mobile,Taranaki,1,A$0.00
+001040,tablet,New South Wales,1,A$0.00
+001040,tablet,Queensland,2,A$0.00
+001040,tablet,South Australia,1,A$0.00
+001040,tablet,Victoria,1,A$0.00
+001041,desktop,New South Wales,8,A$867.00
+001041,desktop,Queensland,2,A$0.00
+001041,desktop,Victoria,7,A$570.21
+001041,desktop,Western Australia,4,A$0.00
+001041,desktop,Alberta,1,A$0.00
+001041,desktop,Seoul,1,A$0.00
+001041,mobile,New South Wales,8,A$0.00
+001041,mobile,Queensland,3,A$0.00
+001041,mobile,South Australia,3,A$0.00
+001041,mobile,Victoria,20,A$0.00
+001041,mobile,Western Australia,1,A$0.00
+001041,mobile,Auckland,2,A$0.00
+001041,mobile,Chandigarh,1,A$0.00
+001041,tablet,New South Wales,2,A$0.00
+001041,tablet,South Australia,1,A$0.00
+001041,tablet,Victoria,7,A$0.00
+001041,tablet,Western Australia,1,A$0.00
+001041,tablet,British Columbia,1,A$0.00
+001042,desktop,Australian Capital Territory,0,A$404.00
+001042,desktop,New South Wales,13,A$79.02
+001042,desktop,Queensland,2,A$178.00
+001042,desktop,South Australia,1,A$0.00
+001042,desktop,Victoria,7,A$0.00
+001042,desktop,Western Australia,2,A$0.00
+001042,desktop,Metro Manila,1,A$0.00
+001042,desktop,Wellington,1,A$0.00
+001042,mobile,New South Wales,10,A$0.00
+001042,mobile,Queensland,5,A$0.00
+001042,mobile,Victoria,18,A$0.00
+001042,mobile,Western Australia,3,A$0.00
+001042,tablet,Victoria,5,A$0.00
+001042,tablet,Western Australia,0,A$384.00
+001043,desktop,New South Wales,2,A$229.00
+001043,desktop,Queensland,4,A$0.00
+001043,desktop,Tasmania,1,A$0.00
+001043,desktop,Victoria,2,A$0.00
+001043,desktop,Western Australia,2,A$302.00
+001043,desktop,Wellington,1,A$0.00
+001043,mobile,New South Wales,6,A$0.00
+001043,mobile,Queensland,5,A$0.00
+001043,mobile,Victoria,14,A$0.00
+001043,mobile,Western Australia,4,A$0.00
+001043,mobile,Auckland,1,A$0.00
+001043,tablet,New South Wales,1,A$0.00
+001043,tablet,Victoria,2,A$104.00
+001044,desktop,Australian Capital Territory,1,A$0.00
+001044,desktop,New South Wales,9,A$139.00
+001044,desktop,Queensland,3,A$0.00
+001044,desktop,South Australia,2,A$0.00
+001044,desktop,Victoria,6,A$108.40
+001044,desktop,Western Australia,3,A$0.00
+001044,desktop,Metro Manila,0,A$100.00
+001044,mobile,Australian Capital Territory,1,A$0.00
+001044,mobile,New South Wales,12,A$0.00
+001044,mobile,Queensland,1,A$0.00
+001044,mobile,South Australia,2,A$0.00
+001044,mobile,Victoria,10,A$149.00
+001044,mobile,Western Australia,3,A$0.00
+001044,mobile,England,1,A$0.00
+001044,mobile,New Hampshire,1,A$0.00
+001044,tablet,New South Wales,1,A$0.00
+001044,tablet,Queensland,2,A$0.00
+001044,tablet,Western Australia,1,A$0.00
+001044,tablet,Manitoba,1,A$0.00
+001045,desktop,New South Wales,10,A$96.00
+001045,desktop,Queensland,11,A$0.00
+001045,desktop,South Australia,1,A$0.00
+001045,desktop,Victoria,3,A$0.00
+001045,desktop,Western Australia,1,A$0.00
+001045,desktop,Maharashtra,1,A$0.00
+001045,mobile,New South Wales,8,A$0.00
+001045,mobile,Queensland,6,A$95.23
+001045,mobile,South Australia,3,A$0.00
+001045,mobile,Victoria,15,A$0.00
+001045,mobile,Western Australia,3,A$0.00
+001045,mobile,Auckland,2,A$0.00
+001045,mobile,Wellington,2,A$0.00
+001045,tablet,New South Wales,1,A$0.00
+001045,tablet,Queensland,2,A$0.00
+001045,tablet,Victoria,3,A$0.00
+001045,tablet,Western Australia,1,A$0.00
+001046,desktop,Australian Capital Territory,1,A$0.00
+001046,desktop,New South Wales,7,A$0.00
+001046,desktop,Victoria,3,A$0.00
+001046,desktop,Western Australia,1,A$0.00
+001046,desktop,Metro Manila,0,A$250.00
+001046,mobile,New South Wales,16,A$0.00
+001046,mobile,Queensland,5,A$0.00
+001046,mobile,South Australia,3,A$0.00
+001046,mobile,Victoria,11,A$0.00
+001046,mobile,Johor,1,A$0.00
+001046,mobile,Auckland,1,A$0.00
+001046,mobile,Wellington,1,A$0.00
+001046,tablet,New South Wales,3,A$0.00
+001046,tablet,Queensland,3,A$0.00
+001046,tablet,South Australia,1,A$0.00
+001046,tablet,Victoria,3,A$0.00
+001046,tablet,Western Australia,1,A$0.00
+001047,desktop,New South Wales,7,A$533.00
+001047,desktop,Queensland,1,A$0.00
+001047,desktop,South Australia,1,A$0.00
+001047,desktop,Victoria,8,A$98.00
+001047,desktop,Western Australia,3,A$0.00
+001047,desktop,California,1,A$0.00
+001047,desktop,Dubai,1,A$0.00
+001047,mobile,New South Wales,15,A$0.00
+001047,mobile,Northern Territory,1,A$0.00
+001047,mobile,Queensland,3,A$0.00
+001047,mobile,Victoria,6,A$0.00
+001047,tablet,New South Wales,5,A$0.00
+001047,tablet,Queensland,4,A$0.00
+001047,tablet,Victoria,3,A$0.00
+001048,desktop,New South Wales,11,A$159.00
+001048,desktop,Queensland,2,A$0.00
+001048,desktop,South Australia,2,A$0.00
+001048,desktop,Victoria,11,A$239.00
+001048,desktop,Western Australia,2,A$0.00
+001048,desktop,Auckland,2,A$0.00
+001048,mobile,New South Wales,11,A$0.00
+001048,mobile,Queensland,7,A$0.00
+001048,mobile,South Australia,1,A$0.00
+001048,mobile,Victoria,2,A$0.00
+001048,mobile,Western Australia,1,A$0.00
+001048,mobile,Bangkok,1,A$0.00
+001048,tablet,New South Wales,2,"A$1,030.00"
+001048,tablet,Victoria,1,A$0.00
+001049,desktop,(not set),1,A$0.00
+001049,desktop,New South Wales,4,A$45.59
+001049,desktop,Queensland,1,A$0.00
+001049,desktop,Victoria,10,A$0.00
+001049,desktop,Western Australia,1,A$0.00
+001049,desktop,California,1,A$0.00
+001049,mobile,New South Wales,10,A$0.00
+001049,mobile,Queensland,4,A$0.00
+001049,mobile,South Australia,1,A$0.00
+001049,mobile,Victoria,5,A$118.00
+001049,mobile,Western Australia,3,A$0.00
+001049,mobile,Auckland,3,A$0.00
+001049,tablet,Victoria,3,A$0.00
+001049,tablet,Western Australia,1,A$0.00
+001050,desktop,(not set),1,A$0.00
+001050,desktop,Australian Capital Territory,1,A$0.00
+001050,desktop,New South Wales,9,A$198.00
+001050,desktop,Northern Territory,1,A$0.00
+001050,desktop,Queensland,4,A$0.00
+001050,desktop,Victoria,7,A$480.85
+001050,desktop,Western Australia,2,A$0.00
+001050,desktop,Tokyo,1,A$0.00
+001050,desktop,Auckland,2,A$0.00
+001050,desktop,Texas,1,A$0.00
+001050,desktop,Taranaki,1,A$0.00
+001050,mobile,New South Wales,11,A$0.00
+001050,mobile,Queensland,5,A$0.00
+001050,mobile,Victoria,6,A$0.00
+001050,mobile,Western Australia,1,A$0.00
+001050,mobile,Northland,1,A$0.00
+001050,tablet,New South Wales,1,A$0.00
+001050,tablet,South Australia,2,A$0.00
+001050,tablet,Victoria,6,A$0.00
+001050,tablet,Waikato,1,A$0.00
+001051,desktop,New South Wales,7,A$0.00
+001051,desktop,Queensland,3,A$112.00
+001051,desktop,South Australia,2,A$0.00
+001051,desktop,Victoria,5,A$0.00
+001051,desktop,Western Australia,9,A$0.00
+001051,desktop,West Java,1,A$0.00
+001051,mobile,(not set),1,A$0.00
+001051,mobile,New South Wales,13,A$0.00
+001051,mobile,Queensland,9,A$0.00
+001051,mobile,Victoria,9,A$0.00
+001051,mobile,Western Australia,1,A$180.00
+001051,mobile,Wellington,1,A$0.00
+001051,tablet,New South Wales,1,A$89.95
+001051,tablet,South Australia,4,A$0.00
+001051,tablet,Victoria,2,A$0.00
+001052,desktop,New South Wales,16,A$56.00
+001052,desktop,Queensland,3,A$0.00
+001052,desktop,Victoria,2,A$369.00
+001052,desktop,Western Australia,1,A$0.00
+001052,desktop,British Columbia,1,A$0.00
+001052,desktop,Auckland,1,A$0.00
+001052,desktop,California,1,A$0.00
+001052,mobile,New South Wales,11,A$0.00
+001052,mobile,Queensland,1,A$0.00
+001052,mobile,South Australia,1,A$0.00
+001052,mobile,Victoria,12,A$449.00
+001052,mobile,Western Australia,6,A$0.00
+001052,tablet,New South Wales,4,A$0.00
+001052,tablet,Queensland,3,A$0.00
+001052,tablet,South Australia,2,A$0.00
+001052,tablet,Western Australia,1,A$0.00
+001053,desktop,New South Wales,7,A$0.00
+001053,desktop,Northern Territory,0,A$95.00
+001053,desktop,Queensland,4,A$0.00
+001053,desktop,Victoria,6,A$0.00
+001053,desktop,Western Australia,2,A$0.00
+001053,desktop,Shanxi,1,A$0.00
+001053,desktop,Auckland,1,A$0.00
+001053,desktop,California,1,A$0.00
+001053,mobile,New South Wales,5,A$0.00
+001053,mobile,Queensland,8,A$0.00
+001053,mobile,South Australia,1,A$0.00
+001053,mobile,Victoria,4,A$0.00
+001053,mobile,Western Australia,3,A$0.00
+001053,mobile,British Columbia,1,A$0.00
+001053,mobile,Tennessee,1,A$0.00
+001053,tablet,New South Wales,2,A$0.00
+001053,tablet,Queensland,1,A$0.00
+001053,tablet,South Australia,1,A$0.00
+001053,tablet,Victoria,2,A$0.00
+001053,tablet,Western Australia,1,A$0.00
+001054,desktop,Australian Capital Territory,1,A$0.00
+001054,desktop,New South Wales,5,A$158.00
+001054,desktop,Queensland,6,A$0.00
+001054,desktop,Tasmania,1,A$0.00
+001054,desktop,Victoria,7,A$0.00
+001054,desktop,Auckland,1,A$0.00
+001054,desktop,Otago,1,A$0.00
+001054,mobile,Australian Capital Territory,1,A$0.00
+001054,mobile,New South Wales,7,A$0.00
+001054,mobile,Queensland,4,A$0.00
+001054,mobile,South Australia,3,A$0.00
+001054,mobile,Victoria,14,A$0.00
+001054,mobile,Auckland,1,A$0.00
+001054,mobile,Canterbury,1,A$0.00
+001054,tablet,New South Wales,3,A$0.00
+001054,tablet,Victoria,1,A$0.00
+001055,desktop,Australian Capital Territory,1,A$0.00
+001055,desktop,New South Wales,4,A$96.00
+001055,desktop,Queensland,5,A$121.94
+001055,desktop,South Australia,1,A$0.00
+001055,desktop,Victoria,5,A$0.00
+001055,desktop,Western Australia,4,A$188.00
+001055,desktop,Massachusetts,1,A$0.00
+001055,mobile,New South Wales,8,A$198.00
+001055,mobile,Queensland,5,A$0.00
+001055,mobile,South Australia,1,A$0.00
+001055,mobile,Victoria,12,A$0.00
+001055,mobile,Western Australia,3,A$0.00
+001055,mobile,Auckland,1,A$0.00
+001055,tablet,New South Wales,3,A$0.00
+001055,tablet,Queensland,1,A$0.00
+001055,tablet,Lusaka Province,1,A$0.00
+001056,desktop,(not set),1,A$0.00
+001056,desktop,New South Wales,9,A$251.00
+001056,desktop,Queensland,9,A$0.00
+001056,desktop,South Australia,4,A$0.00
+001056,desktop,Victoria,2,A$0.00
+001056,desktop,Western Australia,5,A$0.00
+001056,desktop,Special Region of Yogyakarta,1,A$0.00
+001056,mobile,New South Wales,11,A$0.00
+001056,mobile,Queensland,4,A$0.00
+001056,mobile,Victoria,15,A$0.00
+001056,mobile,Western Australia,3,A$0.00
+001056,tablet,Australian Capital Territory,1,A$0.00
+001056,tablet,New South Wales,1,A$0.00
+001056,tablet,Queensland,1,A$0.00
+001056,tablet,Victoria,2,A$0.00
+001057,desktop,New South Wales,9,A$144.00
+001057,desktop,Queensland,4,A$0.00
+001057,desktop,South Australia,2,A$0.00
+001057,desktop,Victoria,3,A$0.00
+001057,desktop,Western Australia,4,A$0.00
+001057,mobile,New South Wales,5,A$0.00
+001057,mobile,Queensland,2,A$0.00
+001057,mobile,Tasmania,1,A$0.00
+001057,mobile,Victoria,12,A$0.00
+001057,mobile,Western Australia,4,A$0.00
+001057,mobile,Delhi,1,A$0.00
+001057,mobile,Manawatu-Wanganui,1,A$0.00
+001057,tablet,New South Wales,0,A$300.00
+001057,tablet,Queensland,2,A$0.00
+001057,tablet,Western Australia,1,A$0.00
+001057,tablet,Manawatu-Wanganui,1,A$0.00
+001058,desktop,New South Wales,2,A$0.00
+001058,desktop,Queensland,3,A$151.97
+001058,desktop,South Australia,1,A$0.00
+001058,desktop,Victoria,7,A$156.00
+001058,desktop,Western Australia,2,A$0.00
+001058,desktop,Special Region of Yogyakarta,2,A$0.00
+001058,desktop,Florida,1,A$0.00
+001058,desktop,Central Visayas,1,A$0.00
+001058,mobile,New South Wales,8,A$0.00
+001058,mobile,Queensland,3,A$0.00
+001058,mobile,South Australia,2,A$0.00
+001058,mobile,Victoria,16,A$0.00
+001058,mobile,Western Australia,1,A$0.00
+001058,mobile,Karnataka,1,A$0.00
+001058,mobile,Auckland,1,A$0.00
+001058,mobile,Wellington,1,A$0.00
+001058,tablet,New South Wales,1,A$0.00
+001058,tablet,Queensland,5,A$0.00
+001058,tablet,Victoria,4,A$0.00
+001058,tablet,Western Australia,2,A$0.00
+001059,desktop,New South Wales,8,A$0.00
+001059,desktop,Queensland,4,A$0.00
+001059,desktop,South Australia,1,A$0.00
+001059,desktop,Victoria,10,A$0.00
+001059,desktop,Western Australia,3,A$0.00
+001059,desktop,Metro Manila,1,A$0.00
+001059,mobile,New South Wales,12,A$0.00
+001059,mobile,Queensland,5,A$0.00
+001059,mobile,South Australia,1,A$0.00
+001059,mobile,Victoria,10,A$0.00
+001059,mobile,Western Australia,5,A$0.00
+001059,tablet,New South Wales,2,A$0.00
+001059,tablet,Queensland,1,A$0.00
+001059,tablet,South Australia,1,A$0.00
+001059,tablet,Victoria,1,A$0.00
+001060,desktop,New South Wales,9,A$0.00
+001060,desktop,Queensland,5,A$0.00
+001060,desktop,South Australia,2,A$0.00
+001060,desktop,Victoria,3,A$148.00
+001060,desktop,California,1,A$0.00
+001060,desktop,Taipei City,1,A$0.00
+001060,mobile,New South Wales,21,A$0.00
+001060,mobile,Queensland,8,A$0.00
+001060,mobile,Victoria,11,A$0.00
+001060,mobile,Western Australia,3,A$0.00
+001060,mobile,Scotland,1,A$0.00
+001060,mobile,Auckland,1,A$0.00
+001060,tablet,Australian Capital Territory,1,A$0.00
+001060,tablet,New South Wales,1,A$0.00
+001060,tablet,Victoria,2,A$0.00
+001061,desktop,New South Wales,6,A$0.00
+001061,desktop,Queensland,5,A$0.00
+001061,desktop,Victoria,2,A$0.00
+001061,desktop,Western Australia,3,A$0.00
+001061,desktop,California,1,A$0.00
+001061,mobile,(not set),1,A$0.00
+001061,mobile,New South Wales,11,A$89.00
+001061,mobile,Queensland,3,A$0.00
+001061,mobile,South Australia,1,A$0.00
+001061,mobile,Victoria,7,A$0.00
+001061,mobile,Western Australia,2,A$0.00
+001061,mobile,Pennsylvania,1,A$0.00
+001061,mobile,Wellington,1,A$0.00
+001061,tablet,Queensland,1,A$0.00
+001061,tablet,Victoria,1,A$0.00
+001061,tablet,Western Australia,2,A$0.00
+001061,tablet,Canterbury,1,A$0.00
+001062,desktop,Australian Capital Territory,0,A$632.00
+001062,desktop,New South Wales,8,A$384.98
+001062,desktop,Queensland,3,A$0.00
+001062,desktop,Tasmania,1,A$0.00
+001062,desktop,Victoria,2,A$0.00
+001062,desktop,Auckland,1,A$0.00
+001062,mobile,New South Wales,15,A$0.00
+001062,mobile,Queensland,3,A$0.00
+001062,mobile,South Australia,1,A$0.00
+001062,mobile,Victoria,14,A$0.00
+001062,mobile,Western Australia,1,A$0.00
+001062,mobile,England,1,A$0.00
+001062,mobile,Waikato,1,A$0.00
+001062,tablet,South Australia,1,A$0.00
+001062,tablet,Victoria,1,A$0.00
+001063,desktop,New South Wales,5,A$0.00
+001063,desktop,Queensland,6,A$0.00
+001063,desktop,South Australia,2,A$0.00
+001063,desktop,Victoria,6,A$0.00
+001063,desktop,Western Australia,3,A$0.00
+001063,mobile,New South Wales,12,A$157.03
+001063,mobile,Queensland,4,A$0.00
+001063,mobile,South Australia,1,A$0.00
+001063,mobile,Victoria,10,A$0.00
+001063,mobile,Western Australia,4,A$0.00
+001063,mobile,Manawatu-Wanganui,1,A$0.00
+001063,mobile,Wellington,1,A$0.00
+001063,mobile,Ho Chi Minh,1,A$0.00
+001063,tablet,New South Wales,1,A$0.00
+001063,tablet,Queensland,1,A$0.00
+001063,tablet,Western Australia,1,A$0.00
+001063,tablet,Canterbury,1,A$0.00
+001064,desktop,New South Wales,8,A$0.00
+001064,desktop,Queensland,9,A$0.00
+001064,desktop,Victoria,5,A$0.00
+001064,desktop,Western Australia,4,A$500.00
+001064,desktop,Auckland,2,A$0.00
+001064,desktop,New Jersey,1,A$0.00
+001064,mobile,New South Wales,10,A$258.00
+001064,mobile,Queensland,3,A$0.00
+001064,mobile,South Australia,1,A$0.00
+001064,mobile,Victoria,6,A$0.00
+001064,mobile,Western Australia,2,A$0.00
+001064,tablet,New South Wales,2,A$0.00
+001064,tablet,Western Australia,1,A$0.00
+001064,tablet,Auckland,1,A$0.00
+001065,desktop,New South Wales,15,A$106.00
+001065,desktop,Queensland,3,A$0.00
+001065,desktop,Victoria,8,A$0.00
+001065,desktop,Western Australia,3,A$0.00
+001065,desktop,Auckland,1,A$0.00
+001065,desktop,New Jersey,1,A$0.00
+001065,mobile,Australian Capital Territory,1,A$0.00
+001065,mobile,New South Wales,20,A$0.00
+001065,mobile,Queensland,6,A$0.00
+001065,mobile,Victoria,10,A$0.00
+001065,mobile,Western Australia,3,A$0.00
+001065,mobile,Manawatu-Wanganui,1,A$0.00
+001065,tablet,New South Wales,2,A$0.00
+001065,tablet,Queensland,1,A$0.00
+001065,tablet,Victoria,1,A$0.00
+001066,desktop,New South Wales,7,A$0.00
+001066,desktop,Queensland,3,A$0.00
+001066,desktop,Victoria,5,A$0.00
+001066,desktop,Western Australia,3,A$0.00
+001066,desktop,Idaho,1,A$0.00
+001066,mobile,(not set),1,A$0.00
+001066,mobile,New South Wales,14,A$458.00
+001066,mobile,Queensland,4,A$0.00
+001066,mobile,South Australia,1,A$0.00
+001066,mobile,Victoria,12,A$298.00
+001066,mobile,Western Australia,2,A$0.00
+001066,mobile,Auckland,2,A$0.00
+001066,mobile,California,1,A$0.00
+001066,tablet,Queensland,1,A$0.00
+001066,tablet,Victoria,1,A$0.00
+001066,tablet,Dubai,1,A$0.00
+001067,desktop,Australian Capital Territory,2,A$0.00
+001067,desktop,New South Wales,2,A$0.00
+001067,desktop,Queensland,5,A$49.00
+001067,desktop,South Australia,1,A$0.00
+001067,desktop,Victoria,5,A$0.00
+001067,desktop,Western Australia,2,A$0.00
+001067,mobile,New South Wales,9,A$0.00
+001067,mobile,Queensland,6,A$0.00
+001067,mobile,South Australia,3,A$0.00
+001067,mobile,Victoria,13,A$0.00
+001067,mobile,Western Australia,2,A$0.00
+001067,mobile,Auckland,1,A$0.00
+001067,tablet,New South Wales,1,A$0.00
+001067,tablet,Queensland,2,A$0.00
+001067,tablet,South Australia,0,A$227.95
+001067,tablet,Victoria,1,A$0.00
+001068,desktop,New South Wales,6,A$0.00
+001068,desktop,Queensland,4,A$0.00
+001068,desktop,South Australia,2,A$0.00
+001068,desktop,Victoria,7,A$0.00
+001068,desktop,Western Australia,2,A$0.00
+001068,desktop,Metro Manila,1,A$0.00
+001068,mobile,New South Wales,9,A$0.00
+001068,mobile,Queensland,4,A$0.00
+001068,mobile,South Australia,1,A$0.00
+001068,mobile,Victoria,12,A$0.00
+001068,mobile,Western Australia,2,A$0.00
+001068,tablet,(not set),1,A$0.00
+001068,tablet,Queensland,1,A$0.00
+001068,tablet,Victoria,1,A$0.00
+001069,desktop,(not set),1,A$0.00
+001069,desktop,Australian Capital Territory,2,A$0.00
+001069,desktop,New South Wales,2,A$0.00
+001069,desktop,Northern Territory,1,A$0.00
+001069,desktop,Queensland,3,A$0.00
+001069,desktop,Victoria,8,A$0.00
+001069,desktop,Western Australia,3,A$0.00
+001069,mobile,(not set),1,A$0.00
+001069,mobile,New South Wales,6,A$0.00
+001069,mobile,Queensland,2,A$101.31
+001069,mobile,South Australia,1,A$0.00
+001069,mobile,Victoria,7,A$158.00
+001069,mobile,Western Australia,5,A$0.00
+001069,mobile,Northland,1,A$0.00
+001069,tablet,New South Wales,1,A$0.00
+001069,tablet,Queensland,3,A$0.00
+001069,tablet,Victoria,2,A$0.00
+001070,desktop,New South Wales,6,A$156.00
+001070,desktop,Queensland,1,A$0.00
+001070,desktop,South Australia,1,A$0.00
+001070,desktop,Victoria,6,A$0.00
+001070,desktop,Western Australia,2,A$0.00
+001070,desktop,Johor,1,A$0.00
+001070,desktop,Auckland,1,A$0.00
+001070,mobile,New South Wales,13,A$0.00
+001070,mobile,Queensland,3,A$0.00
+001070,mobile,Victoria,15,A$0.00
+001070,mobile,Western Australia,1,A$0.00
+001070,mobile,Auckland,1,A$0.00
+001070,tablet,New South Wales,1,A$0.00
+001070,tablet,Queensland,2,A$0.00
+001070,tablet,Victoria,2,A$0.00
+001070,tablet,Auckland,1,A$0.00
+001070,tablet,Waikato,1,A$0.00
+001071,desktop,New South Wales,7,A$0.00
+001071,desktop,Queensland,4,A$200.00
+001071,desktop,South Australia,2,A$0.00
+001071,desktop,Victoria,3,A$536.00
+001071,desktop,Western Australia,2,A$0.00
+001071,desktop,Wellington,1,A$0.00
+001071,mobile,New South Wales,5,A$0.00
+001071,mobile,Queensland,5,A$0.00
+001071,mobile,Victoria,11,A$240.00
+001071,mobile,Western Australia,1,A$0.00
+001071,mobile,Auckland,1,A$0.00
+001071,mobile,Wellington,1,A$0.00
+001071,tablet,New South Wales,3,A$0.00
+001071,tablet,Queensland,2,A$0.00
+001071,tablet,Victoria,4,A$855.00
+001071,tablet,Western Australia,1,A$0.00
+001072,desktop,New South Wales,9,A$158.00
+001072,desktop,Queensland,1,A$0.00
+001072,desktop,Victoria,6,A$0.00
+001072,mobile,New South Wales,15,A$0.00
+001072,mobile,Queensland,6,A$0.00
+001072,mobile,South Australia,3,A$0.00
+001072,mobile,Victoria,14,A$0.00
+001072,mobile,Western Australia,1,A$0.00
+001072,tablet,New South Wales,1,A$0.00
+001072,tablet,Queensland,3,A$135.00
+001072,tablet,South Australia,2,A$0.00
+001072,tablet,Victoria,2,A$0.00
+001072,tablet,Auckland,1,A$0.00
+001073,desktop,New South Wales,7,A$0.00
+001073,desktop,Queensland,2,A$0.00
+001073,desktop,South Australia,0,A$120.00
+001073,desktop,Victoria,6,A$73.45
+001073,desktop,Auckland,1,A$0.00
+001073,mobile,New South Wales,12,A$0.00
+001073,mobile,Queensland,3,A$0.00
+001073,mobile,South Australia,1,A$0.00
+001073,mobile,Victoria,6,A$0.00
+001073,mobile,Auckland,1,A$0.00
+001073,mobile,Idaho,1,A$0.00
+001073,tablet,New South Wales,1,A$240.52
+001073,tablet,South Australia,1,A$0.00
+001073,tablet,Victoria,3,A$0.00
+001073,tablet,Canterbury,1,A$0.00
+001074,desktop,Australian Capital Territory,2,A$0.00
+001074,desktop,New South Wales,3,A$0.00
+001074,desktop,Queensland,4,A$0.00
+001074,desktop,Victoria,3,A$350.00
+001074,desktop,Western Australia,6,A$0.00
+001074,mobile,Australian Capital Territory,3,A$0.00
+001074,mobile,New South Wales,10,A$0.00
+001074,mobile,Queensland,6,A$0.00
+001074,mobile,South Australia,5,A$0.00
+001074,mobile,Victoria,8,A$425.00
+001074,mobile,Western Australia,1,A$0.00
+001074,mobile,England,1,A$0.00
+001074,mobile,New York,1,A$0.00
+001074,tablet,New South Wales,1,A$0.00
+001074,tablet,Queensland,2,A$0.00
+001074,tablet,Western Australia,1,A$0.00
+001074,tablet,Auckland,1,A$0.00
+001075,desktop,Australian Capital Territory,1,A$0.00
+001075,desktop,New South Wales,5,A$0.00
+001075,desktop,Queensland,2,A$0.00
+001075,desktop,Victoria,2,A$0.00
+001075,desktop,Western Australia,7,A$0.00
+001075,desktop,Auckland,1,A$0.00
+001075,desktop,Western Visayas,1,A$0.00
+001075,mobile,Australian Capital Territory,3,A$0.00
+001075,mobile,New South Wales,10,A$0.00
+001075,mobile,Queensland,4,A$0.00
+001075,mobile,Victoria,9,A$0.00
+001075,mobile,Western Australia,5,A$0.00
+001075,mobile,Auckland,1,A$0.00
+001075,mobile,Bay Of Plenty,1,A$0.00
+001075,tablet,New South Wales,1,A$0.00
+001075,tablet,Victoria,5,A$0.00
+001075,tablet,Scotland,1,A$0.00
+001076,desktop,New South Wales,4,A$0.00
+001076,desktop,Queensland,8,A$0.00
+001076,desktop,Victoria,3,A$0.00
+001076,mobile,Australian Capital Territory,1,A$0.00
+001076,mobile,New South Wales,12,A$0.00
+001076,mobile,Queensland,6,A$0.00
+001076,mobile,South Australia,2,A$0.00
+001076,mobile,Tasmania,1,A$0.00
+001076,mobile,Victoria,10,A$0.00
+001076,mobile,Western Australia,3,A$0.00
+001076,mobile,Auckland,1,A$0.00
+001076,tablet,New South Wales,5,A$0.00
+001076,tablet,Western Australia,2,A$0.00
+001076,tablet,Auckland,1,A$0.00
+001077,desktop,Australian Capital Territory,1,A$0.00
+001077,desktop,New South Wales,6,A$102.00
+001077,desktop,Queensland,5,A$0.00
+001077,desktop,South Australia,1,A$0.00
+001077,desktop,Victoria,3,A$170.00
+001077,desktop,Western Australia,2,A$0.00
+001077,desktop,British Columbia,1,A$0.00
+001077,desktop,Auckland,1,A$0.00
+001077,mobile,New South Wales,7,A$0.00
+001077,mobile,Queensland,7,A$0.00
+001077,mobile,South Australia,1,A$0.00
+001077,mobile,Tasmania,2,A$0.00
+001077,mobile,Victoria,12,A$0.00
+001077,mobile,Western Australia,3,A$0.00
+001077,mobile,Wellington,1,A$0.00
+001077,tablet,Australian Capital Territory,1,A$0.00
+001077,tablet,New South Wales,3,A$0.00
+001077,tablet,Victoria,2,A$0.00
+001077,tablet,Western Australia,1,A$0.00
+001078,desktop,(not set),1,A$0.00
+001078,desktop,Australian Capital Territory,1,A$0.00
+001078,desktop,New South Wales,7,A$0.00
+001078,desktop,Queensland,3,A$0.00
+001078,desktop,South Australia,1,A$0.00
+001078,desktop,Victoria,6,A$109.00
+001078,desktop,Western Australia,2,A$0.00
+001078,desktop,British Columbia,1,A$0.00
+001078,mobile,New South Wales,10,A$0.00
+001078,mobile,Queensland,6,A$0.00
+001078,mobile,Victoria,9,A$278.00
+001078,mobile,Western Australia,2,A$0.00
+001078,mobile,Waikato,1,A$0.00
+001078,tablet,New South Wales,2,A$0.00
+001078,tablet,Victoria,1,A$0.00
+001079,desktop,(not set),1,A$0.00
+001079,desktop,New South Wales,12,A$0.00
+001079,desktop,South Australia,1,A$0.00
+001079,desktop,Victoria,4,A$0.00
+001079,desktop,Western Australia,1,A$0.00
+001079,desktop,Auckland,1,A$0.00
+001079,mobile,(not set),1,A$0.00
+001079,mobile,Australian Capital Territory,3,A$213.00
+001079,mobile,New South Wales,10,A$0.00
+001079,mobile,Queensland,2,A$0.00
+001079,mobile,South Australia,2,A$0.00
+001079,mobile,Tasmania,1,A$0.00
+001079,mobile,Victoria,7,A$0.00
+001079,mobile,Western Australia,3,A$0.00
+001079,mobile,Budapest,1,A$0.00
+001079,mobile,Florida,1,A$0.00
+001079,mobile,New York,1,A$0.00
+001079,mobile,Canterbury,1,A$0.00
+001079,tablet,New South Wales,4,A$0.00
+001079,tablet,Queensland,1,A$0.00
+001079,tablet,South Australia,1,A$0.00
+001079,tablet,Victoria,2,A$0.00
+001079,tablet,Western Australia,1,A$0.00
+001079,tablet,England,1,A$0.00
+001080,desktop,Australian Capital Territory,2,A$140.00
+001080,desktop,New South Wales,8,A$0.00
+001080,desktop,Queensland,3,A$156.00
+001080,desktop,South Australia,2,A$320.00
+001080,desktop,Victoria,9,A$0.00
+001080,desktop,Western Australia,4,A$0.00
+001080,desktop,Calabarzon,1,A$0.00
+001080,mobile,New South Wales,11,A$170.00
+001080,mobile,Queensland,7,A$0.00
+001080,mobile,South Australia,2,A$0.00
+001080,mobile,Tasmania,1,A$0.00
+001080,mobile,Victoria,13,A$0.00
+001080,mobile,Western Australia,6,A$0.00
+001080,tablet,New South Wales,1,A$0.00
+001080,tablet,Victoria,4,A$0.00
+001080,tablet,Western Australia,3,A$0.00
+001080,tablet,Manawatu-Wanganui,1,A$0.00
+001081,desktop,New South Wales,4,A$466.00
+001081,desktop,Queensland,4,A$0.00
+001081,desktop,South Australia,1,A$0.00
+001081,desktop,Victoria,6,A$0.00
+001081,desktop,Western Australia,1,A$0.00
+001081,mobile,New South Wales,8,A$0.00
+001081,mobile,Queensland,8,A$0.00
+001081,mobile,South Australia,2,A$0.00
+001081,mobile,Victoria,15,A$0.00
+001081,mobile,Western Australia,2,A$0.00
+001081,tablet,Australian Capital Territory,1,A$0.00
+001081,tablet,Queensland,1,A$0.00
+001081,tablet,Victoria,3,A$0.00
+001081,tablet,England,1,A$0.00
+001082,desktop,(not set),1,A$0.00
+001082,desktop,New South Wales,11,A$0.00
+001082,desktop,Queensland,3,A$250.00
+001082,desktop,South Australia,2,A$0.00
+001082,desktop,Victoria,6,A$0.00
+001082,desktop,Western Australia,2,A$0.00
+001082,desktop,Canterbury,1,A$0.00
+001082,desktop,Wellington,1,A$0.00
+001082,mobile,(not set),1,A$0.00
+001082,mobile,New South Wales,7,A$0.00
+001082,mobile,Queensland,4,A$0.00
+001082,mobile,South Australia,1,A$0.00
+001082,mobile,Victoria,11,A$0.00
+001082,mobile,Western Australia,2,A$0.00
+001082,mobile,California,1,A$0.00
+001082,mobile,Wellington,1,A$0.00
+001082,tablet,Australian Capital Territory,1,A$0.00
+001082,tablet,New South Wales,4,A$0.00
+001082,tablet,Queensland,1,A$0.00
+001082,tablet,Victoria,3,A$0.00
+001082,tablet,Western Australia,1,A$0.00
+001082,tablet,England,1,A$0.00
+001082,tablet,Auckland,1,A$0.00
+001082,tablet,Canterbury,1,A$0.00
+001083,desktop,New South Wales,6,A$0.00
+001083,desktop,Queensland,4,A$153.00
+001083,desktop,Victoria,6,A$0.00
+001083,desktop,Western Australia,1,A$0.00
+001083,mobile,New South Wales,10,A$399.00
+001083,mobile,Queensland,4,A$0.00
+001083,mobile,Victoria,8,A$0.00
+001083,mobile,Western Australia,3,A$0.00
+001083,mobile,Southland,1,A$0.00
+001083,mobile,Madrid,1,A$0.00
+001083,tablet,New South Wales,1,A$0.00
+001083,tablet,Queensland,2,A$0.00
+001083,tablet,South Australia,1,A$0.00
+001083,tablet,Victoria,1,A$0.00
+001083,tablet,Auckland,1,A$0.00
+001084,desktop,New South Wales,10,A$0.00
+001084,desktop,Queensland,6,A$0.00
+001084,desktop,Victoria,4,A$0.00
+001084,desktop,Western Australia,2,A$0.00
+001084,desktop,Auckland,1,A$0.00
+001084,mobile,New South Wales,10,A$0.00
+001084,mobile,Queensland,5,A$0.00
+001084,mobile,Victoria,16,A$0.00
+001084,mobile,Western Australia,4,A$0.00
+001084,mobile,New York,1,A$0.00
+001084,tablet,New South Wales,4,A$0.00
+001084,tablet,Queensland,2,A$0.00
+001085,desktop,New South Wales,7,A$0.00
+001085,desktop,Queensland,0,A$45.52
+001085,desktop,Victoria,2,A$130.00
+001085,desktop,Western Australia,3,A$0.00
+001085,desktop,Kanagawa Prefecture,1,A$0.00
+001085,desktop,Skane County,1,A$0.00
+001085,mobile,New South Wales,12,A$0.00
+001085,mobile,Queensland,5,A$0.00
+001085,mobile,Victoria,13,A$0.00
+001085,mobile,Western Australia,1,A$619.00
+001085,mobile,Auckland,1,A$0.00
+001085,mobile,Canterbury,1,A$0.00
+001085,mobile,Manawatu-Wanganui,1,A$0.00
+001085,tablet,New South Wales,2,A$0.00
+001085,tablet,Tasmania,1,A$0.00
+001085,tablet,Victoria,2,A$0.00
+001086,desktop,Australian Capital Territory,1,A$0.00
+001086,desktop,New South Wales,9,A$132.00
+001086,desktop,Victoria,5,A$0.00
+001086,desktop,Western Australia,2,A$0.00
+001086,desktop,California,1,A$0.00
+001086,mobile,New South Wales,12,A$0.00
+001086,mobile,Queensland,8,A$0.00
+001086,mobile,Victoria,8,A$292.79
+001086,mobile,Western Australia,2,A$0.00
+001086,tablet,New South Wales,2,A$0.00
+001086,tablet,Queensland,1,A$0.00
+001086,tablet,South Australia,2,A$0.00
+001086,tablet,Victoria,3,A$0.00
+001086,tablet,Western Australia,1,A$0.00
+001086,tablet,Nelson,1,A$0.00
+001087,desktop,New South Wales,8,A$0.00
+001087,desktop,South Australia,1,A$0.00
+001087,desktop,Victoria,4,A$0.00
+001087,desktop,Western Australia,2,A$0.00
+001087,desktop,England,1,A$0.00
+001087,desktop,Auckland,1,A$0.00
+001087,mobile,Australian Capital Territory,2,A$0.00
+001087,mobile,New South Wales,12,A$0.00
+001087,mobile,Queensland,6,A$0.00
+001087,mobile,Victoria,9,A$0.00
+001087,mobile,Western Australia,3,A$0.00
+001087,mobile,Auckland,2,A$0.00
+001087,mobile,Bay Of Plenty,1,A$0.00
+001087,mobile,Taranaki,1,A$0.00
+001087,tablet,New South Wales,1,A$0.00
+001087,tablet,Queensland,1,A$0.00
+001087,tablet,Victoria,1,A$0.00
+001087,tablet,Western Australia,1,A$0.00
+001088,desktop,New South Wales,7,A$0.00
+001088,desktop,Queensland,3,A$0.00
+001088,desktop,South Australia,1,A$0.00
+001088,desktop,Victoria,6,A$0.00
+001088,desktop,Western Australia,0,A$199.00
+001088,desktop,Canterbury,1,A$0.00
+001088,desktop,Taipei City,2,A$0.00
+001088,mobile,Australian Capital Territory,1,A$0.00
+001088,mobile,New South Wales,10,A$0.00
+001088,mobile,Queensland,6,A$0.00
+001088,mobile,Victoria,9,A$0.00
+001088,mobile,Auckland,1,A$0.00
+001088,mobile,Gisborne,1,A$0.00
+001088,tablet,Victoria,2,A$0.00
+001088,tablet,Western Australia,2,A$0.00
+001088,tablet,Federal Territory of Kuala Lumpur,1,A$0.00
+001088,tablet,Wellington,1,A$0.00
+001089,desktop,New South Wales,6,A$0.00
+001089,desktop,Queensland,3,A$0.00
+001089,desktop,South Australia,1,A$0.00
+001089,desktop,Victoria,5,A$0.00
+001089,desktop,Western Australia,2,A$0.00
+001089,desktop,Bavaria,1,A$0.00
+001089,desktop,Tamil Nadu,1,A$0.00
+001089,desktop,Auckland,1,A$0.00
+001089,mobile,New South Wales,16,A$0.00
+001089,mobile,Queensland,10,A$0.00
+001089,mobile,Victoria,15,A$0.00
+001089,mobile,Western Australia,3,A$0.00
+001089,mobile,Scotland,1,A$0.00
+001089,mobile,Canterbury,1,A$0.00
+001089,mobile,Wellington,1,A$0.00
+001089,tablet,Queensland,2,A$0.00
+001089,tablet,Tasmania,1,A$0.00
+001089,tablet,Victoria,1,A$0.00
+001089,tablet,Western Australia,1,A$0.00
+001089,tablet,Hawke's Bay,1,A$0.00
+001090,desktop,(not set),1,A$0.00
+001090,desktop,Australian Capital Territory,1,A$0.00
+001090,desktop,New South Wales,3,A$0.00
+001090,desktop,Queensland,1,A$0.00
+001090,desktop,South Australia,2,A$0.00
+001090,desktop,Victoria,5,A$0.00
+001090,desktop,Western Australia,2,A$0.00
+001090,mobile,Australian Capital Territory,1,A$0.00
+001090,mobile,New South Wales,15,A$80.00
+001090,mobile,Queensland,2,A$82.00
+001090,mobile,Victoria,9,A$0.00
+001090,mobile,Western Australia,1,A$0.00
+001090,mobile,Zurich,1,A$0.00
+001090,mobile,Auckland,1,A$0.00
+001090,tablet,New South Wales,1,A$0.00
+001091,desktop,New South Wales,6,A$159.00
+001091,desktop,Queensland,1,A$0.00
+001091,desktop,Victoria,5,A$0.00
+001091,desktop,Western Australia,1,A$0.00
+001091,desktop,Auckland,2,A$0.00
+001091,mobile,Australian Capital Territory,1,A$0.00
+001091,mobile,New South Wales,7,A$0.00
+001091,mobile,Queensland,2,A$0.00
+001091,mobile,Victoria,7,A$0.00
+001091,mobile,Western Australia,3,A$0.00
+001091,mobile,England,1,A$0.00
+001091,mobile,Auckland,1,A$0.00
+001091,mobile,Otago,1,A$0.00
+001091,tablet,New South Wales,1,A$0.00
+001092,desktop,New South Wales,8,A$178.00
+001092,desktop,Queensland,1,A$0.00
+001092,desktop,Victoria,5,A$0.00
+001092,desktop,Western Australia,2,A$0.00
+001092,desktop,Waikato,1,A$0.00
+001092,mobile,New South Wales,11,A$0.00
+001092,mobile,Queensland,6,A$0.00
+001092,mobile,South Australia,1,A$0.00
+001092,mobile,Victoria,9,A$0.00
+001092,mobile,Western Australia,5,A$0.00
+001092,mobile,Auckland,1,A$0.00
+001092,mobile,Northland,1,A$0.00
+001092,mobile,Waikato,1,A$0.00
+001092,tablet,New South Wales,4,A$0.00
+001092,tablet,Victoria,4,A$0.00
+001092,tablet,Western Australia,1,A$0.00
+001092,tablet,Auckland,2,A$0.00
+001093,desktop,New South Wales,6,A$0.00
+001093,desktop,Queensland,2,A$0.00
+001093,desktop,Victoria,2,A$0.00
+001093,desktop,Western Australia,2,A$0.00
+001093,mobile,New South Wales,8,A$0.00
+001093,mobile,Queensland,11,A$126.64
+001093,mobile,South Australia,3,A$0.00
+001093,mobile,Victoria,6,A$0.00
+001093,tablet,New South Wales,2,A$0.00
+001093,tablet,South Australia,1,A$0.00
+001094,desktop,(not set),1,A$0.00
+001094,desktop,Australian Capital Territory,1,A$0.00
+001094,desktop,New South Wales,5,A$0.00
+001094,desktop,Queensland,5,A$0.00
+001094,desktop,Victoria,7,A$507.00
+001094,desktop,Western Australia,3,A$0.00
+001094,desktop,New Jersey,1,A$0.00
+001094,desktop,Nelson,1,A$0.00
+001094,mobile,New South Wales,7,A$202.00
+001094,mobile,South Australia,1,A$0.00
+001094,mobile,Victoria,11,A$0.00
+001094,mobile,Auckland,1,A$0.00
+001094,tablet,New South Wales,1,A$0.00
+001094,tablet,Queensland,1,A$0.00
+001094,tablet,Victoria,4,A$0.00
+001094,tablet,Western Australia,1,A$0.00
+001095,desktop,Australian Capital Territory,1,A$0.00
+001095,desktop,New South Wales,3,A$160.00
+001095,desktop,Queensland,2,A$0.00
+001095,desktop,South Australia,2,A$0.00
+001095,desktop,Victoria,2,A$0.00
+001095,desktop,Western Australia,4,A$0.00
+001095,desktop,Canterbury,1,A$0.00
+001095,mobile,New South Wales,13,A$0.00
+001095,mobile,Queensland,4,A$0.00
+001095,mobile,South Australia,3,A$0.00
+001095,mobile,Victoria,15,A$0.00
+001095,mobile,Auckland,2,A$0.00
+001095,mobile,Canterbury,1,A$0.00
+001095,tablet,New South Wales,4,A$0.00
+001095,tablet,Queensland,1,A$0.00
+001095,tablet,Victoria,3,A$0.00
+001095,tablet,Western Australia,2,A$0.00
+001095,tablet,Canterbury,1,A$0.00
+001096,desktop,Australian Capital Territory,1,A$0.00
+001096,desktop,New South Wales,8,A$0.00
+001096,desktop,Queensland,1,A$0.00
+001096,desktop,Victoria,5,A$0.00
+001096,desktop,Western Australia,4,A$0.00
+001096,mobile,New South Wales,18,A$0.00
+001096,mobile,Queensland,4,A$0.00
+001096,mobile,South Australia,3,A$0.00
+001096,mobile,Tasmania,1,A$0.00
+001096,mobile,Victoria,7,A$0.00
+001096,mobile,Western Australia,2,A$0.00
+001096,mobile,Auckland,1,A$0.00
+001096,mobile,Hawke's Bay,1,A$0.00
+001096,mobile,Wellington,1,A$0.00
+001096,tablet,New South Wales,4,A$0.00
+001097,desktop,New South Wales,5,A$159.00
+001097,desktop,Queensland,2,A$0.00
+001097,desktop,Victoria,2,A$0.00
+001097,desktop,Western Australia,5,A$0.00
+001097,desktop,Maharashtra,1,A$0.00
+001097,mobile,Australian Capital Territory,1,A$0.00
+001097,mobile,New South Wales,7,A$0.00
+001097,mobile,Queensland,5,A$0.00
+001097,mobile,South Australia,1,A$0.00
+001097,mobile,Victoria,13,A$0.00
+001097,mobile,Western Australia,3,A$0.00
+001097,tablet,New South Wales,2,A$0.00
+001097,tablet,Queensland,1,A$0.00
+001097,tablet,South Australia,1,A$0.00
+001097,tablet,Victoria,6,A$0.00
+001098,desktop,New South Wales,3,A$158.00
+001098,desktop,Queensland,2,A$0.00
+001098,desktop,Victoria,2,A$0.00
+001098,desktop,Western Australia,4,A$0.00
+001098,desktop,Special Region of Yogyakarta,1,A$0.00
+001098,desktop,Auckland,1,A$0.00
+001098,desktop,Wellington,1,A$0.00
+001098,desktop,Dubai,1,A$0.00
+001098,mobile,(not set),1,A$0.00
+001098,mobile,New South Wales,15,A$0.00
+001098,mobile,Queensland,3,A$0.00
+001098,mobile,Victoria,12,A$0.00
+001098,mobile,Western Australia,2,A$0.00
+001098,mobile,Karnataka,1,A$0.00
+001098,mobile,Auckland,1,A$0.00
+001098,mobile,County Dublin,1,A$0.00
+001098,tablet,New South Wales,1,A$0.00
+001098,tablet,Queensland,1,A$0.00
+001098,tablet,Victoria,2,A$0.00
+001098,tablet,Western Australia,1,A$0.00
+001098,tablet,Wellington,1,A$0.00
+001099,desktop,(not set),2,A$0.00
+001099,desktop,Australian Capital Territory,1,A$0.00
+001099,desktop,New South Wales,8,A$0.00
+001099,desktop,Queensland,1,A$0.00
+001099,desktop,Victoria,7,A$0.00
+001099,desktop,Western Australia,5,A$0.00
+001099,desktop,Auckland,1,A$0.00
+001099,mobile,Australian Capital Territory,1,A$0.00
+001099,mobile,New South Wales,10,A$0.00
+001099,mobile,Queensland,5,A$0.00
+001099,mobile,South Australia,3,A$0.00
+001099,mobile,Victoria,10,A$0.00
+001099,mobile,Western Australia,2,A$0.00
+001099,tablet,New South Wales,3,A$0.00
+001099,tablet,Queensland,1,A$0.00
+001099,tablet,South Australia,1,A$0.00
+001099,tablet,Victoria,3,A$0.00
+001099,tablet,Canterbury,1,A$0.00
+001100,desktop,(not set),1,A$0.00
+001100,desktop,Australian Capital Territory,2,A$307.41
+001100,desktop,New South Wales,5,A$189.00
+001100,desktop,Queensland,3,A$0.00
+001100,desktop,South Australia,1,A$0.00
+001100,desktop,Tasmania,2,A$0.00
+001100,desktop,Victoria,4,A$0.00
+001100,desktop,Western Australia,3,A$0.00
+001100,desktop,California,1,A$0.00
+001100,desktop,Canterbury,1,A$0.00
+001100,desktop,Otago,1,A$0.00
+001100,mobile,(not set),1,A$0.00
+001100,mobile,Australian Capital Territory,1,A$0.00
+001100,mobile,New South Wales,16,A$235.00
+001100,mobile,Queensland,1,A$0.00
+001100,mobile,South Australia,3,A$0.00
+001100,mobile,Victoria,14,A$0.00
+001100,mobile,Western Australia,4,A$0.00
+001100,mobile,Auckland,1,A$0.00
+001100,tablet,New South Wales,2,A$0.00
+001100,tablet,Victoria,4,A$0.00
+001100,tablet,Western Australia,3,A$0.00
+001101,desktop,New South Wales,6,A$198.00
+001101,desktop,Queensland,3,A$0.00
+001101,desktop,Victoria,2,A$0.00
+001101,mobile,Australian Capital Territory,1,A$0.00
+001101,mobile,New South Wales,17,A$0.00
+001101,mobile,Queensland,7,A$0.00
+001101,mobile,Victoria,12,A$0.00
+001101,mobile,Bay Of Plenty,1,A$0.00
+001101,tablet,New South Wales,2,A$0.00
+001101,tablet,Victoria,3,A$0.00
+001102,desktop,New South Wales,5,A$0.00
+001102,desktop,Queensland,2,A$0.00
+001102,desktop,Victoria,5,A$0.00
+001102,desktop,Western Australia,1,A$230.00
+001102,desktop,Auckland,1,A$0.00
+001102,desktop,Virginia,1,A$0.00
+001102,mobile,Australian Capital Territory,2,A$0.00
+001102,mobile,New South Wales,18,A$0.00
+001102,mobile,Northern Territory,1,A$0.00
+001102,mobile,Queensland,3,A$0.00
+001102,mobile,Victoria,8,A$0.00
+001102,mobile,Western Australia,1,A$0.00
+001102,mobile,Oregon,1,A$0.00
+001102,mobile,Canterbury,1,A$0.00
+001102,mobile,Manawatu-Wanganui,1,A$0.00
+001102,tablet,New South Wales,3,A$0.00
+001102,tablet,Victoria,3,A$0.00
+001103,desktop,New South Wales,7,A$0.00
+001103,desktop,Queensland,2,A$132.00
+001103,desktop,Victoria,4,A$0.00
+001103,desktop,Western Australia,2,A$0.00
+001103,desktop,Karnataka,1,A$0.00
+001103,desktop,Auckland,1,A$0.00
+001103,mobile,New South Wales,6,A$0.00
+001103,mobile,Northern Territory,1,A$0.00
+001103,mobile,Queensland,3,A$0.00
+001103,mobile,South Australia,1,A$0.00
+001103,mobile,Victoria,9,A$0.00
+001103,mobile,Western Australia,1,A$0.00
+001103,tablet,New South Wales,1,A$165.00
+001103,tablet,Queensland,1,A$0.00
+001103,tablet,Victoria,4,A$0.00
+001104,desktop,(not set),1,A$0.00
+001104,desktop,Australian Capital Territory,1,A$0.00
+001104,desktop,New South Wales,1,A$0.00
+001104,desktop,Queensland,2,A$0.00
+001104,desktop,South Australia,1,A$0.00
+001104,desktop,Victoria,6,A$0.00
+001104,desktop,Western Australia,2,A$78.00
+001104,desktop,Auckland,1,A$0.00
+001104,desktop,Metro Manila,1,A$0.00
+001104,mobile,(not set),0,A$468.29
+001104,mobile,New South Wales,12,A$0.00
+001104,mobile,Queensland,2,A$0.00
+001104,mobile,Victoria,7,A$0.00
+001104,mobile,Western Australia,2,A$0.00
+001104,mobile,Canterbury,1,A$0.00
+001104,tablet,New South Wales,3,A$70.00
+001104,tablet,Queensland,4,A$0.00
+001104,tablet,Victoria,2,A$0.00
+001104,tablet,Western Australia,2,A$0.00
+001105,desktop,New South Wales,6,A$0.00
+001105,desktop,Queensland,2,A$0.00
+001105,desktop,Victoria,2,A$0.00
+001105,desktop,Western Australia,0,A$200.59
+001105,desktop,Otago,1,A$0.00
+001105,mobile,New South Wales,6,A$0.00
+001105,mobile,Queensland,4,A$0.00
+001105,mobile,South Australia,1,A$0.00
+001105,mobile,Victoria,13,A$0.00
+001105,mobile,Western Australia,3,A$0.00
+001105,tablet,New South Wales,1,A$331.00
+001105,tablet,Queensland,1,A$0.00
+001105,tablet,Victoria,4,A$0.00
+001106,desktop,New South Wales,3,A$210.00
+001106,desktop,Queensland,4,A$0.00
+001106,desktop,South Australia,1,A$0.00
+001106,desktop,Victoria,4,A$0.00
+001106,desktop,Western Australia,4,A$0.00
+001106,mobile,New South Wales,7,A$0.00
+001106,mobile,Queensland,4,A$0.00
+001106,mobile,South Australia,1,A$0.00
+001106,mobile,Victoria,5,A$0.00
+001106,mobile,Auckland,1,A$0.00
+001106,tablet,New South Wales,2,A$125.00
+001106,tablet,Queensland,1,A$0.00
+001106,tablet,Victoria,4,A$0.00
+001106,tablet,Western Australia,1,A$0.00
+001107,desktop,New South Wales,5,A$247.00
+001107,desktop,Queensland,0,A$50.66
+001107,desktop,Victoria,4,A$0.00
+001107,desktop,Western Australia,1,A$0.00
+001107,desktop,British Columbia,0,A$302.00
+001107,desktop,Madhya Pradesh,1,A$0.00
+001107,mobile,Australian Capital Territory,2,A$0.00
+001107,mobile,New South Wales,9,A$0.00
+001107,mobile,Northern Territory,1,A$0.00
+001107,mobile,Queensland,5,A$0.00
+001107,mobile,South Australia,2,A$0.00
+001107,mobile,Victoria,7,A$0.00
+001107,mobile,Western Australia,1,A$0.00
+001107,mobile,Auckland,2,A$0.00
+001107,mobile,Hawke's Bay,1,A$0.00
+001107,mobile,Manawatu-Wanganui,1,A$0.00
+001107,tablet,New South Wales,2,A$0.00
+001107,tablet,Queensland,3,A$0.00
+001107,tablet,Victoria,1,A$0.00
+001107,tablet,Western Australia,3,A$0.00
+001108,desktop,(not set),1,A$0.00
+001108,desktop,New South Wales,4,A$558.00
+001108,desktop,Queensland,3,A$0.00
+001108,desktop,South Australia,1,A$0.00
+001108,desktop,Victoria,4,A$0.00
+001108,desktop,Western Australia,1,A$0.00
+001108,desktop,Auckland,1,A$0.00
+001108,desktop,Northland,1,A$0.00
+001108,desktop,Occitanie,1,A$0.00
+001108,mobile,New South Wales,21,A$0.00
+001108,mobile,Queensland,5,A$0.00
+001108,mobile,Victoria,7,A$0.00
+001108,mobile,Western Australia,3,A$0.00
+001108,tablet,Victoria,2,A$0.00
+001109,desktop,New South Wales,4,A$149.00
+001109,desktop,South Australia,1,A$0.00
+001109,desktop,Victoria,8,A$0.00
+001109,desktop,Western Australia,2,A$0.00
+001109,desktop,England,0,A$155.00
+001109,mobile,New South Wales,17,A$0.00
+001109,mobile,Queensland,5,A$0.00
+001109,mobile,South Australia,3,A$0.00
+001109,mobile,Victoria,12,A$0.00
+001109,mobile,Western Australia,2,A$0.00
+001109,mobile,Auckland,1,A$0.00
+001109,mobile,Southland,1,A$0.00
+001109,tablet,New South Wales,2,A$0.00
+001110,desktop,Australian Capital Territory,1,A$0.00
+001110,desktop,New South Wales,4,A$0.00
+001110,desktop,Queensland,2,A$0.00
+001110,desktop,Victoria,5,A$213.00
+001110,desktop,Western Australia,1,A$0.00
+001110,mobile,New South Wales,12,A$0.00
+001110,mobile,Queensland,5,A$0.00
+001110,mobile,South Australia,1,A$0.00
+001110,mobile,Victoria,11,A$0.00
+001110,mobile,Western Australia,1,A$0.00
+001110,tablet,New South Wales,1,A$125.00
+001110,tablet,Queensland,1,A$0.00
+001110,tablet,Tasmania,1,A$0.00
+001110,tablet,Victoria,1,A$0.00
+001111,desktop,Queensland,1,A$0.00
+001111,desktop,South Australia,1,A$0.00
+001111,desktop,Tasmania,1,A$0.00
+001111,desktop,Victoria,4,A$0.00
+001111,desktop,Western Australia,1,A$0.00
+001111,desktop,Auckland,2,A$0.00
+001111,mobile,New South Wales,22,A$245.17
+001111,mobile,Northern Territory,1,A$0.00
+001111,mobile,Queensland,5,A$0.00
+001111,mobile,South Australia,4,A$0.00
+001111,mobile,Victoria,7,A$203.63
+001111,mobile,Western Australia,1,A$0.00
+001111,mobile,England,1,A$0.00
+001111,mobile,Maharashtra,1,A$0.00
+001111,mobile,Kentucky,1,A$0.00
+001111,tablet,Victoria,5,A$0.00
+001111,tablet,Western Australia,1,A$0.00
+001111,tablet,Auckland,1,A$0.00
+001112,desktop,New South Wales,10,A$219.00
+001112,desktop,Victoria,3,A$0.00
+001112,desktop,Western Australia,1,A$0.00
+001112,mobile,New South Wales,13,A$269.00
+001112,mobile,Queensland,8,A$0.00
+001112,mobile,Victoria,7,A$74.00
+001112,mobile,Western Australia,5,A$119.00
+001112,mobile,Auckland,1,A$0.00
+001112,mobile,Nelson,1,A$0.00
+001112,mobile,Wellington,1,A$0.00
+001112,tablet,New South Wales,5,A$0.00
+001112,tablet,Victoria,1,A$0.00
+001112,tablet,Special Region of Yogyakarta,1,A$0.00
+001113,desktop,Australian Capital Territory,1,A$0.00
+001113,desktop,New South Wales,8,A$0.00
+001113,desktop,Queensland,4,A$0.00
+001113,desktop,Victoria,6,A$0.00
+001113,desktop,Western Australia,2,A$0.00
+001113,desktop,Special Region of Yogyakarta,1,A$0.00
+001113,desktop,Maharashtra,1,A$0.00
+001113,desktop,Bay Of Plenty,1,A$0.00
+001113,desktop,Wellington,1,A$0.00
+001113,mobile,New South Wales,13,A$0.00
+001113,mobile,Queensland,4,A$0.00
+001113,mobile,Victoria,9,A$0.00
+001113,mobile,Western Australia,4,A$0.00
+001113,mobile,Auckland,1,A$0.00
+001113,mobile,Otago,1,A$0.00
+001113,tablet,New South Wales,4,A$103.00
+001113,tablet,Queensland,3,A$0.00
+001113,tablet,Victoria,2,A$0.00
+001113,tablet,England,1,A$0.00
+001114,desktop,(not set),1,A$0.00
+001114,desktop,New South Wales,9,A$0.00
+001114,desktop,Queensland,3,A$0.00
+001114,desktop,South Australia,1,A$0.00
+001114,desktop,Victoria,2,A$0.00
+001114,desktop,Western Australia,2,A$149.00
+001114,desktop,Wellington,1,A$0.00
+001114,mobile,Australian Capital Territory,1,A$0.00
+001114,mobile,New South Wales,16,A$0.00
+001114,mobile,Queensland,3,A$0.00
+001114,mobile,South Australia,1,A$0.00
+001114,mobile,Victoria,12,A$86.00
+001114,mobile,Western Australia,3,A$0.00
+001114,mobile,Ile-de-France,1,A$0.00
+001114,mobile,Auckland,1,A$0.00
+001114,tablet,New South Wales,3,A$0.00
+001114,tablet,Queensland,2,A$0.00
+001114,tablet,Victoria,2,A$0.00
+001115,desktop,New South Wales,3,A$0.00
+001115,desktop,Queensland,3,A$0.00
+001115,desktop,Victoria,2,A$0.00
+001115,desktop,Western Australia,1,A$0.00
+001115,mobile,New South Wales,10,A$229.00
+001115,mobile,Queensland,5,A$0.00
+001115,mobile,South Australia,2,A$0.00
+001115,mobile,Victoria,14,A$0.00
+001115,mobile,Western Australia,3,A$0.00
+001115,mobile,Otago,1,A$0.00
+001115,tablet,Australian Capital Territory,1,A$0.00
+001115,tablet,New South Wales,3,A$0.00
+001115,tablet,Queensland,4,A$0.00
+001115,tablet,Victoria,2,A$0.00
+001115,tablet,Auckland,1,A$0.00
+001116,desktop,(not set),1,A$0.00
+001116,desktop,New South Wales,6,A$0.00
+001116,desktop,Queensland,1,A$0.00
+001116,desktop,Tasmania,1,A$0.00
+001116,desktop,Victoria,11,A$0.00
+001116,desktop,Western Australia,2,A$114.00
+001116,desktop,Auckland,1,A$0.00
+001116,mobile,New South Wales,4,A$0.00
+001116,mobile,Queensland,4,A$0.00
+001116,mobile,Tasmania,2,A$0.00
+001116,mobile,Victoria,13,A$0.00
+001116,mobile,Western Australia,1,A$0.00
+001116,mobile,Auckland,1,A$0.00
+001116,tablet,New South Wales,1,A$0.00
+001116,tablet,Queensland,1,A$0.00
+001116,tablet,Victoria,2,A$0.00
+001117,desktop,New South Wales,9,A$51.95
+001117,desktop,Queensland,4,A$0.00
+001117,desktop,Victoria,5,A$155.00
+001117,desktop,Bay Of Plenty,1,A$0.00
+001117,mobile,New South Wales,7,A$0.00
+001117,mobile,Queensland,6,A$0.00
+001117,mobile,South Australia,1,A$315.00
+001117,mobile,Victoria,16,A$0.00
+001117,mobile,Western Australia,3,A$270.00
+001117,mobile,Maharashtra,1,A$0.00
+001117,mobile,Auckland,1,A$0.00
+001117,mobile,California,2,A$0.00
+001117,tablet,New South Wales,3,A$0.00
+001117,tablet,Victoria,2,A$0.00
+001117,tablet,Western Australia,2,A$0.00
+001118,desktop,New South Wales,5,A$0.00
+001118,desktop,Queensland,1,A$0.00
+001118,desktop,Victoria,3,A$0.00
+001118,desktop,Western Australia,2,A$0.00
+001118,desktop,Provence-Alpes-Cote d'Azur,1,A$0.00
+001118,desktop,New Jersey,1,A$0.00
+001118,mobile,New South Wales,15,A$0.00
+001118,mobile,Queensland,5,A$0.00
+001118,mobile,South Australia,2,A$0.00
+001118,mobile,Victoria,16,A$0.00
+001118,mobile,Auckland,1,A$0.00
+001118,mobile,Manawatu-Wanganui,1,A$0.00
+001118,tablet,New South Wales,2,A$0.00
+001119,desktop,New South Wales,5,A$0.00
+001119,desktop,Queensland,3,A$0.00
+001119,desktop,South Australia,1,A$0.00
+001119,desktop,Victoria,4,A$0.00
+001119,desktop,Western Australia,1,A$0.00
+001119,desktop,Beijing,1,A$0.00
+001119,desktop,Auckland,0,A$67.00
+001119,desktop,Otago,1,A$0.00
+001119,mobile,New South Wales,17,A$0.00
+001119,mobile,Queensland,5,A$0.00
+001119,mobile,South Australia,1,A$0.00
+001119,mobile,Victoria,9,A$0.00
+001119,mobile,Western Australia,2,A$0.00
+001119,mobile,Budapest,1,A$0.00
+001119,mobile,Hawke's Bay,1,A$0.00
+001119,tablet,New South Wales,2,A$0.00
+001119,tablet,South Australia,2,A$0.00
+001119,tablet,Victoria,3,A$0.00
+001119,tablet,Western Australia,2,A$0.00
+001119,tablet,Auckland,1,A$0.00
+001120,desktop,New South Wales,4,A$50.00
+001120,desktop,Queensland,2,A$0.00
+001120,desktop,South Australia,1,A$0.00
+001120,desktop,Tasmania,1,A$0.00
+001120,desktop,Victoria,5,A$0.00
+001120,desktop,Western Australia,5,A$0.00
+001120,mobile,New South Wales,17,A$0.00
+001120,mobile,Queensland,4,A$0.00
+001120,mobile,Victoria,8,A$0.00
+001120,mobile,Western Australia,1,A$0.00
+001120,mobile,Auckland,3,A$0.00
+001120,mobile,Wellington,2,A$0.00
+001120,tablet,New South Wales,1,A$0.00
+001120,tablet,Queensland,2,A$0.00
+001120,tablet,Victoria,4,A$0.00
+001121,desktop,New South Wales,7,A$0.00
+001121,desktop,Queensland,2,A$0.00
+001121,desktop,South Australia,1,A$0.00
+001121,desktop,Victoria,4,A$0.00
+001121,desktop,Western Australia,2,A$0.00
+001121,mobile,New South Wales,10,A$0.00
+001121,mobile,Queensland,5,A$0.00
+001121,mobile,Victoria,8,A$0.00
+001121,mobile,Western Australia,2,A$0.00
+001121,mobile,Auckland,1,A$0.00
+001121,mobile,Otago,1,A$0.00
+001121,tablet,Queensland,0,A$199.98
+001121,tablet,Manawatu-Wanganui,1,A$0.00
+001122,desktop,New South Wales,2,A$158.76
+001122,desktop,Queensland,2,A$0.00
+001122,desktop,Victoria,4,A$298.00
+001122,desktop,Western Australia,6,A$277.00
+001122,desktop,California,1,A$0.00
+001122,mobile,New South Wales,9,A$0.00
+001122,mobile,Queensland,4,A$0.00
+001122,mobile,South Australia,1,A$0.00
+001122,mobile,Victoria,22,A$0.00
+001122,tablet,Australian Capital Territory,2,A$0.00
+001122,tablet,New South Wales,1,A$0.00
+001122,tablet,Queensland,6,A$0.00
+001122,tablet,South Australia,1,A$0.00
+001123,desktop,New South Wales,5,A$187.46
+001123,desktop,Queensland,2,A$0.00
+001123,desktop,South Australia,2,A$0.00
+001123,desktop,Victoria,3,A$0.00
+001123,desktop,Western Australia,2,A$0.00
+001123,desktop,Auckland,1,A$0.00
+001123,desktop,Canterbury,1,A$0.00
+001123,mobile,New South Wales,8,A$0.00
+001123,mobile,Queensland,2,A$0.00
+001123,mobile,Victoria,13,A$0.00
+001123,mobile,Western Australia,2,A$0.00
+001123,mobile,Northland,1,A$0.00
+001123,mobile,Port Louis District,1,A$0.00
+001123,tablet,New South Wales,2,A$0.00
+001123,tablet,Queensland,2,A$0.00
+001123,tablet,Victoria,1,A$0.00
+001123,tablet,Manawatu-Wanganui,1,A$0.00
+001124,desktop,New South Wales,4,A$89.00
+001124,desktop,Queensland,7,A$0.00
+001124,desktop,Victoria,5,A$219.00
+001124,desktop,Western Australia,6,A$0.00
+001124,desktop,Enugu,1,A$0.00
+001124,mobile,Australian Capital Territory,1,A$0.00
+001124,mobile,New South Wales,9,A$80.00
+001124,mobile,Queensland,6,A$0.00
+001124,mobile,South Australia,2,A$0.00
+001124,mobile,Victoria,8,A$49.64
+001124,mobile,Western Australia,2,A$0.00
+001124,mobile,England,1,A$0.00
+001124,mobile,Troms,1,A$0.00
+001124,mobile,Auckland,1,A$0.00
+001124,mobile,Wellington,1,A$0.00
+001124,tablet,New South Wales,0,A$101.31
+001124,tablet,Tasmania,0,A$79.00
+001124,tablet,Victoria,5,A$0.00
+001124,tablet,Western Australia,1,A$0.00
+001124,tablet,Maharashtra,1,A$0.00
+001124,tablet,Auckland,1,A$0.00
+001125,desktop,New South Wales,6,A$0.00
+001125,desktop,Queensland,6,A$0.00
+001125,desktop,Victoria,1,A$0.00
+001125,desktop,Western Australia,4,A$0.00
+001125,desktop,Oklahoma,1,A$0.00
+001125,desktop,Occitanie,0,A$100.00
+001125,mobile,Australian Capital Territory,1,A$0.00
+001125,mobile,New South Wales,17,A$0.00
+001125,mobile,Queensland,8,A$0.00
+001125,mobile,South Australia,4,A$0.00
+001125,mobile,Victoria,13,A$0.00
+001125,mobile,Western Australia,2,A$0.00
+001125,mobile,Bay Of Plenty,1,A$0.00
+001125,mobile,Hawke's Bay,1,A$0.00
+001125,tablet,New South Wales,1,A$0.00
+001125,tablet,South Australia,1,A$0.00
+001125,tablet,Victoria,1,A$0.00
+001125,tablet,Western Australia,1,A$0.00
+001126,desktop,Australian Capital Territory,3,A$0.00
+001126,desktop,New South Wales,2,A$298.00
+001126,desktop,Queensland,3,A$0.00
+001126,desktop,Victoria,2,A$0.00
+001126,desktop,Western Australia,3,A$0.00
+001126,mobile,New South Wales,15,A$0.00
+001126,mobile,Queensland,3,A$0.00
+001126,mobile,South Australia,1,A$0.00
+001126,mobile,Tasmania,1,A$0.00
+001126,mobile,Victoria,7,A$0.00
+001126,mobile,Western Australia,2,A$0.00
+001126,mobile,Auckland,2,A$0.00
+001126,mobile,Otago,1,A$0.00
+001126,tablet,New South Wales,2,A$0.00
+001126,tablet,Tasmania,1,A$0.00
+001126,tablet,Western Australia,1,A$0.00
+001127,desktop,Australian Capital Territory,1,A$0.00
+001127,desktop,New South Wales,6,A$0.00
+001127,desktop,Victoria,2,A$0.00
+001127,desktop,Western Australia,2,A$115.49
+001127,mobile,New South Wales,14,A$122.00
+001127,mobile,Queensland,3,A$0.00
+001127,mobile,South Australia,1,A$0.00
+001127,mobile,Victoria,16,A$189.45
+001127,mobile,Western Australia,7,A$0.00
+001127,mobile,Auckland,1,A$0.00
+001127,mobile,Wellington,1,A$0.00
+001127,tablet,Victoria,3,A$0.00
+001128,desktop,New South Wales,4,A$106.00
+001128,desktop,Queensland,1,A$0.00
+001128,desktop,South Australia,2,A$0.00
+001128,desktop,Tasmania,1,A$0.00
+001128,desktop,Victoria,3,A$0.00
+001128,desktop,Western Australia,5,A$0.00
+001128,desktop,New Jersey,1,A$0.00
+001128,desktop,Otago,1,A$0.00
+001128,mobile,New South Wales,13,A$0.00
+001128,mobile,Queensland,8,A$0.00
+001128,mobile,South Australia,1,A$0.00
+001128,mobile,Victoria,18,A$0.00
+001128,mobile,Western Australia,3,A$0.00
+001128,mobile,Auckland,1,A$0.00
+001128,mobile,Canterbury,1,A$0.00
+001128,mobile,Wellington,1,A$0.00
+001128,tablet,New South Wales,3,A$0.00
+001128,tablet,Queensland,1,A$0.00
+001128,tablet,Victoria,3,A$0.00
+001128,tablet,Wellington,1,A$0.00
+001129,desktop,New South Wales,3,A$0.00
+001129,desktop,Queensland,3,A$0.00
+001129,desktop,South Australia,1,A$0.00
+001129,desktop,Victoria,9,A$0.00
+001129,desktop,Western Australia,2,A$0.00
+001129,desktop,Gauteng,1,A$0.00
+001129,mobile,New South Wales,18,A$0.00
+001129,mobile,Queensland,7,A$0.00
+001129,mobile,South Australia,1,A$0.00
+001129,mobile,Victoria,12,A$0.00
+001129,mobile,Western Australia,1,A$0.00
+001129,mobile,Auckland,1,A$0.00
+001129,tablet,New South Wales,4,A$0.00
+001129,tablet,Auckland,1,A$0.00
+001130,desktop,New South Wales,6,A$0.00
+001130,desktop,Queensland,5,A$229.00
+001130,desktop,South Australia,1,A$0.00
+001130,desktop,Victoria,5,A$0.00
+001130,desktop,Western Australia,2,A$0.00
+001130,desktop,Sharjah,1,A$0.00
+001130,mobile,New South Wales,14,A$0.00
+001130,mobile,Queensland,8,A$0.00
+001130,mobile,Victoria,12,A$0.00
+001130,mobile,Western Australia,1,A$0.00
+001130,mobile,Auckland,2,A$0.00
+001130,tablet,New South Wales,2,A$80.00
+001130,tablet,Queensland,1,A$0.00
+001130,tablet,Victoria,3,A$0.00
+001130,tablet,Western Australia,1,A$0.00
+001131,desktop,New South Wales,6,A$0.00
+001131,desktop,Queensland,2,A$0.00
+001131,desktop,Victoria,4,A$260.00
+001131,desktop,Western Australia,6,A$0.00
+001131,desktop,Canterbury,1,A$0.00
+001131,mobile,New South Wales,16,A$0.00
+001131,mobile,Queensland,13,A$0.00
+001131,mobile,Victoria,6,A$0.00
+001131,mobile,Western Australia,4,A$0.00
+001131,mobile,England,1,A$0.00
+001131,mobile,Auckland,1,A$0.00
+001131,mobile,Canterbury,1,A$0.00
+001131,mobile,Hawke's Bay,1,A$0.00
+001131,tablet,New South Wales,5,A$0.00
+001131,tablet,Victoria,1,A$0.00
+001132,desktop,(not set),1,A$0.00
+001132,desktop,New South Wales,7,A$155.00
+001132,desktop,Queensland,5,A$305.00
+001132,desktop,Victoria,5,A$0.00
+001132,desktop,Western Australia,1,A$0.00
+001132,desktop,England,1,A$0.00
+001132,desktop,Tokyo,1,A$0.00
+001132,desktop,Metro Manila,1,A$0.00
+001132,desktop,Massachusetts,1,A$0.00
+001132,mobile,New South Wales,23,A$0.00
+001132,mobile,Queensland,4,A$0.00
+001132,mobile,South Australia,1,A$0.00
+001132,mobile,Victoria,13,A$292.79
+001132,mobile,Western Australia,3,A$0.00
+001132,tablet,New South Wales,2,A$0.00
+001132,tablet,Queensland,2,A$0.00
+001132,tablet,Victoria,1,A$0.00
+001132,tablet,Western Australia,2,A$0.00
+001132,tablet,Waikato,1,A$0.00
+001133,desktop,New South Wales,6,A$0.00
+001133,desktop,Queensland,4,A$0.00
+001133,desktop,Victoria,8,A$0.00
+001133,desktop,Western Australia,3,A$0.00
+001133,desktop,Wellington,1,A$0.00
+001133,mobile,(not set),1,A$0.00
+001133,mobile,Australian Capital Territory,1,A$0.00
+001133,mobile,New South Wales,9,A$100.00
+001133,mobile,Queensland,4,A$0.00
+001133,mobile,South Australia,1,A$0.00
+001133,mobile,Victoria,12,A$0.00
+001133,mobile,Western Australia,4,A$0.00
+001133,tablet,Australian Capital Territory,1,A$0.00
+001133,tablet,New South Wales,2,A$0.00
+001133,tablet,Queensland,2,A$0.00
+001133,tablet,Victoria,2,A$0.00
+001134,desktop,Australian Capital Territory,1,A$0.00
+001134,desktop,New South Wales,5,A$0.00
+001134,desktop,Queensland,1,A$0.00
+001134,desktop,South Australia,1,A$0.00
+001134,desktop,Victoria,3,A$0.00
+001134,desktop,Western Australia,2,A$0.00
+001134,desktop,Auckland,2,A$0.00
+001134,mobile,New South Wales,14,A$0.00
+001134,mobile,Queensland,9,A$0.00
+001134,mobile,South Australia,2,A$0.00
+001134,mobile,Victoria,12,A$0.00
+001134,mobile,Western Australia,5,A$0.00
+001134,mobile,Auckland,2,A$0.00
+001134,mobile,Manawatu-Wanganui,1,A$0.00
+001134,mobile,Waikato,1,A$0.00
+001134,tablet,New South Wales,5,A$0.00
+001134,tablet,Queensland,2,A$0.00
+001134,tablet,Victoria,2,A$0.00
+001135,desktop,New South Wales,7,A$0.00
+001135,desktop,Queensland,2,A$284.00
+001135,desktop,Victoria,8,A$0.00
+001135,desktop,Western Australia,2,A$0.00
+001135,desktop,Manawatu-Wanganui,1,A$0.00
+001135,mobile,New South Wales,11,A$0.00
+001135,mobile,Queensland,10,A$0.00
+001135,mobile,South Australia,1,A$0.00
+001135,mobile,Victoria,11,A$0.00
+001135,mobile,Western Australia,3,A$110.00
+001135,mobile,Auckland,1,A$0.00
+001135,mobile,Bay Of Plenty,3,A$0.00
+001135,mobile,Busan,1,A$0.00
+001135,tablet,New South Wales,5,A$0.00
+001135,tablet,Queensland,1,A$0.00
+001135,tablet,South Australia,2,A$0.00
+001135,tablet,Victoria,1,A$0.00
+001135,tablet,Waikato,1,A$0.00
+001136,desktop,(not set),1,A$0.00
+001136,desktop,New South Wales,5,A$220.00
+001136,desktop,Victoria,12,A$0.00
+001136,desktop,Western Australia,1,A$0.00
+001136,mobile,New South Wales,10,A$0.00
+001136,mobile,Queensland,8,A$0.00
+001136,mobile,Victoria,5,A$0.00
+001136,mobile,Western Australia,3,A$0.00
+001136,mobile,Auckland,1,A$0.00
+001136,tablet,New South Wales,2,A$306.00
+001136,tablet,Queensland,1,A$0.00
+001136,tablet,Victoria,1,A$0.00
+001137,desktop,New South Wales,5,A$405.24
+001137,desktop,Queensland,3,A$0.00
+001137,desktop,Victoria,6,A$0.00
+001137,desktop,Western Australia,2,A$0.00
+001137,desktop,Sharjah,1,A$0.00
+001137,mobile,New South Wales,14,A$0.00
+001137,mobile,Queensland,6,A$0.00
+001137,mobile,South Australia,1,A$0.00
+001137,mobile,Victoria,12,A$150.00
+001137,mobile,Bay Of Plenty,1,A$0.00
+001137,mobile,Otago,1,A$0.00
+001137,tablet,New South Wales,1,A$0.00
+001137,tablet,Victoria,2,A$0.00
+001137,tablet,Western Australia,2,A$0.00
+001137,tablet,Taranaki,1,A$0.00
+001138,desktop,New South Wales,10,A$0.00
+001138,desktop,Queensland,4,A$0.00
+001138,desktop,Victoria,2,A$0.00
+001138,desktop,Western Australia,1,A$0.00
+001138,mobile,New South Wales,9,A$0.00
+001138,mobile,Queensland,9,A$0.00
+001138,mobile,South Australia,3,A$0.00
+001138,mobile,Victoria,10,A$0.00
+001138,mobile,Western Australia,2,A$0.00
+001138,mobile,Canterbury,1,A$0.00
+001138,tablet,New South Wales,1,A$0.00
+001138,tablet,Victoria,1,A$125.00
+001138,tablet,Western Australia,1,A$0.00
+001139,desktop,New South Wales,3,A$0.00
+001139,desktop,South Australia,1,A$0.00
+001139,desktop,Victoria,5,A$0.00
+001139,desktop,Karnataka,1,A$0.00
+001139,desktop,Auckland,1,A$0.00
+001139,mobile,New South Wales,12,A$308.00
+001139,mobile,Northern Territory,1,A$0.00
+001139,mobile,Queensland,3,A$0.00
+001139,mobile,South Australia,1,A$0.00
+001139,mobile,Victoria,9,A$0.00
+001139,mobile,Western Australia,3,A$0.00
+001139,mobile,Auckland,3,A$0.00
+001139,mobile,Wellington,1,A$0.00
+001139,tablet,Australian Capital Territory,1,A$0.00
+001139,tablet,Queensland,1,A$110.00
+001140,desktop,New South Wales,8,A$0.00
+001140,desktop,Queensland,1,A$0.00
+001140,desktop,Victoria,8,A$0.00
+001140,desktop,Western Australia,1,A$0.00
+001140,desktop,Manawatu-Wanganui,1,A$0.00
+001140,mobile,New South Wales,10,A$0.00
+001140,mobile,Queensland,4,A$0.00
+001140,mobile,Victoria,9,A$0.00
+001140,mobile,Western Australia,5,A$267.00
+001140,mobile,Schleswig-Holstein,1,A$0.00
+001140,mobile,Waikato,1,A$0.00
+001140,tablet,New South Wales,2,A$0.00
+001140,tablet,South Australia,2,A$0.00
+001140,tablet,Victoria,2,A$0.00
+001140,tablet,Western Australia,2,A$0.00
+001140,tablet,Bay Of Plenty,1,A$0.00
+001141,desktop,New South Wales,6,A$0.00
+001141,desktop,Queensland,1,A$0.00
+001141,desktop,South Australia,1,A$0.00
+001141,desktop,Victoria,2,A$56.00
+001141,desktop,Western Australia,1,A$0.00
+001141,desktop,Karnataka,1,A$0.00
+001141,desktop,Auckland,1,A$0.00
+001141,desktop,New Jersey,1,A$0.00
+001141,mobile,New South Wales,8,A$0.00
+001141,mobile,Queensland,3,A$0.00
+001141,mobile,South Australia,1,A$0.00
+001141,mobile,Victoria,10,A$0.00
+001141,mobile,Western Australia,3,A$0.00
+001141,mobile,Canterbury,1,A$0.00
+001141,mobile,Wellington,1,A$0.00
+001141,tablet,Australian Capital Territory,1,A$0.00
+001141,tablet,New South Wales,1,A$0.00
+001141,tablet,Queensland,1,A$0.00
+001141,tablet,Victoria,2,A$0.00
+001141,tablet,Auckland,1,A$0.00
+001142,desktop,New South Wales,2,A$0.00
+001142,desktop,Queensland,3,A$0.00
+001142,desktop,South Australia,2,A$0.00
+001142,desktop,Victoria,2,A$0.00
+001142,desktop,Western Australia,1,A$0.00
+001142,desktop,Auckland,1,A$0.00
+001142,mobile,New South Wales,13,A$0.00
+001142,mobile,Queensland,5,A$0.00
+001142,mobile,Victoria,9,A$0.00
+001142,mobile,Western Australia,6,A$0.00
+001142,mobile,Auckland,2,A$0.00
+001142,mobile,Canterbury,1,A$0.00
+001142,mobile,Wellington,1,A$0.00
+001142,tablet,New South Wales,2,A$0.00
+001142,tablet,Queensland,1,A$322.17
+001142,tablet,Victoria,2,A$0.00
+001143,desktop,New South Wales,2,A$0.00
+001143,desktop,Queensland,5,A$0.00
+001143,desktop,South Australia,1,A$0.00
+001143,desktop,Victoria,4,A$0.00
+001143,desktop,Western Australia,6,A$0.00
+001143,desktop,Auckland,3,A$0.00
+001143,desktop,Otago,1,A$0.00
+001143,mobile,New South Wales,12,A$0.00
+001143,mobile,Queensland,6,A$0.00
+001143,mobile,Tasmania,1,A$0.00
+001143,mobile,Victoria,19,A$603.00
+001143,mobile,Western Australia,1,A$0.00
+001143,mobile,Baden-Wurttemberg,1,A$0.00
+001143,mobile,Manawatu-Wanganui,1,A$0.00
+001143,tablet,New South Wales,3,A$0.00
+001143,tablet,Victoria,1,A$0.00
+001144,desktop,Australian Capital Territory,1,A$0.00
+001144,desktop,New South Wales,3,A$0.00
+001144,desktop,Queensland,4,A$0.00
+001144,desktop,Victoria,5,A$0.00
+001144,desktop,Western Australia,3,A$0.00
+001144,desktop,Khon Kaen,1,A$0.00
+001144,mobile,New South Wales,12,A$0.00
+001144,mobile,Queensland,1,A$0.00
+001144,mobile,South Australia,1,A$0.00
+001144,mobile,Victoria,12,A$99.00
+001144,mobile,Western Australia,1,A$0.00
+001144,tablet,New South Wales,2,A$0.00
+001144,tablet,Queensland,1,A$0.00
+001144,tablet,Victoria,1,A$0.00
+001145,desktop,New South Wales,9,A$0.00
+001145,desktop,Queensland,3,A$0.00
+001145,desktop,South Australia,2,A$0.00
+001145,desktop,Victoria,8,A$0.00
+001145,desktop,Western Australia,1,A$0.00
+001145,desktop,Auckland,2,A$0.00
+001145,mobile,New South Wales,5,A$0.00
+001145,mobile,Queensland,4,A$0.00
+001145,mobile,Victoria,12,A$0.00
+001145,mobile,Western Australia,4,A$0.00
+001145,mobile,Hawke's Bay,1,A$0.00
+001145,tablet,New South Wales,1,A$0.00
+001145,tablet,South Australia,1,A$0.00
+001145,tablet,Victoria,1,A$0.00
+001145,tablet,Auckland,1,A$0.00
+001145,tablet,Otago,1,A$0.00
+001146,desktop,New South Wales,12,A$0.00
+001146,desktop,Queensland,1,A$0.00
+001146,desktop,Victoria,2,A$0.00
+001146,desktop,Western Australia,1,A$190.00
+001146,mobile,New South Wales,9,A$0.00
+001146,mobile,Queensland,4,A$0.00
+001146,mobile,South Australia,2,A$0.00
+001146,mobile,Victoria,11,A$0.00
+001146,mobile,Western Australia,2,A$0.00
+001146,mobile,Surat Thani,1,A$0.00
+001146,tablet,New South Wales,1,A$0.00
+001146,tablet,Victoria,1,A$0.00
+001147,desktop,(not set),1,A$0.00
+001147,desktop,New South Wales,3,A$0.00
+001147,desktop,Queensland,5,A$0.00
+001147,desktop,Victoria,4,A$0.00
+001147,desktop,Western Australia,2,A$0.00
+001147,mobile,New South Wales,7,A$236.31
+001147,mobile,Queensland,8,A$0.00
+001147,mobile,South Australia,1,A$0.00
+001147,mobile,Victoria,8,A$0.00
+001147,mobile,Baden-Wurttemberg,0,A$65.00
+001147,mobile,Auckland,2,A$0.00
+001147,mobile,Manawatu-Wanganui,1,A$0.00
+001147,tablet,South Australia,1,A$0.00
+001147,tablet,Victoria,3,A$0.00
+001147,tablet,Western Australia,2,A$0.00
+001148,desktop,New South Wales,8,A$0.00
+001148,desktop,Queensland,3,A$0.00
+001148,desktop,South Australia,1,A$0.00
+001148,desktop,Tasmania,1,A$0.00
+001148,desktop,Victoria,4,A$0.00
+001148,desktop,Western Australia,0,A$99.00
+001148,desktop,Auckland,1,A$0.00
+001148,mobile,New South Wales,10,A$0.00
+001148,mobile,Queensland,5,A$0.00
+001148,mobile,South Australia,1,A$0.00
+001148,mobile,Victoria,3,A$0.00
+001148,mobile,Auckland,1,A$0.00
+001148,tablet,New South Wales,2,A$0.00
+001148,tablet,Victoria,1,A$0.00
+001148,tablet,Western Australia,0,A$74.00
+001149,desktop,New South Wales,5,A$0.00
+001149,desktop,Queensland,1,A$0.00
+001149,desktop,Victoria,7,A$0.00
+001149,desktop,Western Australia,1,A$0.00
+001149,desktop,Ontario,1,A$0.00
+001149,mobile,Australian Capital Territory,3,A$0.00
+001149,mobile,New South Wales,11,A$0.00
+001149,mobile,Queensland,3,A$0.00
+001149,mobile,South Australia,2,A$0.00
+001149,mobile,Victoria,14,A$111.44
+001149,mobile,Western Australia,2,A$0.00
+001149,mobile,Auckland,1,A$0.00
+001149,tablet,New South Wales,2,A$0.00
+001149,tablet,Victoria,2,A$0.00
+001149,tablet,Western Australia,1,A$0.00
+001149,tablet,Taranaki,1,A$0.00
+001149,tablet,Wellington,1,A$0.00
+001150,desktop,New South Wales,9,A$0.00
+001150,desktop,South Australia,2,A$0.00
+001150,desktop,Victoria,6,A$0.00
+001150,desktop,Western Australia,2,A$0.00
+001150,desktop,Auckland,1,A$0.00
+001150,mobile,Australian Capital Territory,1,A$0.00
+001150,mobile,New South Wales,12,A$0.00
+001150,mobile,Queensland,2,A$0.00
+001150,mobile,South Australia,2,A$0.00
+001150,mobile,Tasmania,1,A$0.00
+001150,mobile,Victoria,17,A$0.00
+001150,mobile,Western Australia,4,A$0.00
+001150,mobile,England,1,A$0.00
+001150,mobile,Auckland,1,A$0.00
+001150,tablet,New South Wales,1,A$0.00
+001150,tablet,Victoria,1,A$0.00
+001151,desktop,New South Wales,6,A$85.00
+001151,desktop,Queensland,0,A$150.00
+001151,desktop,Victoria,8,A$0.00
+001151,desktop,Western Australia,1,A$0.00
+001151,desktop,Telangana,1,A$0.00
+001151,mobile,Australian Capital Territory,1,A$0.00
+001151,mobile,New South Wales,15,A$0.00
+001151,mobile,Queensland,5,A$0.00
+001151,mobile,Victoria,11,A$896.00
+001151,mobile,Auckland,1,A$0.00
+001151,tablet,New South Wales,2,A$0.00
+001151,tablet,Victoria,2,A$0.00
+001152,desktop,New South Wales,2,A$449.28
+001152,desktop,Queensland,2,A$118.00
+001152,desktop,South Australia,2,A$0.00
+001152,desktop,Victoria,10,A$0.00
+001152,desktop,Western Australia,2,A$0.00
+001152,desktop,California,1,A$0.00
+001152,desktop,Manawatu-Wanganui,1,A$0.00
+001152,mobile,Australian Capital Territory,2,A$0.00
+001152,mobile,New South Wales,11,A$378.00
+001152,mobile,Queensland,6,A$600.00
+001152,mobile,South Australia,1,A$0.00
+001152,mobile,Victoria,14,A$0.00
+001152,mobile,Western Australia,2,A$0.00
+001152,mobile,Auckland,1,A$0.00
+001152,mobile,Wellington,1,A$0.00
+001152,tablet,New South Wales,2,A$0.00
+001152,tablet,Victoria,3,A$0.00
+001153,desktop,New South Wales,6,A$0.00
+001153,desktop,South Australia,1,A$0.00
+001153,desktop,Victoria,9,A$69.00
+001153,desktop,Western Australia,6,A$0.00
+001153,mobile,New South Wales,16,A$0.00
+001153,mobile,Queensland,7,A$0.00
+001153,mobile,South Australia,1,A$0.00
+001153,mobile,Victoria,14,A$0.00
+001153,mobile,Western Australia,1,A$0.00
+001153,mobile,Wellington,1,A$0.00
+001153,mobile,Attica,1,A$0.00
+001153,tablet,New South Wales,2,A$0.00
+001153,tablet,South Australia,1,A$0.00
+001154,desktop,New South Wales,6,A$99.00
+001154,desktop,Queensland,1,A$0.00
+001154,desktop,South Australia,1,A$0.00
+001154,desktop,Victoria,6,A$105.00
+001154,desktop,Western Australia,3,A$0.00
+001154,desktop,Shanghai,1,A$0.00
+001154,mobile,Australian Capital Territory,1,A$0.00
+001154,mobile,New South Wales,13,A$97.26
+001154,mobile,Queensland,7,A$0.00
+001154,mobile,South Australia,3,A$0.00
+001154,mobile,Victoria,8,A$142.85
+001154,mobile,England,1,A$0.00
+001154,mobile,Auckland,1,A$0.00
+001154,mobile,Metro Manila,1,A$0.00
+001154,mobile,Manawatu-Wanganui,1,A$0.00
+001154,mobile,Waikato,1,A$0.00
+001154,tablet,New South Wales,3,A$0.00
+001154,tablet,Northern Territory,1,A$0.00
+001154,tablet,Queensland,1,A$0.00
+001154,tablet,Wellington,1,A$0.00
+001155,desktop,New South Wales,1,A$0.00
+001155,desktop,Queensland,2,A$0.00
+001155,desktop,Victoria,4,A$0.00
+001155,desktop,Western Australia,3,A$0.00
+001155,mobile,New South Wales,16,A$0.00
+001155,mobile,Queensland,5,A$0.00
+001155,mobile,Victoria,11,A$0.00
+001155,mobile,Western Australia,4,A$0.00
+001155,mobile,Wales,1,A$0.00
+001155,mobile,Canterbury,1,A$0.00
+001155,mobile,Northland,1,A$0.00
+001155,tablet,New South Wales,1,A$0.00
+001155,tablet,South Australia,2,A$0.00
+001155,tablet,Victoria,4,A$0.00
+001156,desktop,New South Wales,4,A$196.00
+001156,desktop,Queensland,1,A$113.00
+001156,desktop,Victoria,6,A$170.00
+001156,desktop,Western Australia,5,A$0.00
+001156,desktop,New Jersey,1,A$0.00
+001156,desktop,Manawatu-Wanganui,2,A$0.00
+001156,desktop,Otago,0,A$78.00
+001156,mobile,Australian Capital Territory,1,A$0.00
+001156,mobile,New South Wales,8,A$170.00
+001156,mobile,Queensland,6,A$0.00
+001156,mobile,South Australia,3,A$0.00
+001156,mobile,Victoria,9,A$0.00
+001156,mobile,Western Australia,2,A$0.00
+001156,mobile,Auckland,1,A$0.00
+001156,mobile,Bay Of Plenty,1,A$0.00
+001156,mobile,Massachusetts,1,A$0.00
+001156,tablet,New South Wales,3,A$0.00
+001156,tablet,Victoria,4,A$0.00
+001157,desktop,New South Wales,7,A$571.39
+001157,desktop,Victoria,5,A$204.00
+001157,desktop,Western Australia,5,A$0.00
+001157,desktop,Otago,2,A$0.00
+001157,desktop,Waikato,1,A$0.00
+001157,mobile,Australian Capital Territory,1,A$0.00
+001157,mobile,New South Wales,16,A$0.00
+001157,mobile,Queensland,6,A$0.00
+001157,mobile,South Australia,4,A$0.00
+001157,mobile,Victoria,4,A$0.00
+001157,mobile,Western Australia,5,A$226.39
+001157,mobile,Auckland,1,A$0.00
+001157,tablet,Australian Capital Territory,0,A$343.00
+001157,tablet,New South Wales,1,A$0.00
+001158,desktop,New South Wales,3,A$284.00
+001158,desktop,Queensland,2,A$0.00
+001158,desktop,Victoria,5,A$149.00
+001158,desktop,Western Australia,4,A$0.00
+001158,desktop,Auckland,1,A$0.00
+001158,mobile,New South Wales,6,A$0.00
+001158,mobile,Queensland,4,A$0.00
+001158,mobile,South Australia,2,A$0.00
+001158,mobile,Victoria,8,A$0.00
+001158,mobile,Western Australia,2,A$0.00
+001158,mobile,Auckland,1,A$0.00
+001158,mobile,Manawatu-Wanganui,1,A$0.00
+001158,tablet,New South Wales,2,A$0.00
+001158,tablet,Victoria,2,A$0.00
+001158,tablet,Wellington,1,A$0.00
+001159,desktop,New South Wales,7,A$0.00
+001159,desktop,Victoria,7,A$0.00
+001159,desktop,Western Australia,1,A$0.00
+001159,desktop,Bavaria,1,A$0.00
+001159,mobile,New South Wales,15,A$0.00
+001159,mobile,Queensland,1,A$0.00
+001159,mobile,Victoria,8,A$0.00
+001159,mobile,Western Australia,3,A$0.00
+001159,mobile,England,1,A$0.00
+001159,mobile,Auckland,2,A$0.00
+001159,tablet,Victoria,1,A$0.00
+001160,desktop,New South Wales,5,A$100.00
+001160,desktop,Queensland,1,A$0.00
+001160,desktop,South Australia,0,A$261.00
+001160,desktop,Victoria,8,A$0.00
+001160,desktop,Western Australia,1,A$0.00
+001160,desktop,Telangana,1,A$0.00
+001160,mobile,Australian Capital Territory,3,A$0.00
+001160,mobile,New South Wales,8,A$0.00
+001160,mobile,Queensland,8,A$0.00
+001160,mobile,South Australia,1,A$0.00
+001160,mobile,Victoria,4,A$0.00
+001160,mobile,Auckland,1,A$0.00
+001160,tablet,New South Wales,3,A$110.00
+001160,tablet,Victoria,6,A$0.00
+001161,desktop,New South Wales,10,A$0.00
+001161,desktop,Queensland,3,A$0.00
+001161,desktop,Victoria,9,A$0.00
+001161,mobile,Australian Capital Territory,3,A$0.00
+001161,mobile,New South Wales,11,A$0.00
+001161,mobile,Queensland,7,A$0.00
+001161,mobile,South Australia,2,A$0.00
+001161,mobile,Victoria,11,A$0.00
+001161,mobile,Western Australia,2,A$0.00
+001161,mobile,Auckland,1,A$0.00
+001161,mobile,Otago,1,A$0.00
+001161,tablet,New South Wales,5,A$164.00
+001161,tablet,Queensland,2,A$0.00
+001161,tablet,Victoria,1,A$0.00
+001162,desktop,New South Wales,11,A$0.00
+001162,desktop,Queensland,3,A$0.00
+001162,desktop,Victoria,7,A$0.00
+001162,desktop,Western Australia,1,A$0.00
+001162,desktop,England,1,A$0.00
+001162,mobile,New South Wales,18,A$0.00
+001162,mobile,Queensland,5,A$0.00
+001162,mobile,South Australia,1,A$0.00
+001162,mobile,Victoria,21,A$0.00
+001162,mobile,Bay Of Plenty,1,A$0.00
+001162,mobile,Manawatu-Wanganui,1,A$0.00
+001162,tablet,New South Wales,1,A$0.00
+001162,tablet,Victoria,2,A$0.00
+001162,tablet,Wellington,1,A$0.00
+001163,desktop,New South Wales,11,A$0.00
+001163,desktop,Queensland,4,A$200.00
+001163,desktop,Victoria,8,A$150.00
+001163,desktop,Western Australia,4,A$0.00
+001163,mobile,New South Wales,16,A$0.00
+001163,mobile,Queensland,2,A$0.00
+001163,mobile,Victoria,9,A$0.00
+001163,mobile,Western Australia,3,A$0.00
+001163,mobile,England,1,A$0.00
+001163,mobile,Delhi,1,A$0.00
+001163,tablet,New South Wales,1,A$0.00
+001163,tablet,Queensland,2,A$0.00
+001163,tablet,England,1,A$0.00
+001164,desktop,New South Wales,4,A$307.41
+001164,desktop,Queensland,2,A$0.00
+001164,desktop,Tasmania,1,A$0.00
+001164,desktop,Victoria,8,A$0.00
+001164,desktop,Western Australia,1,A$0.00
+001164,desktop,New Jersey,1,A$0.00
+001164,desktop,Wellington,1,A$0.00
+001164,mobile,Australian Capital Territory,1,A$0.00
+001164,mobile,New South Wales,12,A$965.00
+001164,mobile,Queensland,9,A$0.00
+001164,mobile,Victoria,17,A$0.00
+001164,mobile,Western Australia,2,A$0.00
+001164,mobile,Canterbury,1,A$0.00
+001164,tablet,New South Wales,2,A$0.00
+001164,tablet,Queensland,3,A$0.00
+001164,tablet,Victoria,3,A$0.00
+001164,tablet,Western Australia,1,A$0.00
+001164,tablet,Wellington,1,A$0.00
+001165,desktop,(not set),1,A$0.00
+001165,desktop,New South Wales,5,A$0.00
+001165,desktop,Queensland,2,A$0.00
+001165,desktop,Victoria,9,A$0.00
+001165,desktop,Western Australia,4,A$0.00
+001165,desktop,Canterbury,1,A$0.00
+001165,desktop,Nouvelle-Aquitaine,1,A$0.00
+001165,mobile,New South Wales,20,A$0.00
+001165,mobile,Queensland,4,A$0.00
+001165,mobile,Tasmania,1,A$0.00
+001165,mobile,Victoria,10,A$0.00
+001165,mobile,Western Australia,2,A$0.00
+001165,tablet,Australian Capital Territory,1,A$0.00
+001165,tablet,New South Wales,1,A$0.00
+001165,tablet,South Australia,1,A$0.00
+001165,tablet,Victoria,1,A$0.00
+001166,desktop,New South Wales,4,A$0.00
+001166,desktop,Queensland,3,A$0.00
+001166,desktop,Victoria,8,A$0.00
+001166,desktop,Western Australia,2,A$0.00
+001166,desktop,Special Region of Yogyakarta,2,A$0.00
+001166,desktop,Auckland,2,A$0.00
+001166,mobile,Australian Capital Territory,1,A$0.00
+001166,mobile,New South Wales,17,A$0.00
+001166,mobile,Victoria,7,A$0.00
+001166,mobile,Western Australia,2,A$0.00
+001166,mobile,England,2,A$0.00
+001166,mobile,Auckland,1,A$0.00
+001166,tablet,New South Wales,1,A$0.00
+001166,tablet,Queensland,2,A$0.00
+001166,tablet,Victoria,4,A$0.00
+001166,tablet,Auckland,1,A$0.00
+001167,desktop,(not set),1,A$0.00
+001167,desktop,New South Wales,9,A$0.00
+001167,desktop,Queensland,3,A$0.00
+001167,desktop,South Australia,1,A$0.00
+001167,desktop,Victoria,3,A$0.00
+001167,desktop,Western Australia,1,A$0.00
+001167,desktop,England,1,A$0.00
+001167,desktop,Waikato,1,A$0.00
+001167,mobile,New South Wales,20,A$0.00
+001167,mobile,Queensland,5,A$0.00
+001167,mobile,Victoria,8,A$0.00
+001167,mobile,Western Australia,1,A$0.00
+001167,mobile,Auckland,1,A$0.00
+001167,mobile,Canterbury,1,A$0.00
+001167,mobile,Northland,1,A$0.00
+001167,tablet,New South Wales,3,A$0.00
+001167,tablet,Tasmania,2,A$0.00
+001167,tablet,Victoria,3,A$0.00
+001167,tablet,Western Australia,1,A$0.00
+001168,desktop,(not set),1,A$0.00
+001168,desktop,Australian Capital Territory,1,A$0.00
+001168,desktop,New South Wales,6,A$0.00
+001168,desktop,Queensland,5,A$0.00
+001168,desktop,Tasmania,1,A$0.00
+001168,desktop,Victoria,3,A$0.00
+001168,desktop,Western Australia,1,A$0.00
+001168,desktop,Auckland,2,A$0.00
+001168,mobile,New South Wales,13,A$0.00
+001168,mobile,Queensland,3,A$0.00
+001168,mobile,Victoria,10,A$0.00
+001168,mobile,Western Australia,2,A$0.00
+001168,mobile,Federal Territory of Kuala Lumpur,1,A$0.00
+001168,mobile,Auckland,1,A$0.00
+001168,tablet,New South Wales,3,A$0.00
+001168,tablet,Victoria,2,A$0.00
+001168,tablet,Western Australia,2,A$0.00
+001168,tablet,Maharashtra,1,A$0.00
+001169,desktop,Australian Capital Territory,1,A$0.00
+001169,desktop,New South Wales,11,A$0.00
+001169,desktop,Queensland,2,A$0.00
+001169,desktop,South Australia,1,A$0.00
+001169,desktop,Victoria,5,A$0.00
+001169,mobile,New South Wales,16,A$111.00
+001169,mobile,Queensland,5,A$0.00
+001169,mobile,Tasmania,1,A$0.00
+001169,mobile,Victoria,13,A$0.00
+001169,mobile,Auckland,1,A$0.00
+001169,mobile,Manawatu-Wanganui,1,A$0.00
+001169,tablet,New South Wales,1,A$0.00
+001169,tablet,Queensland,2,A$0.00
+001169,tablet,Victoria,2,A$0.00
+001170,desktop,New South Wales,2,A$0.00
+001170,desktop,Queensland,2,A$0.00
+001170,desktop,Victoria,9,A$0.00
+001170,desktop,Western Australia,3,A$0.00
+001170,desktop,Otago,1,A$0.00
+001170,mobile,Australian Capital Territory,1,A$0.00
+001170,mobile,New South Wales,15,A$0.00
+001170,mobile,Queensland,6,A$0.00
+001170,mobile,South Australia,1,A$0.00
+001170,mobile,Victoria,15,A$146.00
+001170,mobile,Western Australia,3,A$0.00
+001170,mobile,Pest County,1,A$0.00
+001170,tablet,New South Wales,3,A$0.00
+001170,tablet,Queensland,1,A$0.00
+001170,tablet,Tasmania,1,A$0.00
+001170,tablet,Victoria,1,A$0.00
+001170,tablet,Western Australia,1,A$0.00
+001171,desktop,New South Wales,4,A$0.00
+001171,desktop,Queensland,0,A$189.00
+001171,desktop,South Australia,1,A$0.00
+001171,desktop,Victoria,8,A$128.00
+001171,desktop,Western Australia,1,A$0.00
+001171,desktop,Karnataka,1,A$0.00
+001171,desktop,Auckland,1,A$0.00
+001171,mobile,Australian Capital Territory,1,A$270.00
+001171,mobile,New South Wales,14,A$0.00
+001171,mobile,Queensland,10,A$0.00
+001171,mobile,South Australia,3,A$0.00
+001171,mobile,Victoria,12,A$0.00
+001171,mobile,Wellington,1,A$0.00
+001171,tablet,New South Wales,3,A$0.00
+001171,tablet,Queensland,4,A$0.00
+001171,tablet,Victoria,3,A$0.00
+001171,tablet,Manawatu-Wanganui,1,A$0.00
+001172,desktop,(not set),1,A$0.00
+001172,desktop,New South Wales,11,A$169.00
+001172,desktop,Queensland,2,A$0.00
+001172,desktop,South Australia,3,A$0.00
+001172,desktop,Victoria,7,A$350.00
+001172,desktop,Western Australia,2,A$0.00
+001172,desktop,Zurich,1,A$0.00
+001172,desktop,California,1,A$0.00
+001172,mobile,Australian Capital Territory,1,A$0.00
+001172,mobile,New South Wales,11,A$204.65
+001172,mobile,Queensland,4,A$0.00
+001172,mobile,South Australia,2,A$0.00
+001172,mobile,Victoria,12,A$0.00
+001172,mobile,Western Australia,4,A$0.00
+001172,tablet,New South Wales,2,A$0.00
+001172,tablet,South Australia,1,A$0.00
+001172,tablet,Victoria,5,A$0.00
+001173,desktop,New South Wales,9,A$0.00
+001173,desktop,Queensland,2,A$0.00
+001173,desktop,Victoria,5,A$0.00
+001173,desktop,Western Australia,1,A$0.00
+001173,desktop,Special Region of Yogyakarta,1,A$0.00
+001173,desktop,Haryana,1,A$0.00
+001173,mobile,New South Wales,13,A$0.00
+001173,mobile,Queensland,2,A$0.00
+001173,mobile,Victoria,8,A$0.00
+001173,mobile,Western Australia,1,A$0.00
+001173,mobile,Auckland,2,A$0.00
+001173,tablet,New South Wales,2,A$0.00
+001173,tablet,Queensland,3,A$0.00
+001173,tablet,Victoria,2,A$0.00
+001174,desktop,New South Wales,7,A$169.00
+001174,desktop,Queensland,1,A$0.00
+001174,desktop,Victoria,6,A$0.00
+001174,desktop,Western Australia,2,A$0.00
+001174,desktop,Jakarta,1,A$0.00
+001174,desktop,Auckland,1,A$0.00
+001174,desktop,Metro Manila,1,A$0.00
+001174,mobile,(not set),1,A$0.00
+001174,mobile,New South Wales,6,A$0.00
+001174,mobile,Queensland,6,A$0.00
+001174,mobile,South Australia,1,A$0.00
+001174,mobile,Victoria,8,A$0.00
+001174,mobile,Western Australia,2,A$0.00
+001174,mobile,Massachusetts,1,A$0.00
+001174,tablet,New South Wales,1,A$0.00
+001174,tablet,Queensland,3,A$0.00
+001174,tablet,Tasmania,1,A$0.00
+001174,tablet,Victoria,4,A$0.00
+001175,desktop,New South Wales,17,A$164.00
+001175,desktop,Queensland,5,A$40.00
+001175,desktop,South Australia,1,A$0.00
+001175,desktop,Victoria,4,A$0.00
+001175,desktop,Western Australia,1,A$0.00
+001175,desktop,Auckland,2,A$0.00
+001175,mobile,New South Wales,13,A$0.00
+001175,mobile,Queensland,5,A$0.00
+001175,mobile,South Australia,3,A$0.00
+001175,mobile,Victoria,14,A$0.00
+001175,mobile,Washington,1,A$0.00
+001175,mobile,Canterbury,1,A$0.00
+001175,mobile,Otago,1,A$0.00
+001175,mobile,Wellington,1,A$0.00
+001175,tablet,New South Wales,1,A$0.00
+001176,desktop,New South Wales,12,A$0.00
+001176,desktop,Queensland,6,A$0.00
+001176,desktop,Victoria,3,A$0.00
+001176,desktop,Western Australia,2,A$0.00
+001176,desktop,Otago,1,A$0.00
+001176,mobile,Australian Capital Territory,3,A$0.00
+001176,mobile,New South Wales,9,A$125.00
+001176,mobile,Queensland,4,A$0.00
+001176,mobile,South Australia,2,A$0.00
+001176,mobile,Victoria,14,A$0.00
+001176,tablet,New South Wales,3,A$0.00
+001176,tablet,Victoria,1,A$0.00
+001176,tablet,Western Australia,2,A$0.00
+001177,desktop,New South Wales,7,A$0.00
+001177,desktop,Queensland,5,A$0.00
+001177,desktop,Victoria,7,A$0.00
+001177,desktop,Western Australia,2,A$0.00
+001177,desktop,Georgia,1,A$0.00
+001177,mobile,New South Wales,16,A$348.00
+001177,mobile,Queensland,7,A$0.00
+001177,mobile,South Australia,1,A$0.00
+001177,mobile,Victoria,19,A$0.00
+001177,mobile,Western Australia,4,A$0.00
+001177,mobile,Auckland,1,A$0.00
+001177,mobile,Manawatu-Wanganui,1,A$0.00
+001177,tablet,New South Wales,2,A$0.00
+001177,tablet,Victoria,1,A$0.00
+001178,desktop,New South Wales,8,A$262.00
+001178,desktop,Queensland,3,A$0.00
+001178,desktop,South Australia,1,A$0.00
+001178,desktop,Victoria,4,A$0.00
+001178,desktop,Western Australia,5,A$0.00
+001178,desktop,Auckland,1,A$0.00
+001178,desktop,Leiria District,1,A$0.00
+001178,mobile,New South Wales,9,A$0.00
+001178,mobile,Queensland,6,A$0.00
+001178,mobile,South Australia,2,A$0.00
+001178,mobile,Victoria,18,A$176.00
+001178,mobile,Western Australia,1,A$0.00
+001178,mobile,Auckland,2,A$0.00
+001178,tablet,New South Wales,0,A$150.00
+001178,tablet,Victoria,3,A$0.00
+001178,tablet,Western Australia,1,A$0.00
+001179,desktop,New South Wales,6,A$206.00
+001179,desktop,Queensland,3,A$65.00
+001179,desktop,South Australia,1,A$0.00
+001179,desktop,Victoria,9,A$150.00
+001179,desktop,Western Australia,1,A$0.00
+001179,desktop,England,1,A$0.00
+001179,desktop,Auckland,1,A$0.00
+001179,desktop,Canterbury,1,A$0.00
+001179,desktop,Nairobi County,1,A$0.00
+001179,mobile,New South Wales,17,A$0.00
+001179,mobile,Queensland,1,A$0.00
+001179,mobile,Victoria,7,A$0.00
+001179,mobile,Western Australia,3,A$0.00
+001179,mobile,Auckland,2,A$0.00
+001179,mobile,Bay Of Plenty,1,A$0.00
+001179,mobile,Wellington,1,A$0.00
+001179,tablet,New South Wales,2,A$0.00
+001179,tablet,Victoria,4,A$0.00
+001180,desktop,Australian Capital Territory,1,A$0.00
+001180,desktop,New South Wales,8,A$92.00
+001180,desktop,Queensland,1,A$99.00
+001180,desktop,South Australia,1,A$0.00
+001180,desktop,Victoria,2,A$0.00
+001180,desktop,Western Australia,3,A$0.00
+001180,desktop,England,0,A$149.00
+001180,desktop,Bay Of Plenty,1,A$0.00
+001180,desktop,Virginia,1,A$0.00
+001180,mobile,New South Wales,12,A$0.00
+001180,mobile,Queensland,9,A$0.00
+001180,mobile,South Australia,1,A$0.00
+001180,mobile,Victoria,14,A$0.00
+001180,mobile,Auckland,2,A$0.00
+001180,mobile,Waikato,1,A$0.00
+001180,tablet,Queensland,4,A$0.00
+001180,tablet,Victoria,1,A$0.00
+001180,tablet,Western Australia,1,A$0.00
+001181,desktop,New South Wales,10,A$0.00
+001181,desktop,Queensland,1,A$0.00
+001181,desktop,Victoria,0,A$210.00
+001181,desktop,Western Australia,3,A$0.00
+001181,desktop,Otago,1,A$0.00
+001181,mobile,New South Wales,9,A$0.00
+001181,mobile,Queensland,6,A$0.00
+001181,mobile,South Australia,5,A$0.00
+001181,mobile,Victoria,10,A$0.00
+001181,mobile,Western Australia,2,A$0.00
+001181,mobile,Auckland,2,A$0.00
+001181,mobile,Canterbury,1,A$0.00
+001181,tablet,Australian Capital Territory,1,A$0.00
+001181,tablet,New South Wales,4,A$0.00
+001181,tablet,Queensland,1,A$0.00
+001181,tablet,Victoria,2,A$0.00
+001181,tablet,Western Australia,1,A$0.00
+001182,desktop,New South Wales,5,A$0.00
+001182,desktop,Queensland,4,A$0.00
+001182,desktop,Tasmania,1,A$0.00
+001182,desktop,Victoria,3,A$0.00
+001182,desktop,Special Region of Yogyakarta,0,A$149.00
+001182,desktop,Auckland,1,A$0.00
+001182,desktop,Halland County,1,A$0.00
+001182,desktop,Canterbury,1,A$0.00
+001182,mobile,New South Wales,11,A$0.00
+001182,mobile,Queensland,2,A$0.00
+001182,mobile,South Australia,2,A$0.00
+001182,mobile,Victoria,5,A$0.00
+001182,mobile,Western Australia,2,A$0.00
+001182,mobile,Quebec,1,A$0.00
+001182,tablet,New South Wales,3,A$0.00
+001182,tablet,Tasmania,0,A$330.00
+001182,tablet,Victoria,1,A$0.00
+001183,desktop,New South Wales,4,A$122.00
+001183,desktop,Victoria,8,A$70.00
+001183,desktop,Western Australia,3,A$0.00
+001183,desktop,Otago,1,A$0.00
+001183,mobile,Australian Capital Territory,2,A$0.00
+001183,mobile,New South Wales,16,A$0.00
+001183,mobile,Queensland,3,A$0.00
+001183,mobile,South Australia,3,A$0.00
+001183,mobile,Victoria,10,A$0.00
+001183,mobile,Western Australia,1,A$0.00
+001183,mobile,Waikato,1,A$0.00
+001183,tablet,Victoria,2,A$0.00
+001184,desktop,New South Wales,6,A$0.00
+001184,desktop,Queensland,2,A$0.00
+001184,desktop,Victoria,2,A$0.00
+001184,desktop,Western Australia,3,A$250.00
+001184,desktop,England,1,A$0.00
+001184,desktop,Auckland,1,A$0.00
+001184,mobile,New South Wales,10,A$166.00
+001184,mobile,Queensland,6,A$0.00
+001184,mobile,South Australia,5,A$0.00
+001184,mobile,Tasmania,1,A$0.00
+001184,mobile,Victoria,5,A$0.00
+001184,mobile,Western Australia,3,A$0.00
+001184,mobile,Auckland,1,A$0.00
+001184,tablet,New South Wales,6,A$0.00
+001184,tablet,Queensland,1,A$0.00
+001184,tablet,South Australia,1,A$0.00
+001184,tablet,Victoria,2,A$0.00
+001185,desktop,New South Wales,6,A$0.00
+001185,desktop,Queensland,4,A$0.00
+001185,desktop,Victoria,4,A$96.00
+001185,desktop,Western Australia,1,A$0.00
+001185,mobile,New South Wales,17,A$0.00
+001185,mobile,Queensland,11,A$0.00
+001185,mobile,South Australia,1,A$0.00
+001185,mobile,Victoria,13,A$0.00
+001185,tablet,New South Wales,3,A$0.00
+001185,tablet,Victoria,1,A$0.00
+001186,desktop,New South Wales,7,A$0.00
+001186,desktop,South Australia,1,A$0.00
+001186,desktop,Victoria,7,A$0.00
+001186,desktop,Western Australia,1,A$0.00
+001186,mobile,Australian Capital Territory,1,A$0.00
+001186,mobile,New South Wales,10,A$0.00
+001186,mobile,Northern Territory,1,A$0.00
+001186,mobile,Queensland,2,A$0.00
+001186,mobile,South Australia,2,A$0.00
+001186,mobile,Tasmania,1,A$0.00
+001186,mobile,Victoria,13,A$80.00
+001186,mobile,Auckland,1,A$0.00
+001186,mobile,Nelson,1,A$0.00
+001186,mobile,Waikato,1,A$0.00
+001186,mobile,Wellington,1,A$0.00
+001186,tablet,New South Wales,0,A$59.95
+001186,tablet,Victoria,3,A$256.00
+001187,desktop,New South Wales,14,A$236.00
+001187,desktop,Queensland,2,A$0.00
+001187,desktop,Victoria,7,A$0.00
+001187,desktop,Western Australia,2,A$0.00
+001187,desktop,Wellington,1,A$0.00
+001187,mobile,New South Wales,10,A$0.00
+001187,mobile,Northern Territory,1,A$0.00
+001187,mobile,Queensland,3,A$0.00
+001187,mobile,South Australia,2,A$0.00
+001187,mobile,Victoria,17,A$0.00
+001187,mobile,Western Australia,2,A$0.00
+001187,mobile,England,1,A$0.00
+001187,mobile,Auckland,1,A$0.00
+001187,mobile,Manawatu-Wanganui,1,A$0.00
+001187,mobile,Wellington,1,A$0.00
+001187,tablet,New South Wales,3,A$0.00
+001187,tablet,Queensland,1,A$0.00
+001187,tablet,South Australia,3,A$0.00
+001187,tablet,Victoria,3,A$0.00
+001187,tablet,Western Australia,1,A$0.00
+001187,tablet,Canterbury,1,A$0.00
+001188,desktop,New South Wales,7,A$0.00
+001188,desktop,South Australia,1,A$0.00
+001188,desktop,Victoria,4,A$0.00
+001188,desktop,Western Australia,2,A$0.00
+001188,desktop,Haryana,1,A$0.00
+001188,desktop,Hawke's Bay,1,A$0.00
+001188,mobile,Australian Capital Territory,1,A$0.00
+001188,mobile,New South Wales,7,A$0.00
+001188,mobile,Queensland,9,A$0.00
+001188,mobile,South Australia,2,A$0.00
+001188,mobile,Victoria,21,A$0.00
+001188,mobile,Western Australia,1,A$0.00
+001188,mobile,Vienna,1,A$0.00
+001188,mobile,Bay Of Plenty,1,A$0.00
+001188,mobile,Otago,1,A$0.00
+001188,mobile,Vilnius County,1,A$0.00
+001188,tablet,New South Wales,5,A$0.00
+001188,tablet,Victoria,4,A$0.00
+001188,tablet,Western Australia,3,A$0.00
+001189,desktop,New South Wales,9,A$0.00
+001189,desktop,Queensland,1,A$0.00
+001189,desktop,Victoria,6,A$0.00
+001189,desktop,Western Australia,1,A$0.00
+001189,desktop,England,1,A$0.00
+001189,desktop,Wisconsin,1,A$0.00
+001189,mobile,New South Wales,11,A$0.00
+001189,mobile,Queensland,4,A$0.00
+001189,mobile,South Australia,2,A$195.00
+001189,mobile,Victoria,13,A$0.00
+001189,mobile,Western Australia,1,A$0.00
+001189,mobile,Wellington,1,A$0.00
+001189,tablet,New South Wales,3,A$0.00
+001189,tablet,South Australia,2,A$0.00
+001189,tablet,Victoria,2,A$0.00
+001189,tablet,Western Australia,1,A$0.00
+001190,desktop,New South Wales,11,A$320.00
+001190,desktop,Queensland,0,A$167.00
+001190,desktop,Victoria,7,A$0.00
+001190,desktop,Western Australia,1,A$0.00
+001190,desktop,Maharashtra,1,A$0.00
+001190,desktop,Bay Of Plenty,1,A$0.00
+001190,mobile,New South Wales,12,A$0.00
+001190,mobile,Queensland,3,A$0.00
+001190,mobile,South Australia,2,A$0.00
+001190,mobile,Victoria,16,A$146.00
+001190,mobile,Western Australia,3,A$0.00
+001190,mobile,England,1,A$0.00
+001190,tablet,New South Wales,2,A$0.00
+001190,tablet,Queensland,1,A$0.00
+001190,tablet,Victoria,4,A$45.00
+001191,desktop,New South Wales,7,A$50.00
+001191,desktop,Queensland,3,A$0.00
+001191,desktop,South Australia,1,A$0.00
+001191,desktop,Victoria,5,A$89.00
+001191,desktop,Western Australia,2,A$0.00
+001191,desktop,Auckland,1,A$0.00
+001191,desktop,Trentino-Alto Adige/South Tyrol,1,A$0.00
+001191,mobile,New South Wales,24,A$92.00
+001191,mobile,Queensland,5,A$0.00
+001191,mobile,South Australia,1,A$0.00
+001191,mobile,Tasmania,1,A$0.00
+001191,mobile,Victoria,15,A$0.00
+001191,mobile,Western Australia,1,A$0.00
+001191,mobile,Bavaria,1,A$0.00
+001191,mobile,Hesse,1,A$0.00
+001191,mobile,Auckland,1,A$0.00
+001191,mobile,Canterbury,2,A$0.00
+001191,tablet,Australian Capital Territory,1,A$0.00
+001191,tablet,New South Wales,5,A$0.00
+001191,tablet,Queensland,2,A$0.00
+001191,tablet,Victoria,2,A$0.00
+001191,tablet,Auckland,1,A$0.00
+001192,desktop,New South Wales,4,A$318.00
+001192,desktop,Northern Territory,1,A$0.00
+001192,desktop,Queensland,5,A$0.00
+001192,desktop,Tasmania,1,A$0.00
+001192,desktop,Victoria,11,A$0.00
+001192,desktop,Western Australia,2,A$0.00
+001192,mobile,New South Wales,14,A$178.00
+001192,mobile,Queensland,3,A$0.00
+001192,mobile,South Australia,1,A$0.00
+001192,mobile,Tasmania,1,A$0.00
+001192,mobile,Victoria,18,A$149.00
+001192,mobile,Western Australia,4,A$0.00
+001192,mobile,Wellington,1,A$0.00
+001192,tablet,New South Wales,2,A$0.00
+001192,tablet,Queensland,1,A$0.00
+001192,tablet,Tasmania,1,A$0.00
+001192,tablet,Victoria,3,A$0.00
+001193,desktop,Australian Capital Territory,1,A$0.00
+001193,desktop,New South Wales,4,A$0.00
+001193,desktop,Queensland,1,A$0.00
+001193,desktop,Victoria,9,A$288.00
+001193,desktop,Western Australia,4,A$0.00
+001193,desktop,Special Region of Yogyakarta,1,A$0.00
+001193,desktop,Wellington,1,A$0.00
+001193,mobile,New South Wales,14,A$0.00
+001193,mobile,Queensland,8,A$0.00
+001193,mobile,Victoria,17,A$0.00
+001193,mobile,Western Australia,3,A$0.00
+001193,mobile,Baden-Wurttemberg,1,A$0.00
+001193,tablet,Australian Capital Territory,1,A$0.00
+001193,tablet,New South Wales,5,A$0.00
+001193,tablet,Queensland,1,A$0.00
+001193,tablet,South Australia,1,A$0.00
+001193,tablet,Victoria,2,A$0.00
+001194,desktop,New South Wales,10,A$0.00
+001194,desktop,Queensland,3,A$0.00
+001194,desktop,Victoria,7,A$0.00
+001194,desktop,Auckland,1,A$0.00
+001194,desktop,Hawke's Bay,1,A$0.00
+001194,mobile,Australian Capital Territory,1,A$0.00
+001194,mobile,New South Wales,9,A$499.00
+001194,mobile,Queensland,2,A$0.00
+001194,mobile,South Australia,1,A$0.00
+001194,mobile,Victoria,17,A$0.00
+001194,mobile,Western Australia,2,A$0.00
+001194,mobile,Zurich,1,A$0.00
+001194,mobile,Maharashtra,1,A$0.00
+001194,tablet,New South Wales,2,A$280.00
+001194,tablet,Queensland,1,A$0.00
+001194,tablet,South Australia,1,A$0.00
+001194,tablet,Victoria,5,A$0.00
+001194,tablet,Western Australia,1,A$0.00
+001194,tablet,Berlin,1,A$0.00
+001194,tablet,County Westmeath,1,A$0.00
+001195,desktop,New South Wales,5,A$0.00
+001195,desktop,Victoria,10,A$0.00
+001195,desktop,Western Australia,1,A$0.00
+001195,desktop,Auckland,1,A$0.00
+001195,mobile,New South Wales,12,A$0.00
+001195,mobile,Queensland,2,A$0.00
+001195,mobile,South Australia,2,A$0.00
+001195,mobile,Victoria,13,A$0.00
+001195,mobile,Western Australia,2,A$0.00
+001195,mobile,England,1,A$0.00
+001195,mobile,Canterbury,2,A$0.00
+001195,tablet,New South Wales,3,A$0.00
+001195,tablet,Victoria,2,A$290.00
+001196,desktop,New South Wales,7,A$223.70
+001196,desktop,Queensland,3,A$0.00
+001196,desktop,Tasmania,1,A$0.00
+001196,desktop,Victoria,9,A$0.00
+001196,desktop,Western Australia,2,A$0.00
+001196,desktop,England,1,A$0.00
+001196,desktop,Oregon,1,A$0.00
+001196,desktop,Gauteng,1,A$0.00
+001196,mobile,New South Wales,7,A$0.00
+001196,mobile,Queensland,6,A$0.00
+001196,mobile,South Australia,3,A$0.00
+001196,mobile,Victoria,22,A$92.00
+001196,mobile,Western Australia,1,A$0.00
+001196,mobile,Gisborne,1,A$0.00
+001196,mobile,Nelson,1,A$0.00
+001196,tablet,New South Wales,4,A$0.00
+001196,tablet,Queensland,3,A$0.00
+001196,tablet,Victoria,4,A$0.00
+001196,tablet,Western Australia,2,A$0.00
+001197,desktop,(not set),1,A$0.00
+001197,desktop,Australian Capital Territory,1,A$0.00
+001197,desktop,New South Wales,8,A$200.00
+001197,desktop,Queensland,1,A$0.00
+001197,desktop,South Australia,1,A$0.00
+001197,desktop,Victoria,5,A$0.00
+001197,desktop,Western Australia,1,A$0.00
+001197,desktop,England,1,A$0.00
+001197,mobile,New South Wales,13,A$126.00
+001197,mobile,Northern Territory,1,A$0.00
+001197,mobile,Queensland,2,A$0.00
+001197,mobile,South Australia,2,A$0.00
+001197,mobile,Tasmania,1,A$0.00
+001197,mobile,Victoria,17,A$0.00
+001197,mobile,Western Australia,1,A$0.00
+001197,tablet,New South Wales,1,A$0.00
+001197,tablet,Northern Territory,1,A$0.00
+001197,tablet,Queensland,1,A$0.00
+001197,tablet,Victoria,7,A$0.00
+001197,tablet,Western Australia,1,A$0.00
+001198,desktop,New South Wales,5,A$0.00
+001198,desktop,Queensland,2,A$49.64
+001198,desktop,South Australia,1,A$0.00
+001198,desktop,Victoria,7,A$164.00
+001198,desktop,Western Australia,1,A$0.00
+001198,desktop,Auckland,1,A$0.00
+001198,mobile,Australian Capital Territory,1,A$0.00
+001198,mobile,New South Wales,14,A$162.00
+001198,mobile,Queensland,3,A$0.00
+001198,mobile,South Australia,2,A$0.00
+001198,mobile,Victoria,24,A$0.00
+001198,mobile,Western Australia,1,A$0.00
+001198,mobile,Wellington,1,A$0.00
+001198,tablet,New South Wales,2,A$0.00
+001198,tablet,Queensland,1,A$0.00
+001198,tablet,Victoria,4,A$0.00
+001198,tablet,Western Australia,1,A$0.00
+001199,desktop,New South Wales,3,A$0.00
+001199,desktop,Queensland,3,A$0.00
+001199,desktop,Victoria,9,A$0.00
+001199,desktop,Western Australia,3,A$0.00
+001199,desktop,Auckland,1,A$0.00
+001199,desktop,Northland,1,A$0.00
+001199,desktop,Zabaykalsky Krai,1,A$0.00
+001199,mobile,Australian Capital Territory,1,A$0.00
+001199,mobile,New South Wales,13,A$0.00
+001199,mobile,Northern Territory,1,A$0.00
+001199,mobile,Queensland,6,A$0.00
+001199,mobile,Tasmania,1,A$0.00
+001199,mobile,Victoria,24,A$0.00
+001199,mobile,Auckland,3,A$0.00
+001199,mobile,Canterbury,1,A$0.00
+001199,mobile,Northland,1,A$0.00
+001199,tablet,New South Wales,2,A$0.00
+001199,tablet,Queensland,3,A$0.00
+001199,tablet,Victoria,0,A$150.95
+001199,tablet,Western Australia,1,A$0.00
+001200,desktop,(not set),2,A$0.00
+001200,desktop,Australian Capital Territory,2,A$0.00
+001200,desktop,New South Wales,13,A$0.00
+001200,desktop,Queensland,4,A$0.00
+001200,desktop,Victoria,6,A$246.05
+001200,desktop,Western Australia,2,A$0.00
+001200,desktop,Auckland,1,A$0.00
+001200,desktop,Bay Of Plenty,1,A$0.00
+001200,mobile,New South Wales,16,A$0.00
+001200,mobile,Queensland,6,A$0.00
+001200,mobile,South Australia,2,A$0.00
+001200,mobile,Tasmania,2,A$0.00
+001200,mobile,Victoria,17,A$382.36
+001200,tablet,New South Wales,8,A$0.00
+001200,tablet,Victoria,1,A$0.00
+001201,desktop,New South Wales,5,A$0.00
+001201,desktop,Queensland,2,A$0.00
+001201,desktop,Victoria,3,A$260.00
+001201,desktop,Western Australia,5,A$80.00
+001201,desktop,New Jersey,1,A$0.00
+001201,mobile,Australian Capital Territory,1,A$0.00
+001201,mobile,New South Wales,19,A$143.00
+001201,mobile,Queensland,3,A$0.00
+001201,mobile,South Australia,1,A$0.00
+001201,mobile,Victoria,16,A$0.00
+001201,mobile,Western Australia,3,A$199.00
+001201,mobile,Ile-de-France,1,A$0.00
+001201,tablet,New South Wales,2,A$0.00
+001201,tablet,Victoria,7,A$0.00
+001201,tablet,Auckland,1,A$0.00
+001202,desktop,Australian Capital Territory,1,A$0.00
+001202,desktop,New South Wales,4,A$277.98
+001202,desktop,Queensland,2,A$0.00
+001202,desktop,South Australia,2,A$0.00
+001202,desktop,Victoria,6,A$0.00
+001202,desktop,Western Australia,1,A$0.00
+001202,mobile,New South Wales,10,A$0.00
+001202,mobile,Queensland,3,A$0.00
+001202,mobile,South Australia,2,A$0.00
+001202,mobile,Victoria,22,A$91.18
+001202,mobile,Western Australia,3,A$0.00
+001202,mobile,England,1,A$0.00
+001202,mobile,Auckland,1,A$0.00
+001202,tablet,New South Wales,5,A$0.00
+001202,tablet,Queensland,2,A$0.00
+001202,tablet,Victoria,7,A$0.00
+001203,desktop,New South Wales,12,A$0.00
+001203,desktop,Queensland,4,A$0.00
+001203,desktop,Victoria,5,A$0.00
+001203,desktop,Western Australia,4,A$0.00
+001203,desktop,Waikato,1,A$0.00
+001203,mobile,Australian Capital Territory,1,A$0.00
+001203,mobile,New South Wales,9,A$116.00
+001203,mobile,Queensland,3,A$0.00
+001203,mobile,South Australia,3,A$0.00
+001203,mobile,Victoria,9,A$0.00
+001203,mobile,Western Australia,2,A$0.00
+001203,mobile,Ontario,1,A$0.00
+001203,mobile,England,1,A$0.00
+001203,mobile,Auckland,1,A$0.00
+001203,tablet,Australian Capital Territory,1,A$0.00
+001203,tablet,New South Wales,2,A$0.00
+001203,tablet,Queensland,1,A$0.00
+001203,tablet,Victoria,1,A$0.00
+001203,tablet,Western Australia,1,A$0.00
+001204,desktop,New South Wales,4,A$0.00
+001204,desktop,South Australia,2,A$0.00
+001204,desktop,Victoria,6,A$96.00
+001204,desktop,Western Australia,2,A$0.00
+001204,desktop,England,1,A$0.00
+001204,desktop,Wellington,1,A$0.00
+001204,mobile,New South Wales,10,A$0.00
+001204,mobile,Queensland,9,A$0.00
+001204,mobile,Victoria,13,A$0.00
+001204,mobile,Auckland,1,A$0.00
+001204,tablet,New South Wales,4,A$158.00
+001204,tablet,Queensland,4,A$0.00
+001204,tablet,South Australia,1,A$0.00
+001204,tablet,Victoria,6,A$0.00
+001204,tablet,Canterbury,1,A$0.00
+001205,desktop,(not set),1,A$0.00
+001205,desktop,New South Wales,5,A$202.00
+001205,desktop,Queensland,3,A$0.00
+001205,desktop,Victoria,3,A$0.00
+001205,desktop,Western Australia,9,A$0.00
+001205,desktop,England,0,A$112.00
+001205,mobile,New South Wales,12,A$75.00
+001205,mobile,Queensland,7,A$0.00
+001205,mobile,South Australia,1,A$0.00
+001205,mobile,Victoria,17,A$0.00
+001205,mobile,Western Australia,2,A$0.00
+001205,mobile,Surat Thani,1,A$0.00
+001205,tablet,New South Wales,4,A$0.00
+001205,tablet,Victoria,2,A$0.00
+001206,desktop,New South Wales,13,A$130.00
+001206,desktop,Queensland,2,A$220.00
+001206,desktop,South Australia,1,A$0.00
+001206,desktop,Tasmania,1,A$0.00
+001206,desktop,Victoria,13,A$0.00
+001206,desktop,Western Australia,1,A$0.00
+001206,desktop,England,1,A$0.00
+001206,mobile,New South Wales,16,A$0.00
+001206,mobile,Queensland,8,A$0.00
+001206,mobile,South Australia,2,A$0.00
+001206,mobile,Victoria,19,A$0.00
+001206,mobile,Western Australia,4,A$0.00
+001206,mobile,Canterbury,1,A$0.00
+001206,mobile,Wellington,1,A$0.00
+001206,tablet,New South Wales,2,A$0.00
+001206,tablet,Queensland,2,A$0.00
+001206,tablet,Victoria,1,A$0.00
+001207,desktop,New South Wales,3,A$0.00
+001207,desktop,Queensland,3,A$0.00
+001207,desktop,Victoria,4,A$0.00
+001207,desktop,Western Australia,1,A$0.00
+001207,mobile,New South Wales,15,A$0.00
+001207,mobile,Queensland,4,A$0.00
+001207,mobile,South Australia,3,A$0.00
+001207,mobile,Victoria,21,A$0.00
+001207,mobile,Western Australia,4,A$0.00
+001207,mobile,Bavaria,1,A$0.00
+001207,mobile,England,1,A$0.00
+001207,mobile,Auckland,1,A$0.00
+001207,mobile,Canterbury,1,A$0.00
+001207,tablet,New South Wales,5,A$0.00
+001207,tablet,Victoria,1,A$0.00
+001208,desktop,New South Wales,6,A$0.00
+001208,desktop,Queensland,3,A$0.00
+001208,desktop,South Australia,2,A$0.00
+001208,desktop,Victoria,10,A$0.00
+001208,desktop,Western Australia,3,A$267.99
+001208,desktop,Tokyo,1,A$0.00
+001208,mobile,New South Wales,6,A$98.00
+001208,mobile,Queensland,4,A$0.00
+001208,mobile,Victoria,12,A$40.52
+001208,mobile,Western Australia,1,A$0.00
+001208,mobile,Auckland,2,A$0.00
+001208,mobile,Bay Of Plenty,1,A$0.00
+001208,mobile,Canterbury,2,A$0.00
+001208,mobile,Dubai,1,A$0.00
+001208,tablet,New South Wales,5,A$0.00
+001208,tablet,Queensland,1,A$0.00
+001208,tablet,Tasmania,1,A$0.00
+001208,tablet,Victoria,3,A$0.00
+001208,tablet,Karnataka,1,A$0.00
+001209,desktop,(not set),3,A$0.00
+001209,desktop,New South Wales,7,A$0.00
+001209,desktop,Queensland,1,A$0.00
+001209,desktop,Victoria,5,A$138.00
+001209,desktop,New York,1,A$0.00
+001209,desktop,Hawke's Bay,1,A$0.00
+001209,mobile,Australian Capital Territory,0,A$99.95
+001209,mobile,New South Wales,7,A$0.00
+001209,mobile,Queensland,5,A$0.00
+001209,mobile,South Australia,5,A$0.00
+001209,mobile,Victoria,12,A$73.00
+001209,mobile,Western Australia,2,A$0.00
+001209,mobile,Auckland,1,A$0.00
+001209,mobile,Canterbury,1,A$0.00
+001209,tablet,New South Wales,4,A$0.00
+001209,tablet,Victoria,5,A$0.00
+001210,desktop,New South Wales,12,A$39.00
+001210,desktop,Victoria,7,A$0.00
+001210,desktop,Western Australia,1,A$0.00
+001210,desktop,Maharashtra,1,A$0.00
+001210,desktop,Virginia,3,A$0.00
+001210,mobile,New South Wales,8,A$0.00
+001210,mobile,Queensland,2,A$0.00
+001210,mobile,South Australia,2,A$0.00
+001210,mobile,Tasmania,2,A$0.00
+001210,mobile,Victoria,21,A$0.00
+001210,mobile,Western Australia,1,A$0.00
+001210,tablet,South Australia,2,A$0.00
+001210,tablet,Victoria,3,A$245.00
+001211,desktop,New South Wales,10,A$0.00
+001211,desktop,Queensland,4,A$0.00
+001211,desktop,South Australia,2,A$0.00
+001211,desktop,Victoria,6,A$0.00
+001211,desktop,Auckland,1,A$0.00
+001211,desktop,Bay Of Plenty,1,A$0.00
+001211,mobile,New South Wales,17,A$0.00
+001211,mobile,Queensland,8,A$0.00
+001211,mobile,Tasmania,1,A$0.00
+001211,mobile,Victoria,20,A$0.00
+001211,mobile,Auckland,2,A$0.00
+001211,mobile,Canterbury,1,A$0.00
+001211,mobile,Hawke's Bay,1,A$0.00
+001211,tablet,New South Wales,5,A$0.00
+001211,tablet,Victoria,3,A$176.00
+001212,desktop,New South Wales,5,A$290.00
+001212,desktop,Queensland,1,A$0.00
+001212,desktop,Victoria,7,A$0.00
+001212,desktop,British Columbia,1,A$0.00
+001212,desktop,California,1,A$0.00
+001212,desktop,Virginia,2,A$0.00
+001212,desktop,Waikato,2,A$0.00
+001212,mobile,New South Wales,7,A$159.00
+001212,mobile,Queensland,7,A$0.00
+001212,mobile,South Australia,2,A$0.00
+001212,mobile,Victoria,17,A$340.00
+001212,mobile,Western Australia,1,A$0.00
+001212,mobile,Auckland,1,A$0.00
+001212,tablet,Australian Capital Territory,1,A$0.00
+001212,tablet,Queensland,1,A$0.00
+001212,tablet,Western Australia,3,A$0.00
+001213,desktop,New South Wales,16,A$433.00
+001213,desktop,Queensland,2,A$0.00
+001213,desktop,South Australia,1,A$0.00
+001213,desktop,Victoria,6,A$178.00
+001213,desktop,Western Australia,2,A$0.00
+001213,desktop,New Jersey,1,A$0.00
+001213,mobile,New South Wales,24,A$126.64
+001213,mobile,Queensland,6,A$0.00
+001213,mobile,South Australia,1,A$0.00
+001213,mobile,Tasmania,1,A$0.00
+001213,mobile,Victoria,19,A$0.00
+001213,mobile,Western Australia,2,A$0.00
+001213,mobile,Maharashtra,1,A$0.00
+001213,tablet,Victoria,4,A$0.00
+001214,desktop,Australian Capital Territory,1,A$0.00
+001214,desktop,New South Wales,5,A$0.00
+001214,desktop,Queensland,4,A$0.00
+001214,desktop,South Australia,1,A$0.00
+001214,desktop,Victoria,9,A$0.00
+001214,desktop,Western Australia,4,A$0.00
+001214,desktop,County Cork,1,A$0.00
+001214,mobile,Australian Capital Territory,1,A$0.00
+001214,mobile,New South Wales,16,A$0.00
+001214,mobile,Queensland,3,A$0.00
+001214,mobile,Victoria,13,A$0.00
+001214,mobile,Western Australia,1,A$0.00
+001214,mobile,Auckland,1,A$0.00
+001214,mobile,Islamabad Capital Territory,1,A$0.00
+001214,tablet,New South Wales,3,A$137.00
+001214,tablet,Queensland,2,A$0.00
+001214,tablet,Victoria,2,A$0.00
+001214,tablet,Bay Of Plenty,1,A$0.00
+001215,desktop,(not set),1,A$0.00
+001215,desktop,New South Wales,5,A$325.00
+001215,desktop,Queensland,4,A$0.00
+001215,desktop,South Australia,1,A$0.00
+001215,desktop,Victoria,7,A$155.00
+001215,desktop,Western Australia,4,A$0.00
+001215,desktop,New York,1,A$0.00
+001215,desktop,Wellington,1,A$0.00
+001215,mobile,New South Wales,16,A$0.00
+001215,mobile,Queensland,3,A$0.00
+001215,mobile,South Australia,2,A$0.00
+001215,mobile,Victoria,15,A$0.00
+001215,mobile,Western Australia,1,A$0.00
+001215,mobile,Auckland,1,A$0.00
+001215,mobile,Bay Of Plenty,1,A$0.00
+001215,mobile,Vastra Gotaland County,1,A$0.00
+001215,tablet,New South Wales,2,A$0.00
+001216,desktop,New South Wales,9,A$113.00
+001216,desktop,Queensland,1,A$0.00
+001216,desktop,South Australia,1,A$0.00
+001216,desktop,Victoria,6,A$0.00
+001216,desktop,England,1,A$0.00
+001216,mobile,(not set),1,A$0.00
+001216,mobile,New South Wales,16,A$0.00
+001216,mobile,Queensland,6,A$0.00
+001216,mobile,South Australia,4,A$0.00
+001216,mobile,Tasmania,1,A$0.00
+001216,mobile,Victoria,12,A$0.00
+001216,mobile,Western Australia,2,A$0.00
+001216,mobile,New Jersey,1,A$0.00
+001216,mobile,Waikato,1,A$0.00
+001216,tablet,New South Wales,5,A$248.00
+001216,tablet,Queensland,1,A$0.00
+001216,tablet,Western Australia,3,A$0.00
+001216,tablet,Auckland,1,A$0.00
+001217,desktop,Australian Capital Territory,1,A$0.00
+001217,desktop,New South Wales,12,A$0.00
+001217,desktop,Queensland,4,A$0.00
+001217,desktop,South Australia,1,A$158.00
+001217,desktop,Victoria,10,A$0.00
+001217,desktop,Western Australia,2,A$0.00
+001217,desktop,Maharashtra,1,A$0.00
+001217,desktop,Nelson,1,A$0.00
+001217,desktop,Taranaki,1,A$0.00
+001217,mobile,New South Wales,21,A$45.00
+001217,mobile,Queensland,4,A$0.00
+001217,mobile,South Australia,1,A$143.86
+001217,mobile,Victoria,6,A$201.00
+001217,mobile,Western Australia,3,A$0.00
+001217,mobile,Auckland,1,A$0.00
+001217,mobile,Waikato,1,A$0.00
+001217,tablet,New South Wales,5,A$0.00
+001217,tablet,Queensland,1,A$0.00
+001217,tablet,Victoria,3,A$35.46
+001217,tablet,Western Australia,1,A$0.00
+001218,desktop,New South Wales,2,A$342.97
+001218,desktop,Queensland,5,A$0.00
+001218,desktop,Victoria,9,A$215.00
+001218,desktop,Western Australia,1,A$0.00
+001218,desktop,Beijing,1,A$0.00
+001218,desktop,Johor,1,A$0.00
+001218,mobile,Australian Capital Territory,1,A$0.00
+001218,mobile,New South Wales,8,A$0.00
+001218,mobile,Queensland,8,A$0.00
+001218,mobile,South Australia,1,A$0.00
+001218,mobile,Victoria,20,A$0.00
+001218,tablet,New South Wales,2,A$0.00
+001218,tablet,Queensland,1,A$0.00
+001218,tablet,Victoria,4,A$0.00
+001219,desktop,Australian Capital Territory,1,A$0.00
+001219,desktop,New South Wales,7,A$258.00
+001219,desktop,Queensland,2,A$0.00
+001219,desktop,South Australia,1,A$0.00
+001219,desktop,Victoria,8,A$0.00
+001219,mobile,New South Wales,15,A$0.00
+001219,mobile,Queensland,14,A$0.00
+001219,mobile,Victoria,15,A$0.00
+001219,mobile,Western Australia,3,A$0.00
+001219,mobile,Maharashtra,1,A$0.00
+001219,mobile,Otago,1,A$0.00
+001219,tablet,New South Wales,2,A$0.00
+001219,tablet,Queensland,1,A$0.00
+001220,desktop,New South Wales,15,A$119.00
+001220,desktop,Victoria,7,A$0.00
+001220,desktop,Western Australia,1,A$0.00
+001220,desktop,England,1,A$0.00
+001220,desktop,Gyeonggi-do,1,A$0.00
+001220,mobile,(not set),1,A$0.00
+001220,mobile,New South Wales,17,A$0.00
+001220,mobile,Queensland,4,A$0.00
+001220,mobile,South Australia,1,A$0.00
+001220,mobile,Victoria,12,A$0.00
+001220,mobile,Western Australia,4,A$0.00
+001220,tablet,New South Wales,3,A$0.00
+001220,tablet,Queensland,2,A$0.00
+001220,tablet,Victoria,8,A$0.00
+001221,desktop,Australian Capital Territory,1,A$0.00
+001221,desktop,New South Wales,6,A$161.00
+001221,desktop,Queensland,5,A$0.00
+001221,desktop,Victoria,9,A$0.00
+001221,desktop,Western Australia,3,A$0.00
+001221,desktop,Nidwalden,1,A$0.00
+001221,desktop,England,1,A$0.00
+001221,desktop,Auckland,2,A$0.00
+001221,desktop,Port Louis District,2,A$0.00
+001221,mobile,New South Wales,10,A$0.00
+001221,mobile,Queensland,7,A$0.00
+001221,mobile,South Australia,1,A$0.00
+001221,mobile,Victoria,12,A$0.00
+001221,mobile,Western Australia,3,A$0.00
+001221,mobile,Auckland,1,A$0.00
+001221,tablet,New South Wales,5,A$0.00
+001221,tablet,Victoria,2,A$340.00
+001221,tablet,Western Australia,3,A$0.00
+001221,tablet,California,1,A$0.00
+001222,desktop,(not set),1,A$0.00
+001222,desktop,Australian Capital Territory,1,A$0.00
+001222,desktop,New South Wales,16,A$96.00
+001222,desktop,Queensland,1,A$0.00
+001222,desktop,South Australia,1,A$0.00
+001222,desktop,Victoria,5,A$200.00
+001222,desktop,Western Australia,2,A$0.00
+001222,mobile,New South Wales,14,A$209.00
+001222,mobile,Queensland,13,A$0.00
+001222,mobile,South Australia,1,A$0.00
+001222,mobile,Tasmania,1,A$0.00
+001222,mobile,Victoria,9,A$0.00
+001222,mobile,Western Australia,1,A$0.00
+001222,mobile,Tamil Nadu,1,A$0.00
+001222,mobile,Canterbury,1,A$0.00
+001222,tablet,New South Wales,3,A$0.00
+001222,tablet,Victoria,5,A$0.00
+001222,tablet,Western Australia,2,A$0.00
+001223,desktop,(not set),1,A$0.00
+001223,desktop,New South Wales,6,A$501.48
+001223,desktop,Queensland,4,A$0.00
+001223,desktop,Victoria,3,A$0.00
+001223,desktop,Western Australia,2,A$0.00
+001223,desktop,Hamburg,1,A$0.00
+001223,desktop,Gujarat,1,A$0.00
+001223,desktop,Chiang Mai,1,A$0.00
+001223,mobile,Australian Capital Territory,1,A$0.00
+001223,mobile,New South Wales,11,A$0.00
+001223,mobile,Queensland,9,A$0.00
+001223,mobile,South Australia,1,A$0.00
+001223,mobile,Victoria,13,A$320.00
+001223,mobile,Western Australia,3,A$0.00
+001223,tablet,New South Wales,4,A$0.00
+001223,tablet,Victoria,5,A$0.00
+001224,desktop,New South Wales,11,A$0.00
+001224,desktop,Queensland,1,A$0.00
+001224,desktop,Victoria,5,A$0.00
+001224,desktop,Western Australia,3,A$0.00
+001224,mobile,New South Wales,20,A$45.00
+001224,mobile,Northern Territory,1,A$0.00
+001224,mobile,Queensland,6,A$149.00
+001224,mobile,South Australia,1,A$0.00
+001224,mobile,Victoria,15,A$0.00
+001224,mobile,Western Australia,2,A$0.00
+001224,mobile,Manawatu-Wanganui,1,A$0.00
+001224,mobile,Phnom Penh,1,A$0.00
+001224,tablet,New South Wales,5,A$0.00
+001224,tablet,South Australia,2,A$0.00
+001224,tablet,Victoria,4,A$360.00
+001225,desktop,New South Wales,7,A$0.00
+001225,desktop,Queensland,1,A$0.00
+001225,desktop,South Australia,2,A$0.00
+001225,desktop,Victoria,5,A$0.00
+001225,desktop,Western Australia,2,A$0.00
+001225,mobile,Australian Capital Territory,2,A$0.00
+001225,mobile,New South Wales,21,A$158.00
+001225,mobile,Queensland,1,A$0.00
+001225,mobile,South Australia,3,A$143.86
+001225,mobile,Victoria,15,A$0.00
+001225,mobile,Western Australia,1,A$0.00
+001225,mobile,Nelson,1,A$0.00
+001225,tablet,New South Wales,5,A$0.00
+001225,tablet,Queensland,5,A$0.00
+001225,tablet,South Australia,2,A$0.00
+001225,tablet,Victoria,4,A$56.00
+001225,tablet,Auckland,1,A$0.00
+001226,desktop,Australian Capital Territory,1,A$0.00
+001226,desktop,New South Wales,7,A$50.00
+001226,desktop,Queensland,1,A$0.00
+001226,desktop,South Australia,2,A$0.00
+001226,desktop,Victoria,5,A$0.00
+001226,desktop,Western Australia,3,A$0.00
+001226,mobile,Australian Capital Territory,1,A$0.00
+001226,mobile,New South Wales,19,A$45.00
+001226,mobile,Queensland,12,A$0.00
+001226,mobile,South Australia,2,A$0.00
+001226,mobile,Victoria,14,A$0.00
+001226,mobile,Western Australia,3,A$0.00
+001226,tablet,New South Wales,5,A$0.00
+001226,tablet,Queensland,1,A$0.00
+001226,tablet,Victoria,9,A$0.00
+001227,desktop,New South Wales,8,A$135.00
+001227,desktop,Queensland,2,A$177.29
+001227,desktop,South Australia,2,A$0.00
+001227,desktop,Victoria,10,A$67.50
+001227,desktop,Western Australia,1,A$0.00
+001227,mobile,New South Wales,15,A$0.00
+001227,mobile,Queensland,4,A$0.00
+001227,mobile,South Australia,2,A$0.00
+001227,mobile,Victoria,13,A$0.00
+001227,mobile,Western Australia,1,A$0.00
+001227,mobile,Canterbury,1,A$0.00
+001227,mobile,Hawke's Bay,1,A$0.00
+001227,tablet,New South Wales,1,A$0.00
+001227,tablet,Queensland,1,A$0.00
+001227,tablet,Victoria,1,A$0.00
+001228,desktop,New South Wales,7,A$0.00
+001228,desktop,Queensland,3,A$0.00
+001228,desktop,Victoria,8,A$0.00
+001228,desktop,Western Australia,2,A$0.00
+001228,desktop,Auckland,1,A$0.00
+001228,desktop,Aragon,1,A$0.00
+001228,mobile,Australian Capital Territory,1,A$0.00
+001228,mobile,New South Wales,16,A$0.00
+001228,mobile,Queensland,13,A$0.00
+001228,mobile,South Australia,6,A$0.00
+001228,mobile,Victoria,20,A$0.00
+001228,mobile,Western Australia,2,A$0.00
+001228,tablet,New South Wales,4,A$236.00
+001228,tablet,South Australia,1,A$0.00
+001228,tablet,Victoria,3,A$0.00
+001228,tablet,Auckland,1,A$0.00
+001229,desktop,New South Wales,7,A$664.48
+001229,desktop,Queensland,5,A$0.00
+001229,desktop,Victoria,11,A$106.00
+001229,desktop,Western Australia,1,A$0.00
+001229,desktop,England,1,A$0.00
+001229,mobile,Australian Capital Territory,1,A$0.00
+001229,mobile,New South Wales,20,A$0.00
+001229,mobile,Queensland,4,A$0.00
+001229,mobile,South Australia,1,A$0.00
+001229,mobile,Victoria,21,A$445.00
+001229,mobile,Hawke's Bay,1,A$0.00
+001229,tablet,New South Wales,3,A$0.00
+001229,tablet,Queensland,3,A$0.00
+001229,tablet,Victoria,6,A$0.00
+001230,desktop,Australian Capital Territory,1,A$0.00
+001230,desktop,New South Wales,10,A$0.00
+001230,desktop,Queensland,7,A$0.00
+001230,desktop,South Australia,2,A$0.00
+001230,desktop,Victoria,10,A$0.00
+001230,desktop,Western Australia,2,A$0.00
+001230,desktop,England,1,A$0.00
+001230,desktop,Karnataka,1,A$0.00
+001230,desktop,Canterbury,1,A$0.00
+001230,mobile,Australian Capital Territory,1,A$0.00
+001230,mobile,New South Wales,19,A$0.00
+001230,mobile,Queensland,2,A$0.00
+001230,mobile,South Australia,2,A$0.00
+001230,mobile,Victoria,8,A$0.00
+001230,mobile,Western Australia,1,A$0.00
+001230,mobile,Quebec,1,A$0.00
+001230,tablet,New South Wales,1,A$0.00
+001230,tablet,Queensland,2,A$0.00
+001230,tablet,Western Australia,3,A$0.00
+001231,desktop,Australian Capital Territory,2,A$0.00
+001231,desktop,New South Wales,9,A$192.00
+001231,desktop,Queensland,1,A$0.00
+001231,desktop,South Australia,1,A$0.00
+001231,desktop,Victoria,5,A$0.00
+001231,desktop,Western Australia,4,A$0.00
+001231,desktop,Auckland,1,A$0.00
+001231,mobile,New South Wales,21,A$0.00
+001231,mobile,Queensland,5,A$0.00
+001231,mobile,South Australia,2,A$0.00
+001231,mobile,Victoria,9,A$0.00
+001231,mobile,Western Australia,11,A$0.00
+001231,mobile,Auckland,1,A$0.00
+001231,mobile,Canterbury,1,A$0.00
+001231,tablet,New South Wales,7,A$0.00
+001231,tablet,Victoria,7,A$0.00
+001231,tablet,Western Australia,1,A$0.00
+001232,desktop,Australian Capital Territory,1,A$0.00
+001232,desktop,New South Wales,8,A$0.00
+001232,desktop,Queensland,5,A$0.00
+001232,desktop,South Australia,1,A$0.00
+001232,desktop,Victoria,7,A$0.00
+001232,desktop,Western Australia,1,A$0.00
+001232,mobile,New South Wales,13,A$0.00
+001232,mobile,Queensland,4,A$0.00
+001232,mobile,Victoria,14,A$298.00
+001232,mobile,Ile-de-France,1,A$0.00
+001232,mobile,Maharashtra,1,A$0.00
+001232,tablet,New South Wales,4,A$0.00
+001232,tablet,Queensland,1,A$0.00
+001232,tablet,Victoria,6,A$290.00
+001232,tablet,Western Australia,1,A$0.00
+001233,desktop,New South Wales,5,A$178.00
+001233,desktop,Queensland,2,A$0.00
+001233,desktop,South Australia,2,A$0.00
+001233,desktop,Victoria,18,A$0.00
+001233,desktop,Western Australia,3,A$0.00
+001233,desktop,Auckland,1,A$0.00
+001233,desktop,New Jersey,1,A$0.00
+001233,mobile,Australian Capital Territory,1,A$0.00
+001233,mobile,New South Wales,9,A$0.00
+001233,mobile,Queensland,4,A$404.00
+001233,mobile,South Australia,7,A$0.00
+001233,mobile,Victoria,15,A$0.00
+001233,mobile,Western Australia,3,A$0.00
+001233,mobile,Auckland,1,A$0.00
+001233,mobile,Cairo Governorate,1,A$0.00
+001233,tablet,New South Wales,1,A$0.00
+001233,tablet,Queensland,6,A$0.00
+001233,tablet,Victoria,4,A$0.00
+001234,desktop,Australian Capital Territory,2,A$0.00
+001234,desktop,New South Wales,10,A$0.00
+001234,desktop,Queensland,3,A$0.00
+001234,desktop,Tasmania,1,A$0.00
+001234,desktop,Victoria,8,A$0.00
+001234,desktop,England,1,A$0.00
+001234,mobile,Australian Capital Territory,1,A$0.00
+001234,mobile,New South Wales,19,A$0.00
+001234,mobile,Queensland,1,A$0.00
+001234,mobile,South Australia,1,A$0.00
+001234,mobile,Tasmania,1,A$0.00
+001234,mobile,Victoria,12,A$64.00
+001234,mobile,Western Australia,3,A$0.00
+001234,mobile,Otago,1,A$0.00
+001234,mobile,County Dublin,1,A$0.00
+001234,tablet,New South Wales,1,A$0.00
+001234,tablet,Queensland,3,A$140.00
+001234,tablet,South Australia,1,A$0.00
+001234,tablet,Victoria,4,A$0.00
+001235,desktop,New South Wales,13,A$0.00
+001235,desktop,Queensland,3,A$0.00
+001235,desktop,South Australia,1,A$0.00
+001235,desktop,Victoria,9,A$86.00
+001235,desktop,Western Australia,2,A$0.00
+001235,mobile,New South Wales,18,A$0.00
+001235,mobile,Queensland,2,A$0.00
+001235,mobile,South Australia,1,A$0.00
+001235,mobile,Victoria,9,A$0.00
+001235,mobile,Western Australia,3,A$0.00
+001235,mobile,Ontario,1,A$0.00
+001235,mobile,Manawatu-Wanganui,1,A$0.00
+001235,tablet,Australian Capital Territory,1,A$0.00
+001235,tablet,New South Wales,4,A$0.00
+001235,tablet,Victoria,6,A$0.00
+001236,desktop,(not set),2,A$0.00
+001236,desktop,New South Wales,7,A$0.00
+001236,desktop,Queensland,3,A$175.00
+001236,desktop,South Australia,1,A$0.00
+001236,desktop,Victoria,10,A$0.00
+001236,desktop,Western Australia,1,A$0.00
+001236,desktop,England,1,A$0.00
+001236,desktop,Haryana,1,A$0.00
+001236,desktop,Auckland,1,A$0.00
+001236,desktop,Taranaki,1,A$0.00
+001236,mobile,New South Wales,16,A$0.00
+001236,mobile,Queensland,3,A$0.00
+001236,mobile,South Australia,2,A$0.00
+001236,mobile,Tasmania,1,A$0.00
+001236,mobile,Victoria,25,A$189.00
+001236,mobile,Western Australia,3,A$0.00
+001236,tablet,New South Wales,4,A$0.00
+001236,tablet,Queensland,2,A$0.00
+001236,tablet,South Australia,2,A$0.00
+001236,tablet,Tasmania,1,A$0.00
+001236,tablet,Victoria,4,A$0.00
+001236,tablet,Western Australia,1,A$0.00
+001237,desktop,Australian Capital Territory,1,A$0.00
+001237,desktop,New South Wales,8,A$360.00
+001237,desktop,Queensland,1,A$0.00
+001237,desktop,Victoria,3,A$125.00
+001237,desktop,Western Australia,2,A$0.00
+001237,mobile,New South Wales,20,A$125.00
+001237,mobile,Queensland,1,A$0.00
+001237,mobile,South Australia,3,A$0.00
+001237,mobile,Tasmania,1,A$0.00
+001237,mobile,Victoria,12,A$0.00
+001237,mobile,Western Australia,2,A$0.00
+001237,mobile,Auckland,1,A$0.00
+001237,tablet,New South Wales,5,A$0.00
+001237,tablet,South Australia,1,A$0.00
+001237,tablet,Victoria,4,A$0.00
+001238,desktop,New South Wales,8,A$0.00
+001238,desktop,Queensland,2,A$102.00
+001238,desktop,South Australia,3,A$0.00
+001238,desktop,Victoria,6,A$0.00
+001238,desktop,Western Australia,5,A$0.00
+001238,desktop,Hamburg,0,A$350.00
+001238,desktop,England,1,A$0.00
+001238,desktop,Auckland,1,A$0.00
+001238,desktop,New Jersey,2,A$0.00
+001238,mobile,New South Wales,17,A$0.00
+001238,mobile,Queensland,5,A$0.00
+001238,mobile,Victoria,9,A$0.00
+001238,mobile,Auckland,1,A$0.00
+001238,tablet,New South Wales,1,A$0.00
+001238,tablet,Victoria,4,A$0.00
+001239,desktop,Australian Capital Territory,1,A$0.00
+001239,desktop,New South Wales,4,A$0.00
+001239,desktop,Queensland,3,A$0.00
+001239,desktop,Victoria,11,A$280.00
+001239,desktop,Western Australia,4,A$0.00
+001239,desktop,Tokyo,1,A$0.00
+001239,desktop,Auckland,2,A$0.00
+001239,mobile,Australian Capital Territory,1,A$0.00
+001239,mobile,New South Wales,16,A$0.00
+001239,mobile,Queensland,6,A$167.16
+001239,mobile,Victoria,14,A$136.00
+001239,mobile,Western Australia,2,A$0.00
+001239,tablet,New South Wales,5,A$0.00
+001239,tablet,Queensland,1,A$0.00
+001239,tablet,South Australia,1,A$0.00
+001239,tablet,Victoria,4,A$0.00
+001240,desktop,Australian Capital Territory,1,A$0.00
+001240,desktop,New South Wales,9,A$0.00
+001240,desktop,Queensland,2,A$0.00
+001240,desktop,South Australia,1,A$0.00
+001240,desktop,Victoria,4,A$0.00
+001240,desktop,Western Australia,2,A$0.00
+001240,desktop,Lombardy,1,A$0.00
+001240,mobile,New South Wales,27,A$0.00
+001240,mobile,Queensland,7,A$0.00
+001240,mobile,South Australia,3,A$0.00
+001240,mobile,Victoria,11,A$0.00
+001240,mobile,Western Australia,7,A$0.00
+001240,mobile,Auckland,1,A$0.00
+001240,tablet,New South Wales,1,A$0.00
+001240,tablet,Queensland,2,A$0.00
+001240,tablet,Victoria,4,A$0.00
+001241,desktop,New South Wales,8,A$0.00
+001241,desktop,Queensland,1,A$0.00
+001241,desktop,Victoria,10,A$80.00
+001241,desktop,Western Australia,2,A$0.00
+001241,mobile,New South Wales,14,A$0.00
+001241,mobile,Northern Territory,1,A$0.00
+001241,mobile,Queensland,1,A$0.00
+001241,mobile,Victoria,11,A$0.00
+001241,mobile,Western Australia,0,A$134.00
+001241,mobile,Bay Of Plenty,1,A$0.00
+001241,tablet,New South Wales,3,A$0.00
+001241,tablet,South Australia,1,A$0.00
+001241,tablet,Victoria,5,A$0.00
+001242,desktop,(not set),1,A$0.00
+001242,desktop,New South Wales,4,A$0.00
+001242,desktop,Queensland,4,A$0.00
+001242,desktop,South Australia,2,A$0.00
+001242,desktop,Victoria,6,A$340.00
+001242,desktop,Western Australia,2,A$0.00
+001242,desktop,Karnataka,1,A$0.00
+001242,mobile,New South Wales,10,A$0.00
+001242,mobile,Queensland,2,A$0.00
+001242,mobile,South Australia,2,A$0.00
+001242,mobile,Victoria,17,A$0.00
+001242,mobile,Western Australia,2,A$0.00
+001242,tablet,New South Wales,1,A$0.00
+001242,tablet,Queensland,1,A$0.00
+001242,tablet,Victoria,2,A$0.00
+001243,desktop,Australian Capital Territory,2,A$0.00
+001243,desktop,New South Wales,4,A$0.00
+001243,desktop,Queensland,6,A$0.00
+001243,desktop,Victoria,4,A$200.00
+001243,desktop,Western Australia,2,A$0.00
+001243,desktop,Auckland,1,A$0.00
+001243,desktop,Metro Manila,1,A$0.00
+001243,mobile,Australian Capital Territory,2,A$0.00
+001243,mobile,New South Wales,17,A$0.00
+001243,mobile,Queensland,2,A$0.00
+001243,mobile,South Australia,4,A$0.00
+001243,mobile,Victoria,11,A$0.00
+001243,mobile,Western Australia,1,A$0.00
+001243,tablet,New South Wales,6,A$0.00
+001243,tablet,Queensland,0,A$258.00
+001243,tablet,South Australia,1,A$0.00
+001243,tablet,Victoria,6,A$0.00
+001243,tablet,Western Australia,1,A$0.00
+001244,desktop,Australian Capital Territory,1,A$0.00
+001244,desktop,New South Wales,9,A$78.00
+001244,desktop,Queensland,1,A$0.00
+001244,desktop,Victoria,11,A$0.00
+001244,desktop,Western Australia,1,A$0.00
+001244,mobile,New South Wales,20,A$0.00
+001244,mobile,Queensland,7,A$0.00
+001244,mobile,South Australia,1,A$0.00
+001244,mobile,Victoria,23,A$258.34
+001244,mobile,Western Australia,1,A$0.00
+001244,mobile,Hyogo Prefecture,1,A$0.00
+001244,mobile,Wellington,1,A$0.00
+001244,tablet,New South Wales,3,A$0.00
+001244,tablet,Queensland,1,A$0.00
+001244,tablet,Victoria,4,A$0.00
+001245,desktop,New South Wales,7,A$0.00
+001245,desktop,Queensland,1,A$0.00
+001245,desktop,Victoria,5,A$155.00
+001245,desktop,Western Australia,2,A$0.00
+001245,desktop,Karnataka,1,A$0.00
+001245,mobile,New South Wales,13,A$0.00
+001245,mobile,Northern Territory,1,A$0.00
+001245,mobile,Queensland,8,A$0.00
+001245,mobile,South Australia,4,A$0.00
+001245,mobile,Victoria,20,A$0.00
+001245,mobile,Western Australia,1,A$0.00
+001245,mobile,England,1,A$0.00
+001245,tablet,New South Wales,2,A$0.00
+001245,tablet,Victoria,8,A$0.00
+001246,desktop,New South Wales,6,A$0.00
+001246,desktop,Queensland,4,A$0.00
+001246,desktop,South Australia,1,A$0.00
+001246,desktop,Victoria,2,A$147.91
+001246,desktop,Western Australia,2,A$0.00
+001246,desktop,Vaud,1,A$0.00
+001246,desktop,England,1,A$0.00
+001246,desktop,Wellington,1,A$0.00
+001246,desktop,Western Visayas,1,A$0.00
+001246,mobile,(not set),1,A$0.00
+001246,mobile,New South Wales,12,A$0.00
+001246,mobile,Queensland,5,A$132.00
+001246,mobile,South Australia,2,A$0.00
+001246,mobile,Victoria,20,A$80.00
+001246,mobile,Manawatu-Wanganui,1,A$0.00
+001246,mobile,Taranaki,1,A$0.00
+001246,mobile,Prague,1,A$0.00
+001246,tablet,New South Wales,2,A$0.00
+001246,tablet,Queensland,2,A$0.00
+001246,tablet,Victoria,5,A$198.00
+001246,tablet,Western Australia,1,A$0.00
+001246,tablet,Gauteng,1,A$0.00
+001247,desktop,New South Wales,7,A$692.00
+001247,desktop,Queensland,2,A$0.00
+001247,desktop,South Australia,1,A$0.00
+001247,desktop,Victoria,5,A$318.56
+001247,desktop,Western Australia,1,A$0.00
+001247,desktop,Auckland,1,A$0.00
+001247,mobile,New South Wales,16,A$0.00
+001247,mobile,Queensland,4,A$0.00
+001247,mobile,Victoria,13,A$588.00
+001247,mobile,Western Australia,3,A$0.00
+001247,mobile,Ile-de-France,1,A$0.00
+001247,mobile,Auckland,1,A$0.00
+001247,tablet,New South Wales,5,A$0.00
+001247,tablet,South Australia,1,A$0.00
+001247,tablet,Victoria,8,A$0.00
+001248,desktop,New South Wales,6,A$90.17
+001248,desktop,South Australia,1,A$0.00
+001248,desktop,Victoria,14,A$0.00
+001248,desktop,Western Australia,3,A$0.00
+001248,desktop,England,1,A$0.00
+001248,desktop,Tehran,1,A$0.00
+001248,mobile,Australian Capital Territory,3,A$0.00
+001248,mobile,New South Wales,18,A$0.00
+001248,mobile,Queensland,6,A$0.00
+001248,mobile,South Australia,3,A$0.00
+001248,mobile,Victoria,21,A$214.00
+001248,mobile,Western Australia,2,A$0.00
+001248,mobile,Auckland,1,A$0.00
+001248,tablet,New South Wales,1,A$334.32
+001248,tablet,Queensland,1,A$0.00
+001248,tablet,Victoria,2,A$0.00
+001249,desktop,New South Wales,10,A$0.00
+001249,desktop,Queensland,1,A$0.00
+001249,desktop,Victoria,4,A$0.00
+001249,desktop,Western Australia,4,A$0.00
+001249,desktop,Ontario,1,A$0.00
+001249,desktop,England,1,A$0.00
+001249,mobile,(not set),1,A$0.00
+001249,mobile,New South Wales,8,A$0.00
+001249,mobile,Queensland,6,A$0.00
+001249,mobile,Victoria,27,A$890.00
+001249,mobile,Western Australia,5,A$0.00
+001249,mobile,Auckland,1,A$0.00
+001249,tablet,New South Wales,3,A$0.00
+001249,tablet,Queensland,5,A$0.00
+001249,tablet,South Australia,2,A$0.00
+001249,tablet,Victoria,6,A$0.00
+001250,desktop,Australian Capital Territory,1,A$0.00
+001250,desktop,New South Wales,7,A$0.00
+001250,desktop,Queensland,1,A$0.00
+001250,desktop,Victoria,6,A$0.00
+001250,desktop,Western Australia,1,A$0.00
+001250,mobile,(not set),1,A$0.00
+001250,mobile,New South Wales,9,A$140.00
+001250,mobile,Queensland,4,A$0.00
+001250,mobile,Victoria,13,A$0.00

@@ -1,0 +1,23 @@
+/* var allTextLines = data.split(/\r\n|\n/);
+  var headers = allTextLines[0].split(',');
+  var lines = [];
+  var num =1;
+    for (var i=0; i<1440; i++) {
+        var data = allTextLines[num].split(',');
+        if (data.length == headers.length) {
+            var tarr = [];
+           data[1] = parseInt(data[1])
+           if(i==parseInt(data[0])){
+            num++;
+            minNum = minNum == null || minNum > data[1] ? data[1]: minNum;
+            maxNum = maxNum == null || maxNum < data[1] ? data[1]: maxNum;
+            tarr.push(parseInt(data[0]));
+            tarr.push(data[1]);
+            lines.push(tarr);
+          }else{
+            minNum=0;
+            lines.push([num,0]);
+          }
+        }
+    }
+    sessionsData = lines;*/

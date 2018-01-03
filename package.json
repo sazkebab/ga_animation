@@ -1,0 +1,23 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@std/esm": "^0.18.0",
+    "ejs": "^1.0.0",
+    "express": "^4.6.1",
+    "react-native-fs": "^2.9.6",
+    "react-native-sound": "^0.10.4",
+    "react-orchestra": "^0.4.0",
+    "realm": "^2.1.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}

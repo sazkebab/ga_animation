@@ -1,0 +1,65 @@
+<!-- views/pages/index.ejs -->
+
+<!DOCTYPE html>
+<head>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    var $ = jQuery;
+</script>
+
+</head>
+<body>
+    <div id="chart_div"></div>
+    
+    <div id="counter"></div>
+</body>
+<!-- Identify where the chart should be drawn. -->
+  
+
+  
+  
+<script type="text/javascript">
+    var chartDiv = document.getElementById('chart_div');
+    var count = 0;
+    var data, materialChart, materialOptions, timer, sessionsData, maxNum, minNum ;
+    var bg = new Audio('/resources/background.wav');
+    bg.loop = true;
+    google.charts.load('current', {'packages':['line', 'corechart']});
+    google.charts.setOnLoadCallback(setupChart);
+    
+    function setupChart() {
+        data = new google.visualization.DataTable();
+        data.addColumn('number', 'Minute');
+        data.addColumn('number', "Sessions");
+        materialChart = new google.visualization.LineChart(chartDiv);
+        drawChart();
+    }
+    
+    function drawChart() {
+        $.get('/getNewData', function(jsonObj) {
+            count = jsonObj.counter;
+            sessionsData = jsonObj.sessionsData;
+            if (count==1){
+                data.addRow(sessionsData);
+                setVolume(sessionsData);
+                materialChart.draw(data, materialOptions);
+                bg.play();
+            }else if(count<sessionsData.length){
+                data.insertRows(data.getNumberOfRows(),[sessionsData[count]]);
+                setVolume(sessionsData[count]);
+                count++;
+                materialChart.draw(data, materialOptions);
+            }else{
+                bg.pause();
+                clearInterval(timer);
+            }
+        });
+    }
+    
+   
+  
+
+</script>
+</html>
+
